@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop the Look - Fashion Review System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background-color: #fafafa;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 48px;
+            padding: 24px 0;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 300;
+            color: #111;
+            margin-bottom: 8px;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            color: #666;
+            margin-bottom: 24px;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 16px;
+            margin-bottom: 32px;
+            flex-wrap: wrap;
+        }
+
+        .filter-button, .export-button {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            font-size: 14px;
+        }
+
+        .filter-button {
+            background: white;
+            color: #333;
+            border: 2px solid #ddd;
+        }
+
+        .filter-button.active {
+            background: #111;
+            color: white;
+            border-color: #111;
+        }
+
+        .export-button {
+            background: #28a745;
+            color: white;
+            border: 2px solid #28a745;
+        }
+
+        .export-button:hover {
+            background: #218838;
+            border-color: #218838;
+        }
+
+        .export-button:disabled {
+            background: #6c757d;
+            border-color: #6c757d;
+            cursor: not-allowed;
+        }
+
+        .stats {
+            text-align: center;
+            margin-bottom: 24px;
+            font-size: 16px;
+            color: #666;
+        }
+
+        .stats strong {
+            color: #111;
+        }
+
+        .outfits-container {
+            display: grid;
+            gap: 48px;
+        }
+
+        .outfit-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            transition: box-shadow 0.3s ease;
+        }
+
+        .outfit-card:hover {
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+        }
+
+        .outfit-header {
+            padding: 24px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .outfit-title {
+            font-size: 1.5rem;
+            font-weight: 500;
+            color: #111;
+            margin-bottom: 8px;
+        }
+
+        .outfit-section {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 16px;
+            font-weight: 500;
+        }
+
+        .pinterest-section {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .pinterest-image {
+            width: 200px;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .pinterest-image:hover {
+            transform: scale(1.02);
+        }
+
+        .pinterest-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: #E60023;
+            text-decoration: none;
+            font-weight: 500;
+            transition: opacity 0.3s ease;
+        }
+
+        .pinterest-link:hover {
+            opacity: 0.8;
+        }
+
+        .pinterest-icon {
+            width: 20px;
+            height: 20px;
+            fill: #E60023;
+        }
+
+        .products-section {
+            padding: 24px;
+        }
+
+        .products-header {
+            font-size: 1.1rem;
+            font-weight: 500;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 20px;
+        }
+
+        .product-card {
+            background: #f8f8f8;
+            border-radius: 8px;
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .product-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .product-approval {
+            position: absolute;
+            top: 12px;
+            left: 12px;
+            z-index: 10;
+        }
+
+        .approval-checkbox {
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+            border: 2px solid white;
+            background: rgba(0, 0, 0, 0.7);
+            appearance: none;
+            cursor: pointer;
+            position: relative;
+            transition: all 0.3s ease;
+        }
+
+        .approval-checkbox:checked {
+            background: #28a745;
+            border-color: #28a745;
+        }
+
+        .approval-checkbox:checked::after {
+            content: '✓';
+            position: absolute;
+            top: -2px;
+            left: 2px;
+            color: white;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .product-image {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            background-color: #fff;
+        }
+
+        .product-info {
+            padding: 16px;
+        }
+
+        .product-brand {
+            font-size: 0.85rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 4px;
+        }
+
+        .product-title {
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: #111;
+            margin-bottom: 8px;
+            min-height: 2.5em;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .product-title.editable {
+            display: block;
+            -webkit-line-clamp: unset;
+            -webkit-box-orient: unset;
+            overflow: visible;
+            min-height: auto;
+            padding: 4px 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: white;
+            cursor: text;
+            transition: border-color 0.3s ease;
+        }
+
+        .product-title.editable:hover {
+            border-color: #999;
+        }
+
+        .product-title.editable:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+        }
+
+        .product-price {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #111;
+            margin-bottom: 8px;
+        }
+
+        .product-price.editable {
+            padding: 4px 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: white;
+            cursor: text;
+            transition: border-color 0.3s ease;
+            display: inline-block;
+            min-width: 80px;
+        }
+
+        .product-price.editable:hover {
+            border-color: #999;
+        }
+
+        .product-price.editable:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+        }
+
+        .edit-indicator {
+            font-size: 0.75rem;
+            color: #666;
+            font-style: italic;
+            margin-bottom: 4px;
+        }
+
+        .edit-controls {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 12px;
+            align-items: center;
+        }
+
+        .edit-toggle {
+            padding: 4px 8px;
+            font-size: 0.75rem;
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .edit-toggle:hover {
+            background: #e9ecef;
+        }
+
+        .edit-toggle.active {
+            background: #007bff;
+            color: white;
+            border-color: #007bff;
+        }
+
+        .edited-indicator {
+            color: #28a745;
+            font-size: 0.75rem;
+            font-weight: bold;
+        }
+
+        .availability-status {
+            margin-bottom: 12px;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            text-align: center;
+        }
+
+        .availability-status.available {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .availability-status.unavailable {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .availability-status.unknown {
+            background: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+        }
+
+        .stock-confidence {
+            font-size: 0.8rem;
+            color: #666;
+            margin-bottom: 8px;
+        }
+
+        .shop-button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #111;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 500;
+            transition: background-color 0.3s ease;
+        }
+
+        .shop-button:hover {
+            background-color: #333;
+        }
+
+        .shop-button:disabled {
+            background-color: #999;
+            cursor: not-allowed;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px;
+            font-size: 1.2rem;
+            color: #666;
+        }
+
+        .error {
+            text-align: center;
+            padding: 60px;
+            color: #e74c3c;
+            font-size: 1.1rem;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .controls {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .pinterest-section {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .pinterest-image {
+                width: 100%;
+                max-width: 300px;
+            }
+
+            .products-grid {
+                grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+                gap: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Fashion Review System</h1>
+            <p class="subtitle">Review and approve items from multiple collections</p>
+            
+            <div class="controls">
+                <button class="filter-button active" data-filter="all">All Collections</button>
+                <button class="filter-button" data-filter="celebrity">Celebrity Lookbook</button>
+                <button class="filter-button" data-filter="seasonal">Seasonal Capsules</button>
+                <button class="filter-button" data-filter="event">Event Ready</button>
+                <button class="filter-button" data-filter="everyday">Everyday Essentials</button>
+                <button class="filter-button" data-filter="available">Available Only</button>
+                <button class="filter-button" data-filter="approved">Approved Only</button>
+                <button class="filter-button" id="editModeBtn" onclick="toggleEditMode()">
+                    📝 Edit Mode: OFF
+                </button>
+                <button class="export-button" id="exportBtn" onclick="exportApprovedItems()">
+                    Export Approved Items
+                </button>
+            </div>
+
+            <div class="stats" id="stats">
+                Loading statistics...
+            </div>
+        </header>
+
+        <div id="content" class="loading">Loading collections...</div>
+    </div>
+
+    <script>
+        let allCollections = [];
+        let currentFilter = 'all';
+        let approvedItems = new Set();
+        let editedItems = new Map(); // Track edited items: productId -> {field: newValue}
+        let editMode = false;
+
+        const jsonFiles = [
+            { 
+                file: 'fin_output_celebrity_lookbook_backup_20250723_001525.json', 
+                category: 'celebrity',
+                displayName: 'Celebrity Lookbook'
+            },
+            { 
+                file: 'fin_output_seasonal_capsules.json', 
+                category: 'seasonal',
+                displayName: 'Seasonal Capsules'
+            },
+            { 
+                file: 'fin_output_event_ready_edits.json', 
+                category: 'event',
+                displayName: 'Event Ready'
+            },
+            { 
+                file: 'fin_output_everyday_essentials.json', 
+                category: 'everyday',
+                displayName: 'Everyday Essentials'
+            }
+        ];
+
+        async function loadAllCollections() {
+            const contentDiv = document.getElementById('content');
+            
+            try {
+                allCollections = [];
+                
+                for (const jsonFile of jsonFiles) {
+                    try {
+                        const response = await fetch(jsonFile.file);
+                        const data = await response.json();
+                        
+                        if (Array.isArray(data)) {
+                            data.forEach(section => {
+                                if (section.outfits && Array.isArray(section.outfits)) {
+                                    section.outfits.forEach(outfit => {
+                                        outfit._collection = jsonFile.category;
+                                        outfit._collectionName = jsonFile.displayName;
+                                        outfit._sectionHeader = section.header;
+                                        outfit._sectionSubHeader = section.sub_header;
+                                    });
+                                    allCollections = allCollections.concat(section.outfits);
+                                }
+                            });
+                        }
+                    } catch (error) {
+                        console.error(`Error loading ${jsonFile.file}:`, error);
+                    }
+                }
+                
+                if (allCollections.length === 0) {
+                    contentDiv.innerHTML = '<p class="error">No collections found</p>';
+                    return;
+                }
+
+                updateStats();
+                renderOutfits();
+                
+            } catch (error) {
+                console.error('Error loading collections:', error);
+                contentDiv.innerHTML = '<p class="error">Failed to load collections. Please try again later.</p>';
+            }
+        }
+
+        function updateStats() {
+            const totalItems = allCollections.reduce((sum, outfit) => 
+                sum + (outfit.shopping_results ? outfit.shopping_results.length : 0), 0);
+            
+            const availableItems = allCollections.reduce((sum, outfit) => {
+                if (!outfit.shopping_results) return sum;
+                return sum + outfit.shopping_results.filter(item => 
+                    item.stock_status && item.stock_status.is_available
+                ).length;
+            }, 0);
+
+                         const approvedItemsCount = approvedItems.size;
+            const editedItemsCount = editedItems.size;
+
+            document.getElementById('stats').innerHTML = `
+                <strong>${allCollections.length}</strong> outfits • 
+                <strong>${totalItems}</strong> total items • 
+                <strong>${availableItems}</strong> available • 
+                <strong>${approvedItemsCount}</strong> approved • 
+                <strong>${editedItemsCount}</strong> edited
+            `;
+
+            // Update export button
+            const exportBtn = document.getElementById('exportBtn');
+            exportBtn.disabled = approvedItemsCount === 0;
+            exportBtn.textContent = `Export ${approvedItemsCount} Approved Items`;
+        }
+
+        function renderOutfits() {
+            const contentDiv = document.getElementById('content');
+            let filteredOutfits = allCollections;
+
+            // Apply filters
+            if (currentFilter !== 'all') {
+                filteredOutfits = allCollections.filter(outfit => {
+                    switch (currentFilter) {
+                        case 'celebrity':
+                        case 'seasonal':
+                        case 'event':
+                        case 'everyday':
+                            return outfit._collection === currentFilter;
+                        case 'available':
+                            return outfit.shopping_results && 
+                                   outfit.shopping_results.some(item => 
+                                       item.stock_status && item.stock_status.is_available
+                                   );
+                        case 'approved':
+                            return outfit.shopping_results && 
+                                   outfit.shopping_results.some(item => 
+                                       approvedItems.has(item.product_id)
+                                   );
+                        default:
+                            return true;
+                    }
+                });
+            }
+
+            contentDiv.innerHTML = '';
+            contentDiv.className = 'outfits-container';
+
+            filteredOutfits.forEach((outfit, index) => {
+                const outfitCard = createOutfitCard(outfit, index);
+                contentDiv.appendChild(outfitCard);
+            });
+        }
+
+        function createOutfitCard(outfit, index) {
+            const card = document.createElement('div');
+            card.className = 'outfit-card';
+
+            const header = document.createElement('div');
+            header.className = 'outfit-header';
+
+            const title = document.createElement('h2');
+            title.className = 'outfit-title';
+            title.textContent = outfit.outfit_title || `Outfit ${index + 1}`;
+            header.appendChild(title);
+
+            if (outfit._collectionName || outfit._sectionHeader) {
+                const section = document.createElement('p');
+                section.className = 'outfit-section';
+                section.textContent = `${outfit._collectionName || ''} ${outfit._sectionHeader ? '• ' + outfit._sectionHeader : ''}`;
+                header.appendChild(section);
+            }
+
+            const pinterestSection = document.createElement('div');
+            pinterestSection.className = 'pinterest-section';
+
+            if (outfit.outfit_pinterest_img_url) {
+                const img = document.createElement('img');
+                img.className = 'pinterest-image';
+                img.src = outfit.outfit_pinterest_img_url;
+                img.alt = outfit.outfit_title || 'Outfit image';
+                img.loading = 'lazy';
+                
+                if (outfit.outfit_pinterest_url) {
+                    img.onclick = () => window.open(outfit.outfit_pinterest_url, '_blank');
+                }
+                
+                pinterestSection.appendChild(img);
+            }
+
+            if (outfit.outfit_pinterest_url) {
+                const linkContainer = document.createElement('div');
+                const link = document.createElement('a');
+                link.className = 'pinterest-link';
+                link.href = outfit.outfit_pinterest_url;
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+                link.innerHTML = `
+                    <svg class="pinterest-icon" viewBox="0 0 24 24">
+                        <path d="M12 0C5.373 0 0 5.372 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12 0-6.628-5.373-12-12-12z"/>
+                    </svg>
+                    View on Pinterest
+                `;
+                linkContainer.appendChild(link);
+                pinterestSection.appendChild(linkContainer);
+            }
+
+            header.appendChild(pinterestSection);
+            card.appendChild(header);
+
+            if (outfit.shopping_results && outfit.shopping_results.length > 0) {
+                const productsSection = document.createElement('div');
+                productsSection.className = 'products-section';
+
+                const availableCount = outfit.shopping_results.filter(item => 
+                    item.stock_status && item.stock_status.is_available
+                ).length;
+
+                const productsHeader = document.createElement('h3');
+                productsHeader.className = 'products-header';
+                productsHeader.textContent = `Shop ${outfit.shopping_results.length} items from this look (${availableCount} available)`;
+                productsSection.appendChild(productsHeader);
+
+                const productsGrid = document.createElement('div');
+                productsGrid.className = 'products-grid';
+
+                outfit.shopping_results.forEach(product => {
+                    const productCard = createProductCard(product);
+                    productsGrid.appendChild(productCard);
+                });
+
+                productsSection.appendChild(productsGrid);
+                card.appendChild(productsSection);
+            }
+
+            return card;
+        }
+
+        function createProductCard(product) {
+            const card = document.createElement('div');
+            card.className = 'product-card';
+
+            // Add approval checkbox
+            const approval = document.createElement('div');
+            approval.className = 'product-approval';
+            const checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.className = 'approval-checkbox';
+            checkbox.checked = approvedItems.has(product.product_id);
+            checkbox.onclick = (e) => {
+                e.stopPropagation();
+                toggleApproval(product.product_id);
+            };
+            approval.appendChild(checkbox);
+            card.appendChild(approval);
+
+            if (product.img_url) {
+                const img = document.createElement('img');
+                img.className = 'product-image';
+                img.src = product.img_url;
+                img.alt = product.title || 'Product image';
+                img.loading = 'lazy';
+                card.appendChild(img);
+            }
+
+            const info = document.createElement('div');
+            info.className = 'product-info';
+
+            // Edit controls (only show in edit mode)
+            if (editMode) {
+                const editControls = document.createElement('div');
+                editControls.className = 'edit-controls';
+                
+                const editIndicator = document.createElement('div');
+                editIndicator.className = 'edit-indicator';
+                editIndicator.textContent = 'Click fields to edit:';
+                editControls.appendChild(editIndicator);
+
+                if (editedItems.has(product.product_id)) {
+                    const editedIndicator = document.createElement('span');
+                    editedIndicator.className = 'edited-indicator';
+                    editedIndicator.textContent = '● EDITED';
+                    editControls.appendChild(editedIndicator);
+                }
+
+                info.appendChild(editControls);
+            }
+
+            if (product.brand) {
+                const brand = document.createElement('p');
+                brand.className = 'product-brand';
+                brand.textContent = product.brand;
+                info.appendChild(brand);
+            }
+
+            if (product.title) {
+                const title = document.createElement('h4');
+                title.className = 'product-title';
+                
+                // Get current value (edited or original)
+                const currentTitle = getEditedValue(product.product_id, 'title') || product.title;
+                title.textContent = currentTitle;
+                
+                if (editMode) {
+                    title.contentEditable = true;
+                    title.classList.add('editable');
+                    title.addEventListener('blur', () => {
+                        updateEditedItem(product.product_id, 'title', title.textContent);
+                    });
+                    title.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter') {
+                            e.preventDefault();
+                            title.blur();
+                        }
+                    });
+                }
+                
+                info.appendChild(title);
+            }
+
+            if (product.price) {
+                const price = document.createElement('p');
+                price.className = 'product-price';
+                
+                // Get current value (edited or original)
+                const currentPrice = getEditedValue(product.product_id, 'price') || product.price;
+                price.textContent = currentPrice;
+                
+                if (editMode) {
+                    price.contentEditable = true;
+                    price.classList.add('editable');
+                    price.addEventListener('blur', () => {
+                        updateEditedItem(product.product_id, 'price', price.textContent);
+                    });
+                    price.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter') {
+                            e.preventDefault();
+                            price.blur();
+                        }
+                    });
+                }
+                
+                info.appendChild(price);
+            }
+
+            // Add availability status
+            if (product.stock_status) {
+                const availability = document.createElement('div');
+                availability.className = `availability-status ${product.stock_status.is_available ? 'available' : 'unavailable'}`;
+                availability.textContent = product.stock_status.is_available ? 'Available' : 'Out of Stock';
+                info.appendChild(availability);
+
+                if (product.stock_status.confidence !== undefined) {
+                    const confidence = document.createElement('div');
+                    confidence.className = 'stock-confidence';
+                    confidence.textContent = `Confidence: ${(product.stock_status.confidence * 100).toFixed(0)}%`;
+                    info.appendChild(confidence);
+                }
+            } else {
+                const availability = document.createElement('div');
+                availability.className = 'availability-status unknown';
+                availability.textContent = 'Status Unknown';
+                info.appendChild(availability);
+            }
+
+            if (product.link) {
+                const shopButton = document.createElement('a');
+                shopButton.className = 'shop-button';
+                shopButton.href = product.link;
+                shopButton.target = '_blank';
+                shopButton.rel = 'noopener noreferrer';
+                shopButton.textContent = 'Shop Now';
+                
+                if (product.stock_status && !product.stock_status.is_available) {
+                    shopButton.style.opacity = '0.6';
+                    shopButton.textContent = 'View (Out of Stock)';
+                }
+                
+                info.appendChild(shopButton);
+            }
+
+            card.appendChild(info);
+
+            if (product.link) {
+                card.onclick = (e) => {
+                    if (e.target.type !== 'checkbox') {
+                        window.open(product.link, '_blank');
+                    }
+                };
+            }
+
+            return card;
+        }
+
+        function toggleApproval(productId) {
+            if (approvedItems.has(productId)) {
+                approvedItems.delete(productId);
+            } else {
+                approvedItems.add(productId);
+            }
+            updateStats();
+        }
+
+        function toggleEditMode() {
+            editMode = !editMode;
+            const editBtn = document.getElementById('editModeBtn');
+            editBtn.textContent = `📝 Edit Mode: ${editMode ? 'ON' : 'OFF'}`;
+            editBtn.classList.toggle('active', editMode);
+            renderOutfits(); // Re-render to show/hide edit controls
+        }
+
+        function getEditedValue(productId, field) {
+            const edits = editedItems.get(productId);
+            return edits ? edits[field] : null;
+        }
+
+        function updateEditedItem(productId, field, newValue) {
+            if (!editedItems.has(productId)) {
+                editedItems.set(productId, {});
+            }
+            
+            const edits = editedItems.get(productId);
+            
+            // Find the original value to compare
+            const originalProduct = findProductById(productId);
+            const originalValue = originalProduct ? originalProduct[field] : null;
+            
+            if (newValue !== originalValue) {
+                edits[field] = newValue;
+            } else {
+                // If value matches original, remove the edit
+                delete edits[field];
+                if (Object.keys(edits).length === 0) {
+                    editedItems.delete(productId);
+                }
+            }
+            
+            updateStats();
+        }
+
+        function findProductById(productId) {
+            for (const outfit of allCollections) {
+                if (outfit.shopping_results) {
+                    for (const product of outfit.shopping_results) {
+                        if (product.product_id === productId) {
+                            return product;
+                        }
+                    }
+                }
+            }
+            return null;
+        }
+
+        function applyEditsToProduct(product) {
+            const edits = editedItems.get(product.product_id);
+            if (edits) {
+                // Create a copy of the product with edits applied
+                const editedProduct = { ...product };
+                Object.assign(editedProduct, edits);
+                return editedProduct;
+            }
+            return product;
+        }
+
+        function exportApprovedItems() {
+            if (approvedItems.size === 0) {
+                alert('No items have been approved for export.');
+                return;
+            }
+
+            const approvedData = [];
+            
+            allCollections.forEach(outfit => {
+                if (!outfit.shopping_results) return;
+                
+                const approvedProducts = outfit.shopping_results
+                    .filter(product => approvedItems.has(product.product_id))
+                    .map(product => applyEditsToProduct(product)); // Apply any edits
+                
+                if (approvedProducts.length > 0) {
+                    approvedData.push({
+                        header: outfit._sectionHeader || outfit._collectionName,
+                        sub_header: outfit._sectionSubHeader || `Approved items from ${outfit._collectionName}`,
+                        outfits: [{
+                            outfit_title: outfit.outfit_title,
+                            outfit_pinterest_img_url: outfit.outfit_pinterest_img_url,
+                            outfit_pinterest_url: outfit.outfit_pinterest_url,
+                            shopping_results: approvedProducts,
+                            _collection: outfit._collection,
+                            _collectionName: outfit._collectionName,
+                            _sectionHeader: outfit._sectionHeader,
+                            _sectionSubHeader: outfit._sectionSubHeader
+                        }]
+                    });
+                }
+            });
+
+            // Create and download the file
+            const dataStr = JSON.stringify(approvedData, null, 2);
+            const dataBlob = new Blob([dataStr], { type: 'application/json' });
+            const url = URL.createObjectURL(dataBlob);
+            
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `approved_items_${new Date().toISOString().slice(0, 19).replace(/:/g, '-')}.json`;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+
+            const editedCount = editedItems.size;
+            const message = editedCount > 0 
+                ? `Successfully exported ${approvedItems.size} approved items (${editedCount} with edits)!`
+                : `Successfully exported ${approvedItems.size} approved items!`;
+            alert(message);
+        }
+
+        // Filter button functionality
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.filter-button').forEach(button => {
+                button.addEventListener('click', () => {
+                    document.querySelectorAll('.filter-button').forEach(b => b.classList.remove('active'));
+                    button.classList.add('active');
+                    currentFilter = button.dataset.filter;
+                    renderOutfits();
+                });
+            });
+
+            loadAllCollections();
+        });
+    </script>
+</body>
+</html> 

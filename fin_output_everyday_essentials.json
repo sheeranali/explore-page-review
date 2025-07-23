@@ -1,0 +1,149 @@
+[
+  {
+    "header": "Desk-to-Dinner Office Wear",
+    "sub_header": "Everyday Essentials",
+    "outfits": [
+      {
+        "outfit_title": "Corporate Chic",
+        "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//53128470598638566_20250720_011919.jpg?Expires=1758138560&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=dxK0AkZ5Hu2nuGPJfU%2F5pHD%2Bo%2F7ft8zf4Um0MBY3rhFnzWQsg6%2Fpq%2BNPPXp99bY5NsLoDERQcJl5860i%2FLgPvdgXZMyHgUBZpiTSrZx2a0odWGimBsNKT7nq5rveZxmYIqX%2BRDog0DLmJXt1m%2FKijFzx6xlzXOJVV3BdKSs57BoDtYk7bu09BCaSPRpUDx1rRMD5kAjCgcyP1jPqiMe%2BSHeqDn%2FHFOzT%2BVwDHiwp7aMwy9ZnYU0OUNcJPmG%2BetBfhF2boa2Jp7r34Cja3qvwe%2FzUvm1YGoyPBNyjIqQaNXEsMgH1xG3bgvISjoUE%2BKC6z6GptZcNPrn8jO6%2FxHrkhQ%3D%3D",
+        "outfit_pinterest_url": "https://pinterest.com/pin/53128470598638566",
+        "shopping_results": [
+          {
+            "product_id": "discovery_20250719_test_0036",
+            "title": "Women's Buttoned Flowy Shirt",
+            "source": "Macy's",
+            "price": "$42*",
+            "retailer": "Macy's",
+            "link": "https://www.macys.com/shop/product/mango-womens-buttoned-flowy-shirt?ID=17836519",
+            "img_url": "https://storage.googleapis.com/discovery_feed_data/20250720/pin_images//discovery_20250719_test_0036_20250720_011935.jpg?Expires=1758138575&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=BtK59HiAM09Xczf8dgcLdcWnen5V9EPVxhYd4xMqIi9tfH%2FVtggvTt7lOvnDaCzRsL0V%2BMzXTowlB%2FgZLef4%2BG18vks48g2pU0%2FhondGbh1jftpsdqr03ibfXvTIiUj5asqmmTYihEXOpwJj2zo8f098x68NJYf3YrLPJy%2FfwXacuhQwD2CP7B5GUVdnTxm%2BCToIl6RyDPps3ZWa1y7C0nZ0i1BSfZGDN4%2Fnpq7QA8X8Z64DTxDfKyGJoGaTGeKcsCsOq5wLlhxg74Y0lvgUscIkbefj4cnXocIVZLON3My5cqv%2B%2BAtN1j8L4RV3QgGFOFN5tkZKekwztMAHWi4SNA%3D%3D",
+            "brand": "MANGO",
+            "garment_type": "tops",
+            "stock_status": {
+              "is_available": false,
+              "confidence": 0.9,
+              "reason": "All variants/sizes appear to be unavailable for purchase, as there's no indication of available options or any purchase buttons on the page.",
+              "last_checked": "2025-07-23T00:15:25.938992"
+            }
+          },
+          {
+            "product_id": "discovery_20250719_test_0037",
+            "title": "Women's Stretchy Midi Pencil Skirt",
+            "source": "Amazon.com",
+            "price": "$17*",
+            "retailer": "Amazon.com",
+            "link": "https://www.amazon.com/SSOULM-Womens-Stretchy-Fitted-Pencil/dp/B07NLJVXHV",
+            "img_url": "https://storage.googleapis.com/discovery_feed_data/20250720/pin_images//discovery_20250719_test_0037_20250720_011948.jpg?Expires=1758138588&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=RcgsNi4K9ffwZelDZ5wRk1nx%2F4pbuAzik77zqcrDOlYLyzRG5er7cayHMvRIgDI0nrP93fd1NTfeLZ%2BSAs90Lo95%2BywdREuF9sHYyt4u2yJR%2F36sNpycxLcQ6MVWRwOnJ%2Bg5eefJSGmsRk8wF6wkqG0w1%2BnF4Rzy1rM71vASMsclngNuvT5E4KJ0oOWym8X3%2BQDazWzZR4WnZ7ujXh0DL98womDLPmWegmOHOeJodoodkGqkTLEm80VBMq5g3KusoI7gdbzRpvxWeKN0q8uW%2BW%2ByF1qlPyaqFIlOP34Xdenh2mxoDKqrMF4z2U4JM0y1tXGqA531Bf2QWJlQApo9mg%3D%3D",
+            "brand": "SSOULM",
+            "garment_type": "bottoms",
+            "stock_status": {
+              "is_available": false,
+              "confidence": 1.0,
+              "reason": "The content indicates a navigation or error page redirect without any product details indicating availability or purchasability.",
+              "last_checked": "2025-07-23T00:15:25.938992"
+            }
+          },
+          {
+            "product_id": "discovery_20250719_test_0038",
+            "title": "Peel & Stick Floor Tiles",
+            "source": "Amazon.com",
+            "price": "$17*",
+            "retailer": "Amazon.com",
+            "link": "https://www.amazon.com/FloorPops-Cameron-Stick-Floor-Tiles/dp/B09V6YXMW8",
+            "img_url": "https://storage.googleapis.com/discovery_feed_data/20250720/pin_images//discovery_20250719_test_0038_20250720_012020.jpg?Expires=1758138621&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=CzUhflNKc%2FbhkSa5tqsRghgthC%2BhSgM0itIPwOo3SzFkMyTBETV573KQBqHNF8m72m9%2Bjtfo0hRRYyo0axdl%2F3SwL6Bg7UtF9lsYsoFSyLgQ3E7r3GdPzTTbtcAnBiUbwSYXb0eaoMSj0722QuQNpn9cWpT443iL9qPUJ8Th16WfECtK61wSNASY71wB2nMTAEaJJ%2BIxmRIz%2BAlLLfUmQAf02QISJGe3HOLnbwqQg9RwE%2B8HajGKL3BwqUJogFKugs0bd4RtMbEleytuYHqAyIJE1LRe0mvxG9Et%2BMvlztG7CcbTSoX8Og0GW2uYWR7t%2FO4OUW4ZqS4aBtbSRdMhIQ%3D%3D",
+            "brand": "FloorPops",
+            "garment_type": "footwear",
+            "stock_status": {
+              "is_available": false,
+              "confidence": 1.0,
+              "reason": "The scraped content does not provide any information about a specific product's availability, and it suggests a general message about continuing shopping instead, indicating the item may not be listed.",
+              "last_checked": "2025-07-23T00:15:25.938992"
+            }
+          }
+        ]
+      }
+    ],
+    "num_outfits": 1
+  },
+  {
+    "header": "Gym-to-Brunch Athleisure",
+    "sub_header": "Everyday Essentials",
+    "outfits": [
+      {
+        "outfit_title": "Cozy Athleisure Vibes",
+        "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//617345061501341030_20250720_011720.jpg?Expires=1758138442&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=PNkNtqC5jEkOWg8PgC9w2uteRWQ%2FnOQgp41vakPdgDH%2BMcSVCzh9T52iJS5d0%2BvBN4ecQI7DIC7jw85zhPjG3zw8AYizgCRk6S3RgnZilHLVzySJXFmFhP8xmF7G%2BEuzs%2BD%2BX2ffcRa8RheG%2B%2FhEyYtEjV1QkwksNlgQQK%2BJ2Jiw0Tcz3bamMsDnBr0tCu1fn7rduOP90Nd2jg1mm5StDonPvTJ1%2FTqC8bQMow8RNtEfWhCNHCAVAIQ0yj4jLWoOiBB2Qy7tFL4fD7qxG9jJgGjEYrroKMlUCbSynEcbObrtJ53VMnfpBX0TrZsuj7lzRsKAzO6cAOEwnfOrBw2eMw%3D%3D",
+        "outfit_pinterest_url": "https://pinterest.com/pin/617345061501341030",
+        "shopping_results": [
+          {
+            "product_id": "discovery_20250719_test_0032",
+            "title": "Astraia Leggings Olive",
+            "source": "Richesszn",
+            "price": "$65*",
+            "retailer": "Richesszn",
+            "link": "https://richesszn.com/products/astraia-leggings-olive",
+            "img_url": "https://storage.googleapis.com/discovery_feed_data/20250720/pin_images//discovery_20250719_test_0032_20250720_011728.jpg?Expires=1758138450&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=DpNg%2FroeEv64yuIyCQB1NuqE%2BNd9JavyoqrYmrfM3lWm1uHVG2yasy4dSEltYiJzHp8n0iR1HobAFZWR9swGicTulENE0LoHvqEuqzk24H9Bezj3uXZkWABKMFql7il4VABaIRNFS3UsUjMdrzKLmxXdw9wkNATyCGOoRp6A%2Fd7Gsn%2B8m4JQQPv6S14MFYp%2FPMXGetZkerTCzgUDzgfBp2s6muETlEDZokvEmG737uP8a2LX3uMCOECv5c%2FKRP7SPgiUMvFgPc6ONS8kWpS%2F1JQN1TiJ1uA3qR0sXNZftEqW5iUY2G8IhpmkKEKwrs6N0tBOig5T3Sy%2F3mKPlaHkrA%3D%3D",
+            "brand": "Richesszn",
+            "garment_type": "bottoms",
+            "stock_status": {
+              "is_available": true,
+              "confidence": 0.9,
+              "reason": "The ASTRAIA LEGGINGS in Olive have a clear 'Add to cart' button and are priced at $65, indicating they are available for purchase. Although some sizes are sold out, the presence of the product variant options suggests that at least one size is available for purchase.",
+              "last_checked": "2025-07-23T00:15:25.938992"
+            }
+          },
+          {
+            "product_id": "discovery_20250719_test_0033",
+            "title": "Air Force 1 Blanca Mujer",
+            "source": "veinte doce",
+            "price": "COP 179,900*",
+            "retailer": "veinte doce",
+            "link": "https://veintedocetenis.com/products/air-force-1-blanca",
+            "img_url": "https://storage.googleapis.com/discovery_feed_data/20250720/pin_images//discovery_20250719_test_0033_20250720_011813.jpg?Expires=1758138494&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=H8zqlvfKDFnhBtfe7fmGL1WBkIryRLBsiu3bILewsvTthH%2FnXmyXHRqEDBBSIED%2FMnZcisA8jAfQFg6lnEEy0DIFuFUTt18rBiwswdHGJKa8q0f5zgR7YxCGiihl09GeBNw28T3cwo0TDi1EcsitMNTjTmtlshnBwIapi6HlA0%2BbhLw66GCxKDlm90yHJo1SNC%2BX4%2FhqRtPgOK3QQN6O4x4h%2Bs52HmhGo9l5m8BNqhGbyyhT0EZYFpXwyz08NGnWjvZXa65vVcDnxPvbgVIBtWgsPJzGLgjyipGr2BsBvehNf8pJBhlU4WgdXYOCA%2F68PgprL3hSUc02ksmAAqSofg%3D%3D",
+            "brand": "Nike",
+            "garment_type": "footwear",
+            "stock_status": {
+              "is_available": false,
+              "confidence": 0.9,
+              "reason": "All sizes/variants of the 'Air Force 1 - Blanca - Mujer' are marked as out of stock, indicating that the product cannot be purchased at this time.",
+              "last_checked": "2025-07-23T00:15:25.938992"
+            }
+          },
+          {
+            "product_id": "discovery_20250719_test_0034",
+            "title": "Nike Air Force 1 Low",
+            "source": "Amazon.com",
+            "price": "$98*",
+            "retailer": "Amazon.com",
+            "link": "https://www.amazon.com/Nike-Unisex-Adult-Force-Low-Top/dp/B0C7G3NR9Q",
+            "img_url": "https://storage.googleapis.com/discovery_feed_data/20250720/pin_images//discovery_20250719_test_0034_20250720_011832.jpg?Expires=1758138513&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=VUVn4CAFYE0mrdBgZnp38z7ac0q%2B88Re6ipe8%2FqLAjLARHeoJDm%2FdNOgE%2FeGFi16qJ%2BD0GSa85bNGbVtsSTBkkYH8fRImo74t9Zdya9wKE%2FR1AHbEDBknOxh76sLA4bW8mVz%2FAWmMPoXePJyiNjqUEz%2FXzovDFNu9SqH8VrmyOf%2BMU51j0cST0Xru%2FtShxCq1Kc4OYMePp2%2Bb4Gf2wGmcc6tB39T%2BDn9HrxQQayEXFR4Yu%2Bh1YX9GkwtLY2ONvNpsCdDa1m90%2FfEFrgUku%2BbJTL1OxYF1L%2Fh2BTXCkwxjfSrHopdY55XpyOOoAaXMlDXAHJBwVuOEYAlkdSEUlTH4A%3D%3D",
+            "brand": "Nike",
+            "garment_type": "footwear",
+            "stock_status": {
+              "is_available": false,
+              "confidence": 1.0,
+              "reason": "The scraped content indicates a generic shopping page without any specific product information. There are no details about the product, such as pricing or available sizes/variants, suggesting that the product is not accessible for purchase.",
+              "last_checked": "2025-07-23T00:15:25.938992"
+            }
+          },
+          {
+            "product_id": "discovery_20250719_test_0035",
+            "title": "La Casquette Jacquemus Cap",
+            "source": "Level Shoes",
+            "price": "OMR 46*",
+            "retailer": "Level Shoes",
+            "link": "https://en-oman.levelshoes.com/jacquemus-la-casquette-jacquemus-cap-beige-fabric-women-hats-nksdcb.html",
+            "img_url": "https://storage.googleapis.com/discovery_feed_data/20250720/pin_images//discovery_20250719_test_0035_20250720_011904.jpg?Expires=1758138547&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=WEpIuya82fbN4FLXsD%2FMUTdD%2FEjkaL6OpBSUKXFoPWgaIQ2AMhMW2WBBZ%2BHXyF8wZH6Lr0pqsClBkZEtR89wL%2Fr2ItfriBP17j8fwys92QpsJIMeSGVj0xNZg9tQgel5n9BSFQMpts8qooI7GTIORsby%2FAaNzE2mUWp%2BhQi0jZUqplV%2FA9P5v3lBOKgllb1lUZ6h80zO3rstJTWbUw2fHofMUuwEzQ7s6Secyklzukt%2Be0lT%2B6IddK%2FavdAN1yp8qIDvXvC2GUynhDmGy5Wv9up%2BNuoK85Kl%2FG1p0LjkKxh9ZPelyV6D%2BfBI7PA90c%2BASliAx0M1snKe5G7XTSN5xQ%3D%3D",
+            "brand": "Jacquemus",
+            "garment_type": "accessories",
+            "stock_status": {
+              "is_available": false,
+              "confidence": 1.0,
+              "reason": "The product 'La Casquette Jacquemus cap' is marked as 'Out Of Stock', indicating that all variants/sizes are completely sold out and it cannot be purchased.",
+              "last_checked": "2025-07-23T00:15:25.938992"
+            }
+          }
+        ]
+      }
+    ],
+    "num_outfits": 1
+  }
+]
