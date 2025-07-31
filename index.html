@@ -469,8 +469,8 @@
             <div class="controls">
                 <button class="filter-button active" data-filter="all">All Collections</button>
                 <button class="filter-button" data-filter="celebrity">Celebrity Lookbook</button>
-                <button class="filter-button" data-filter="seasonal">Seasonal Capsules</button>
-                <button class="filter-button" data-filter="event">Event Ready</button>
+                <!-- <button class="filter-button" data-filter="seasonal">Seasonal Capsules</button> -->
+                <!-- <button class="filter-button" data-filter="event">Event Ready</button> -->
                 <button class="filter-button" data-filter="everyday">Everyday Essentials</button>
                 <button class="filter-button" data-filter="available">Available Only</button>
                 <button class="filter-button" data-filter="approved">Approved Only</button>
@@ -499,19 +499,9 @@
 
         const jsonFiles = [
             { 
-                file: 'fin_output_celebrity_lookbook_backup_20250723_001525.json', 
+                file: 'fin_output_celebrity_lookbook.json', 
                 category: 'celebrity',
                 displayName: 'Celebrity Lookbook'
-            },
-            { 
-                file: 'fin_output_seasonal_capsules.json', 
-                category: 'seasonal',
-                displayName: 'Seasonal Capsules'
-            },
-            { 
-                file: 'fin_output_event_ready_edits.json', 
-                category: 'event',
-                displayName: 'Event Ready'
             },
             { 
                 file: 'fin_output_everyday_essentials.json', 
@@ -528,8 +518,10 @@
                 
                 for (const jsonFile of jsonFiles) {
                     try {
+                        console.log('Loading:', jsonFile.file);
                         const response = await fetch(jsonFile.file);
                         const data = await response.json();
+                        console.log('Loaded data:', data);
                         
                         if (Array.isArray(data)) {
                             data.forEach(section => {
@@ -554,6 +546,7 @@
                     return;
                 }
 
+                console.log('Total outfits loaded:', allCollections.length);
                 updateStats();
                 renderOutfits();
                 
@@ -564,31 +557,36 @@
         }
 
         function updateStats() {
-            const totalItems = allCollections.reduce((sum, outfit) => 
-                sum + (outfit.shopping_results ? outfit.shopping_results.length : 0), 0);
-            
-            const availableItems = allCollections.reduce((sum, outfit) => {
-                if (!outfit.shopping_results) return sum;
-                return sum + outfit.shopping_results.filter(item => 
-                    item.stock_status && item.stock_status.is_available
-                ).length;
-            }, 0);
+            try {
+                const totalItems = allCollections.reduce((sum, outfit) => 
+                    sum + (outfit.shopping_results ? outfit.shopping_results.length : 0), 0);
+                
+                const availableItems = allCollections.reduce((sum, outfit) => {
+                    if (!outfit.shopping_results) return sum;
+                    return sum + outfit.shopping_results.filter(item => 
+                        item.stock_status && item.stock_status.is_available
+                    ).length;
+                }, 0);
 
-                         const approvedItemsCount = approvedItems.size;
-            const editedItemsCount = editedItems.size;
+                const approvedItemsCount = approvedItems.size;
+                const editedItemsCount = editedItems.size;
 
-            document.getElementById('stats').innerHTML = `
-                <strong>${allCollections.length}</strong> outfits • 
-                <strong>${totalItems}</strong> total items • 
-                <strong>${availableItems}</strong> available • 
-                <strong>${approvedItemsCount}</strong> approved • 
-                <strong>${editedItemsCount}</strong> edited
-            `;
+                document.getElementById('stats').innerHTML = `
+                    <strong>${allCollections.length}</strong> outfits • 
+                    <strong>${totalItems}</strong> total items • 
+                    <strong>${availableItems}</strong> available • 
+                    <strong>${approvedItemsCount}</strong> approved • 
+                    <strong>${editedItemsCount}</strong> edited
+                `;
 
-            // Update export button
-            const exportBtn = document.getElementById('exportBtn');
-            exportBtn.disabled = approvedItemsCount === 0;
-            exportBtn.textContent = `Export ${approvedItemsCount} Approved Items`;
+                // Update export button
+                const exportBtn = document.getElementById('exportBtn');
+                exportBtn.disabled = approvedItemsCount === 0;
+                exportBtn.textContent = `Export ${approvedItemsCount} Approved Items`;
+            } catch (error) {
+                console.error('Error in updateStats:', error);
+                document.getElementById('stats').innerHTML = 'Error loading statistics';
+            }
         }
 
         function renderOutfits() {
