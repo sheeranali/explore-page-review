@@ -1,5 +1,426 @@
 [
     {
+        "header": "Millie Bobby Brown Street Style",
+        "sub_header": "Celebrity Street Style - Gen Z Fashion Inspiration",
+        "outfits": [
+            {
+                "outfit_title": "Pristine white ensemble",
+                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//7599893115878434_20250728_234149.jpg?Expires=1758910310&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ITpnXi2v78Zeo61ubvjIIjEQdFib57ANvTTnztapN5HdnHnYN6%2FOemuX%2BoGuZ0a8mDDXsqaCQjwJKAgJBlCajKxB7goOY%2BkfnKQCG0PI4UAVCzQduRzePemYMlNY5%2BsxVRUi0lMkfV6ED1xYRL%2BGpruVQmQ5ExVUm%2FAM3rk8q%2FAQucqptvmbdNruPG4Yv8wsLOmxgo1qlafoQ80QGFCk2PYk9bKDPV4X3i9G%2FjL8APQKxNhnCZCCd8aql8U9PvDCdA58D4ic3920JJnnPs1cToPAtwSH%2F6kxpZViQiqw0Jxp%2FJkKtPZhdlzUJyjV3XCvZWiHtTGO%2Fco7X8tEyRguOw%3D%3D",
+                "outfit_pinterest_url": "https://pinterest.com/pin/7599893115878434",
+                "shopping_results": [
+                    {
+                        "product_id": "discovery_20250719_0046",
+                        "title": "Monogram Canvas Camera Box",
+                        "source": "Louis Vuitton",
+                        "price": "$3,700",
+                        "retailer": "Louis Vuitton",
+                        "link": "https://us.louisvuitton.com/eng-us/products/camera-box-autres-toiles-monogram-nvprod4450116v/M82465",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0046.png?Expires=1758910337&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=dL3eCUBhRtSib%2BBbw28evnhyWGu6y9VTbjnimPnKr%2FlA%2FHFIEbkMg%2B%2FW0o2iT7uHX0%2BxdXcdBC2x0STcwYSBCmuqbe4B9YKso3wkNzbSjq9MooFtDgRnJFrFUeSnpG6gWv4dUrN1F9eQ4%2Fm9ccUFEjuU3N5CnoOeiQ6oAdMlMxy1gbDAwQZgKCzqR4FqzBa4MHIyEFbeOaaYIJsXWuJ0qkBc36E3YBze0ar0PtkkY2THlG8wWa1yr4hu%2FErxdq0PmOJWcfVEJYSi8J9ydSb71BICRt41jo4AerPShl6GVw4IoXp2Hc5MyA%2B5SdeUAdKryzZ9U02tQ180Gj853osLOA%3D%3D",
+                        "brand": "LOUIS VUITTON",
+                        "garment_type": "accessories",
+                        "sizes": "[]"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0047",
+                        "title": "Paisley White Final Sale",
+                        "source": "ALDO",
+                        "price": "$34.97",
+                        "retailer": "ALDO",
+                        "link": "https://www.aldoshoes.com/us/en_US/paisley-white/p/13568605",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0047_20250728_234237.jpg?Expires=1758910357&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Ze5sFifxqAuo1rh5QbsMPSyDuQ62oZvb3VYxW1%2F7HPJ6tpUz2sCoXcfKVfzlwc3KHLSvZ4Z8gV2x2kGdvKbXFAnBAbT6rnb%2Fi6ZauQiCS8LJAdDu8YLb4tnt4GiM5Y2RcInEtWp0bTDe9Fdygy%2BEJEoJG7CBHpSxSh3rU0oJJdEkuR54JKNOvQsSQX8ymyCSkonC0Afl99rmY%2BuDKIicoojnKrXf%2BPLojr0hp0k8emnNUVv6snMlQJoW%2B8ZboJhOg69KSvPaJVegEJxjmAFrOeSSFo0U0X8a6COKDp2HsCbvlPVYJrMcaDruKyyghc27ddUDUg%2FtshyMmdUJwcNqDg%3D%3D",
+                        "brand": "ALDO",
+                        "garment_type": "footwear",
+                        "sizes": "['5', '6', '6.5', '7', '7.5', '8', '8.5', '9', '10', '11']"
+                    }
+                ],
+                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//7599893115878434_20250728_234149.jpg?Expires=1758910310&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ITpnXi2v78Zeo61ubvjIIjEQdFib57ANvTTnztapN5HdnHnYN6%2FOemuX%2BoGuZ0a8mDDXsqaCQjwJKAgJBlCajKxB7goOY%2BkfnKQCG0PI4UAVCzQduRzePemYMlNY5%2BsxVRUi0lMkfV6ED1xYRL%2BGpruVQmQ5ExVUm%2FAM3rk8q%2FAQucqptvmbdNruPG4Yv8wsLOmxgo1qlafoQ80QGFCk2PYk9bKDPV4X3i9G%2FjL8APQKxNhnCZCCd8aql8U9PvDCdA58D4ic3920JJnnPs1cToPAtwSH%2F6kxpZViQiqw0Jxp%2FJkKtPZhdlzUJyjV3XCvZWiHtTGO%2Fco7X8tEyRguOw%3D%3D"
+            },
+            {
+                "outfit_title": "Effortless quilted casual",
+                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//19773685858498409_20250728_234316.jpg?Expires=1758910398&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=O60H%2Fbx4SGj2y8VEQELNX0xr0IcGbgzd3cbLrEKD2VPAmKDvvPvXRmTxS2gU5wG%2BYXeyLr%2FGMn8I8ZLZ4CXdhf2F8ofzy8CCrV2FTqocEk3dZ31Joa5jnex9cBpxviwvJUx6pOGhD%2B%2FFtcQoDpzELMKLHQWdjPq%2BULmRjmCOAyJZJQ7SAel004mhOBW7adRQVFC3OrNEivP%2B9dWiSkvhqt59k3wVNp2BawMLTyd%2FlZ%2FZSSxQjKFZraTbW00OJLmgxLr82lzu1AKw6mQhJiQ9m1yXOxsHHMI7%2BBYd03faMUWV%2BflM8fdTcPcN6pgimv8utlNO2LRuW8290Kaox8H01w%3D%3D",
+                "outfit_pinterest_url": "https://pinterest.com/pin/19773685858498409",
+                "shopping_results": [
+                    {
+                        "product_id": "discovery_20250719_0048",
+                        "title": "Airpuff Shirt Jacket Coffee",
+                        "source": "Poshmark",
+                        "price": "$100",
+                        "retailer": "Poshmark",
+                        "link": "https://poshmark.com/listing/madewell-airpuff-shirt-jacket-in-warm-coffee-colorprimaloftsize-xs-6441fbcb1741be18c02c204c",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0048_20250728_234325.jpg?Expires=1758910406&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Cobfzdv8uOSpUqG5nObFJLxdxt5GzReaRH2vgce9RoTskyFH8CpwrViJ5v2LfZ93SmKxIBC4CPG%2BzgbDQ7%2FjF%2F%2F2N1nqKlLm%2FSXwwQpFn9wtLcFV6hd0juVYRPzPbfn3ZWIeMBuaReiiw%2Fk1cZXWB9TyT3CFsAiPz6bPN%2BjgPFcUo13sdRNRqqGYCKrinq54v9WEL0VwLMmiPhhxcCwdwNPBYzxGI%2Fx%2BuvKOQRyEFM0ie%2FyKC38dBZkGUvxmU0Nf8LrgilkPvm2xBYsZgN5FMd8M3jgLLtdSwsC2HUw7SrZqAwFCKOWEZuimXsr3EPyyx9nVbZkgP5xBw8yj7GhoVg%3D%3D",
+                        "brand": "Madewell",
+                        "garment_type": "tops",
+                        "sizes": "['XS']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0049",
+                        "title": "Solid Diamond Corduroy Padded Pants",
+                        "source": "Etsy",
+                        "price": "$61.95",
+                        "retailer": "Etsy",
+                        "link": "https://www.etsy.com/listing/1820833645/solid-color-diamond-splicing-corduroy",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0049_20250728_234347.jpg?Expires=1758910428&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Wq0TbDO%2Ft2a4ZT0wluooYVYKHlEhH2Ava0yr2wN%2F4sEkePz9y783Bn4At7%2BXCscb9Dnb0a9DUjZlNpKzSqhD%2FT08hv1IeNncChePFAA2JUjkkY%2Bs5zGvvdFGb%2BXtuyBYPW3guZyQyInwjLJUE5TDUgwuRmWrOMHWRAzvBPgxwCQwh1y8yCbugkdK2Ifk7AwUcztT69SJB9d%2BGJUPC2VB3baPN%2BNXxmf6vl19rZEhGFeunnSRNrIfAf8sLoSwXUbJnC%2F2s6H9pUzA19pJT88AuDqqnTXGZ1Rhd5vB8Zz18OdAu7csCtyc%2BXXc%2BO%2FFgHN9dWsJwo6isJpjmUn%2BW9SHIA%3D%3D",
+                        "brand": "",
+                        "garment_type": "bottoms",
+                        "sizes": "['M (104lb- 126lb)', 'L (126lb- 143lb)', 'XL (143lb- 165lb)', '2XL (165lb- 187lb)']"
+                    }
+                ],
+                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//19773685858498409_20250728_234316.jpg?Expires=1758910398&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=O60H%2Fbx4SGj2y8VEQELNX0xr0IcGbgzd3cbLrEKD2VPAmKDvvPvXRmTxS2gU5wG%2BYXeyLr%2FGMn8I8ZLZ4CXdhf2F8ofzy8CCrV2FTqocEk3dZ31Joa5jnex9cBpxviwvJUx6pOGhD%2B%2FFtcQoDpzELMKLHQWdjPq%2BULmRjmCOAyJZJQ7SAel004mhOBW7adRQVFC3OrNEivP%2B9dWiSkvhqt59k3wVNp2BawMLTyd%2FlZ%2FZSSxQjKFZraTbW00OJLmgxLr82lzu1AKw6mQhJiQ9m1yXOxsHHMI7%2BBYd03faMUWV%2BflM8fdTcPcN6pgimv8utlNO2LRuW8290Kaox8H01w%3D%3D"
+            },
+            {
+                "outfit_title": "Denim cargo, red pop",
+                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//7599893115878436_20250728_234407.jpg?Expires=1758910449&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ZHAhCXOq2sByM%2BCB%2FgdsYXwfxK%2BDB8UEhk6Bohk24E5c4odfL9FuMkmHO%2FMqqOIQx61BBz2BEJcXBX3mdmRZTiCRa9HSdNOqHzo%2FK2SlVf2ZFoemjNq1vXZJPEhp7ZlhoXBEgAHlRFKc8DLmuQdVHIeriGNXbXrBVQMRq%2FIzTPQ8WsmVKzeZ56Tn%2FTBIsycPHfXckxZYWhFTiT3waErBl4mizgQd%2Bb9aw2vyspQPLiSLMHjxxXrEYHSe8zVkErcbSfbAvSExJOTa6I6VhYcNACTMAX6gGQSTd16KWWLapnDdX3EhrW5vQ186c8YQuAAGo2wdXlE65iyGmdm1ckZpVg%3D%3D",
+                "outfit_pinterest_url": "https://pinterest.com/pin/7599893115878436",
+                "shopping_results": [
+                    {
+                        "product_id": "discovery_20250719_0050",
+                        "title": "Thea Balloon Jacket",
+                        "source": "Free People",
+                        "price": "$295",
+                        "retailer": "Free People",
+                        "link": "https://www.freepeople.com/shop/apparis-thea-balloon-jacket/",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0050_20250728_234419.jpg?Expires=1758910459&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=G06gsWqil0pcMzcydITCsqPjJpnGy3rILwqTomPpDah8i8C8gAMpes%2ByE%2BZ6x%2B35oRQSa5xjaZKbuFFl305sKpmwh6l9QAEprbZcFFDpULITpkgIKDG2sU%2BAkKfHxv407D3qmg4BEr933DfVNGsBNtkjRE1V8qhdWvbyWep9uNXoT%2BI3XNLWi%2FKg6CoWfVjHk7tHt3usYkiVB66eEtjhf0vMcfkPSbAklLnL7zl8PDJlw3Ec0xaNEkQfGoG87pNA0LoYj3SIjUqS855B7vWDFJPEg2tuRcGqqk3S%2Frr9cTxBlAvPuD0BaDeXE1hA5MNq93ckSv8DDWrwT9JmbykGNA%3D%3D",
+                        "brand": "APPARIS",
+                        "garment_type": "tops",
+                        "sizes": "['XS', 'S', 'M', 'L', 'XL']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0051",
+                        "title": "Denim Cargo Parachute Jeans",
+                        "source": "Boohoo",
+                        "price": "$18",
+                        "retailer": "Boohoo",
+                        "link": "https://us.boohoo.com/product/boohooman-tall-denim-cargo-parachute-jeans-with-pleat-waist-detail_cmm00818",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0051_20250728_234449.jpg?Expires=1758910491&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=DBMegl97jZDJbj3sVdJN8VBaocn4fgyfIdoDbqDcv%2BS%2B%2FlU8y5%2F0NnVAZBXutM46I5ff15FrfLMweKgxyiUlAKOuqPxetqPBW3JLLp3UNcUAboCxv8lIjun%2Bnc9jtokT8pPu3hy9mf19MS3qYicIKrP8tNwHKQc3G9v9lssTegZH%2FHJKBFPmq4dxS8DTZPagaFqD2MkM6MBNKvm8HOazGzUxsxCgLdVtgO2RGbB5f1Mn7U8Bed80fVmarFp3hyf05pCZnY9LHgveecp24K3IgrC7UzmQAJHv0jhZ4iZQJglvbvk7HOVa0nG3E0qLwwHPm%2ByTBRa5j6KlXTbyjYpvjw%3D%3D",
+                        "brand": "boohooMAN",
+                        "garment_type": "bottoms",
+                        "sizes": "['30', '32', '34', '36', '38', '40']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0052",
+                        "title": "The Micro Bucket Bag",
+                        "source": "Klarna",
+                        "price": "$238",
+                        "retailer": "Klarna",
+                        "link": "https://www.klarna.com/us/shopping/pl/cl1196/3205989427/Bags/Marc-Jacobs-The-Micro-Bucket-Bag-True-Red/",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0052_20250728_234514.jpg?Expires=1758910515&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=SjUx%2FBSY7Nm1RwXP76g%2FVx%2Fr713JyiFm6W4oY8Y%2BjpYMiPZOdFZlaHVirO6HJ61%2F1nPSmH4z8qNHkIKIMwA1UvMErBM4MG8c0kSFbGp87EFLfKrtTyWmTZhYo8cKaTWncGb%2BGyeCgPGg%2FEfTy%2FpTE2C5ZziOa1Cr%2Fvk%2BfVXdwLwWU22gxZ2%2BnzSH5WuHtc2EGZGQn9VI1ia4yvImt3zpVgpQK0fQVszEtB1tRA415nK0bEXjOxicobi5NEd%2F9VQ6jRCBWLgktV6OqydY6huluYD5NGgfQ07BINxQuUf80aoV9EIcecyMVnLzte3QAxgVMhyKxq1l3qFKL1IttNax7w%3D%3D",
+                        "brand": "Marc Jacobs",
+                        "garment_type": "accessories",
+                        "sizes": "[]"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0053",
+                        "title": "Silver Paperclip Chain Necklace",
+                        "source": "Etsy",
+                        "price": "$64.80+",
+                        "retailer": "Etsy",
+                        "link": "https://www.etsy.com/listing/1178752718/silver-paperclip-chain-necklace-sterling",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0053_20250728_234542.jpg?Expires=1758910543&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=eoCICBnznyYPvS9yNMz8MvywH5icYWSybLmJmgiFn%2B4fbArzKipgjDUvpi%2BmPAzuS5guYcJNqdb1%2BDLwRXJXVpUDmRXK8z8ZGcdiYk7h9%2FIJkloagqpb53DMqd%2B5RPsDmigcHKU57vdAQ5lrACZNJFEmlrqh0Spkn89ppSU3n8HUq%2BgeGMhXuy9A5yvleNDxeveBzTdeHUvWQxHgo7gtj8KD7of%2FGuQZbXdyYf2PH6TLaYrUDs%2FcX6uSQxTd6Yj2Vfi%2FMwn%2B1I2tDmF1qxcFFOnl%2FBD6vZutuxnagIieW%2FUr%2BC1mHPhlYWPQtdSWXWeMPlzJHPi7ZUxDQuVkc1DYOg%3D%3D",
+                        "brand": "",
+                        "garment_type": "tops",
+                        "sizes": "['15 Inches', '16 Inches', '18 Inches', '20 Inches', '22 Inches', '24 Inches', '26 Inches', '28 Inches']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0054",
+                        "title": "Grand Court Sneakers",
+                        "source": "adidas US",
+                        "price": "$49",
+                        "retailer": "adidas US",
+                        "link": "https://www.adidas.com/us/grand-court-shoes/GW9196.html",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0054_20250728_234605.jpg?Expires=1758910566&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=FORLB2JXYrG63%2Bt3fAhM4T1vpl3iVqpplD9pJ43tNrvVwk5urNoKloc7ER%2B6eE3aZYkfNtxiB1OaYuenuvkvAE%2FM9wP3dRxV6M0V44WbEaRYg0OoXBAQT8VvH8IQchtmLi4JqAB14xv9Jg8qc3G2ffDJVArat7M1SQVbs3rSVSU78Vx%2FcYXpLZkrh4ybO1aoNsPKCB2RrCmQc8jq3PEfvRv5hTTtplAFCmc73sBERnid8MD0GfZjQc5%2F7FnH8JwKr0a%2BHZUv%2FJbM4sQzAXnIZdh7YBPsakiSSyMomdSGt1BmzZcwuGBF6O3YEhE89Vq9hqNd88ZHkeHmCnDuNT3ogA%3D%3D",
+                        "brand": "adidas",
+                        "garment_type": "footwear",
+                        "sizes": "['3.5', '4', '4.5', '5', '5.5', '6', '6.5', '7', '7.5', '8', '8.5', '9', '9.5', '10', '10.5', '11', '11.5', '12', '12.5', '13', '14']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0055",
+                        "title": "DiorSolar S1U Oversized Sunglasses",
+                        "source": "Grailed",
+                        "price": "$299",
+                        "retailer": "Grailed",
+                        "link": "https://www.grailed.com/listings/65705856-dior-sale-new-dior-diorsolar-s1u-oversized-sunglasses-in-black",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0055_20250728_234625.jpg?Expires=1758910586&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=SJa5euDsCpa102W5ys1Z2dCUyDNL0RYKeNKn3adFP%2BoKzArvrGfHqJC7cuRzz60vvo6Yl1B%2FwjCjvydQj3%2FtKHIR6LxWkWudUBN8nJju8LSTIMW88t1PCMzwoeuN2edrjLroZJ44yLUr6EQVcv06C0ggOdJAUe9n06eah5Q5Y%2BPcAQPGp1pBlbvC9stqrgNbtn8BDdOIoSF4lAl9Fq6mraFu8F93Tcx3h7jo9XGAhUb6m1dU%2Fkj5sU5CHludGWj2SdfVYdUrSGmVnXjwDMyYn4TIvaT1pXAackq7TeYV0uKNIJr0nBAeGKsSHPML4tfvcrCQfMjOQGVetzAXH9GYTQ%3D%3D",
+                        "brand": "Dior",
+                        "garment_type": "accessories",
+                        "sizes": "['ONE SIZE']"
+                    }
+                ],
+                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//7599893115878436_20250728_234407.jpg?Expires=1758910449&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ZHAhCXOq2sByM%2BCB%2FgdsYXwfxK%2BDB8UEhk6Bohk24E5c4odfL9FuMkmHO%2FMqqOIQx61BBz2BEJcXBX3mdmRZTiCRa9HSdNOqHzo%2FK2SlVf2ZFoemjNq1vXZJPEhp7ZlhoXBEgAHlRFKc8DLmuQdVHIeriGNXbXrBVQMRq%2FIzTPQ8WsmVKzeZ56Tn%2FTBIsycPHfXckxZYWhFTiT3waErBl4mizgQd%2Bb9aw2vyspQPLiSLMHjxxXrEYHSe8zVkErcbSfbAvSExJOTa6I6VhYcNACTMAX6gGQSTd16KWWLapnDdX3EhrW5vQ186c8YQuAAGo2wdXlE65iyGmdm1ckZpVg%3D%3D"
+            },
+            {
+                "outfit_title": "Refined Rebellious Plaid",
+                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//844493672872953_20250728_234641.jpg?Expires=1758910603&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=gV7%2B5JMN3Sfcvd42vgFDB6Z4iluwWi2%2BklpxyA%2BNDiqEeDXbgfjXm28MMAo1D9rU9K%2Fr4TrSXKmA5JWWVZEEY0ikMx8LcFCv4T1bEPln606jNpKHvMDHkzs3vC89FEYTI55w1dBm6OtZsWlCjFXyPcZMYCDsxhaetnaNua7KYHUZWAageooPeQWlc2KgSjZ914FkOEc5%2BiK7dvHVvPJWWEGOnAsrQUeyb5Jxsi2bzqOjdECFJBK9neBK%2BJLYxLNXRAhCZdDZSKwKjADI3POyoJmM645m8a1vBWsV1A9gQlrNLMYIf7id3EvQwiSDIex%2FoFMtxkSp3rvR%2Ff3MN5T5UA%3D%3D",
+                "outfit_pinterest_url": "https://pinterest.com/pin/844493672872953",
+                "shopping_results": [
+                    {
+                        "product_id": "discovery_20250719_0056",
+                        "title": "Bi-Stretch Shaped Blazer",
+                        "source": "Target",
+                        "price": "$132.99",
+                        "retailer": "Target",
+                        "link": "https://www.target.com/p/jessica-london-women-s-plus-size-bi-stretch-shaped-blazer-24-w-clove-mini-houndstooth/-/A-1003945902?TCID=OGS&AFID=google&CPNG=Women+-+Target+Plus&adgroup=305-1",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0056_20250728_234651.jpg?Expires=1758910612&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=cwQjl1BFAq1a8%2B4oJSfYQ49nZC7x0hMAaMyJ%2BiDeoyaGbnLLFdq45%2FtzDwOqZdLNCJYx3H6f7CspQzF6J7DO6DpGCSjnMhHtZYXXq1JQU%2BtwqWGUIP%2Bh3CJ3zOQ%2BSSzyAdqAdp%2Bn3Z1Pgc%2F540U0ICcj0%2BlTye6%2FulJ4F%2FskanPweIQPmrNSJ0md0MwbBlfUxCAzqvKfPaxFBMvQdkXxAwyQplCLbkGpSHJJrGAlLefifxyTCGJ5CK3qfDjZ5vSbW3MI5PZ%2FhNSWcJC9g06rcfMQvyrXgNShNHQIqzD2eZAlH485rYWI%2F61pcG1ZPZ5MN0gnNWLVK0fSMghgIdFNCA%3D%3D",
+                        "brand": "Jessica London",
+                        "garment_type": "tops",
+                        "sizes": "['12 w', '14 w', '16 w', '18 w', '20 w', '22 w', '24 w', '26 w', '28 w']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0057",
+                        "title": "Cora Plaid Buckle Miniskirt",
+                        "source": "Saks OFF 5TH",
+                        "price": "$74.97",
+                        "retailer": "Saks OFF 5TH",
+                        "link": "https://www.saksoff5th.com/product/rag-bone-cora-plaid-buckle-miniskirt-0400021206438.html",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0057_20250728_234710.jpg?Expires=1758910630&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=EeIU3KZfDOj%2BMfdNpQc5K0kdbx3mFeXzl71CHNTO6pf2pGTkXynod7DeGuDdFo5YCHw%2FQ8YLX8tc1dibfKDwifMrkIBn4RuLc9JXCkCtdJ1%2BiD93KwiOcmBL3IsQZ%2FB1J9BIkbIyVRZeHPGv%2BWo1LIOot02qwGHH3lNAsAGaS8I74Roc%2BgSgs0omZHqaR4hLq4s2xM2ExTwqXHBxLWy3AtU6RddNWFvo7JjIyRDFtly4QVoFHnuymdtmiTvE53i6UaNOz3OA81R5jaBZCinJlZS5jTBQ8gLMVoIEfyPk7fxFaiKTXW42aGVjvbzyCc%2BvI01DD9G%2FYkPeI5TfNVGSkg%3D%3D",
+                        "brand": "rag & bone",
+                        "garment_type": "bottoms",
+                        "sizes": "['10']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0059",
+                        "title": "Brown Chunky Cord Blazer",
+                        "source": "ME+EM",
+                        "price": "$297.50",
+                        "retailer": "ME+EM",
+                        "link": "https://www.meandem.com/us/chunky-cord-blazer-conker",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0059_20250728_234749.jpg?Expires=1758910670&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=YvFZiXfojfjV0krx%2FrTrv2CYCFu5MXBbmAtMGGPAZ7VkgETkylf3WxwSc9xAoFjnIalLEcM2hNN2eQ90UsyQtIbpnl6L9cwPZftBbFqroSD4Xe%2FSI0aU3JMibeU9h1RIJIcNGAtlIx9mAOyYilPAd%2FuzNNqWqxJXB8XfJh6FIMQn6iBYoqF05LSCCrWQa7N3kdSVkOuJQ4PotKZNoPMfAwIUtsQkN1wLCLrveLzRkUwqvbR%2FlgUCeVM64BJeu0fplDEi8g3Jjk9p9G1oEWpgQTcUd84in6H9gsImurUl2wYUv%2BlIoz%2Bxed4gmV8EO6TRoHxMJIdgVCyPCkbAi%2BQdFw%3D%3D",
+                        "brand": "ME+EM",
+                        "garment_type": "tops",
+                        "sizes": "['2', '4', '6', '8', '10', '12', '14']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0060",
+                        "title": "Black Women's Baker Boy Cap",
+                        "source": "Etsy",
+                        "price": "$21.37",
+                        "retailer": "Etsy",
+                        "link": "https://www.etsy.com/listing/4297197680/black-womens-baker-boy-cap-newsboy",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0060_20250728_234807.jpg?Expires=1758910688&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ON%2B8AES2DdXVZlP5YzRlRTEZnnFBCa%2Fj9trUCMbIqTvP0IZ5Ne6n1%2BrgXga7VW%2BXxQmbkBYIjt4SvS84H0d8uzP9HvIuZp57aA73c%2BXDx2aWF77DaSUaAqrF5UOFe2BZyHX78yI3HrVrl7IR%2FeAHLs5hiwES47y0uhk2HiB3Vg%2BC7W2sLKdvwn4pJbTFq9%2BuO5f89676PIXqybkmuEST8Rx1naa5UK0Hta59uOcxsXvPdOkYs%2BrarDzmdqSlHaT2nWVS2nRck1VMPvaOHr5Xr8JXQRP%2B3eqaOhi%2Bt6s6sT33jyyIKH5zZ8%2FEOjesZ5c0Qeg49Ke8qapuA49CKTL1sQ%3D%3D",
+                        "brand": "",
+                        "garment_type": "accessories",
+                        "sizes": "['Gray', 'Caramel', 'Biege', 'Burdundy', 'Black']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0061",
+                        "title": "Cherry Red Leather Boots",
+                        "source": "Poshmark",
+                        "price": "$60",
+                        "retailer": "Poshmark",
+                        "link": "https://poshmark.com/listing/Dr-Martens-1460-Cherry-Red-Smooth-Leather-Lace-Up-Boots-629b9a8ac3c2d077e4eaf68e",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0061_20250728_234830.jpg?Expires=1758910710&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Zs0%2FfzjYmnSt06CbS2YPJf6jocxoo8D15Qhmnuh39OTUH0WDaJGCDr0QQ39E2nPyC5oaroALf0f%2B3a3QKCjIYq4PGrAVv6eT0FVu7jMclz5oMV9FlebFj9VDGYwKmVW0mf3SUcAQKcnywYtk2TI6duuEGAO1xJM52tcDbgUs47HxUHXs1DFOP9yHLv2escUpbmUR0MAOnS8oTikRG68LOYckh5ml%2B2LafRe5hxEM2eVKve9TzKJNj4ucpv4cv8V9W9sWd6V8UFIlnHqftagDPK8xfEFvfm%2BthkzbUak44B5OEw95%2BKheTPBLu4GarkdZJQOqGUDG6eAF8g2k29Swkg%3D%3D",
+                        "brand": "Dr. Martens",
+                        "garment_type": "footwear",
+                        "sizes": "['EU 39', 'US 8']"
+                    }
+                ],
+                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//844493672872953_20250728_234641.jpg?Expires=1758910603&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=gV7%2B5JMN3Sfcvd42vgFDB6Z4iluwWi2%2BklpxyA%2BNDiqEeDXbgfjXm28MMAo1D9rU9K%2Fr4TrSXKmA5JWWVZEEY0ikMx8LcFCv4T1bEPln606jNpKHvMDHkzs3vC89FEYTI55w1dBm6OtZsWlCjFXyPcZMYCDsxhaetnaNua7KYHUZWAageooPeQWlc2KgSjZ914FkOEc5%2BiK7dvHVvPJWWEGOnAsrQUeyb5Jxsi2bzqOjdECFJBK9neBK%2BJLYxLNXRAhCZdDZSKwKjADI3POyoJmM645m8a1vBWsV1A9gQlrNLMYIf7id3EvQwiSDIex%2FoFMtxkSp3rvR%2Ff3MN5T5UA%3D%3D"
+            }
+        ],
+        "num_outfits": 4,
+        "header_metadata": {},
+        "sub_header_metadata": {}
+    },
+    {
+        "header": "Hannah Montana street style outfits",
+        "sub_header": "Celebrity Street Style - Gen Z Fashion Inspiration",
+        "outfits": [
+          {
+            "outfit_title": "Denim Rocker Vibe",
+            "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//243405554856214271_20250801_230004.jpg?Expires=1926869405&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=SZEJLui0JWYHihMR2ycRDdNOeX4T6qK%2B1yuEjnHgXFqtAQ11266XuqsuPn4TLcHfy2YXcw44hAOB%2FqhgH91GudgU5LZaTpQWFcn1KBO2Ch18EdI1JSwNsWsZpyQboHwg7t0LL5Y6PTHecAAUTVvBxxD3YlSG7NHgvURlErTiypyeYZKP%2FOMscS1VTUTBOWITEC2FMCRaFpddfT0%2BNIlhvidS3CFDIGhYINz34HRzuoHT7610XJsn%2Fg5kc4l16Io5itRuzPuXWlWnzZ%2FqUmuyL984n64sLzNvYnhuZ1PgooSA1ozGRW%2B6%2FZaXEWegxh3FSEgxbdAbzWlr%2Fk3Z3hGRBA%3D%3D",
+            "outfit_pinterest_url": "https://pinterest.com/pin/243405554856214271",
+            "shopping_results": [
+              {
+                "product_id": "discovery_20250719_0018",
+                "title": "Indigo Ripped Loose Jeans",
+                "source": "Pacsun",
+                "price": "$71.55",
+                "retailer": "Pacsun",
+                "link": "https://www.pacsun.com/levis/medium-indigo-ripped-superlow-loose-jeans-0860115090080.html",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0018_20250801_230012.jpg?Expires=1926869413&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=HVxaQh4ZBQc2B%2Bw69kg8NZ3xneCFa%2Fs49PIG%2FDEyXvBFOIPJZDabqC0nZjYS2daAcJ0i5RXij3fP%2F5VSkQ6Wu3mUbFYcspRbSgkAGroHHRPLNYMHoddGMZrs7AuvIWjCgpu3ZnB6OCUGA5Pa54t%2F1l5LxAccDd4XErFkCkd0pc7wihz63QOLMx%2FieXhhQKxDDqdCBygvc%2Fv%2B66s%2Bs%2B2OrX6%2FtFRHvRAiKLpRzSo0l3cN1lO7Gb3vwvF1iJ%2BWFL4IPy2Jd3%2Ftvs%2BrI%2FBIs9RUocstOqclfOz50JQVck5f8WFIB%2BEmTn3z%2BVor6gfXvIcC1pvjrL%2BRBmI1AZF4pL%2BpMA%3D%3D",
+                "brand": "Levi's",
+                "garment_type": "bottoms",
+                "sizes": "['24W X 32L', '25W X 32L', '26W X 32L', '27W X 32L', '28W X 32L', '29W X 32L', '30W X 32L']"
+              },
+              {
+                "product_id": "discovery_20250719_0019",
+                "title": "Vintage Judas Priest T-shirt",
+                "source": "Etsy",
+                "price": "$200.00",
+                "retailer": "Etsy",
+                "link": "https://www.etsy.com/listing/1317747898/vintage-judas-priest-defenders-of-the",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0019_20250801_230030.jpg?Expires=1926869430&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=GOGHeRf0KnaOn0ne4cfkXfbFWSrzSaanqEN%2FaEs18Fdy%2BN%2B9a6JiHpXA0C9PYTg1pySmVxtF%2BQYgoJ94Up3eaOgpxzJy1OGjNEntl7C9nLegIMk8NKSt6hvrUZbBBweo8xoz2%2BA2VnB%2BxNVotKAmoz9c%2B0VWSVeWeJb8kHQfdprXmCPddghQ3O%2BllAx0bhGIrVkKBF7GCiqFROrrzsXEPRc0isJugSATYWaYLZ5l9f5AoW4lB%2F1YjfrVwmeeKPrmYJ9mM%2BEbR0m7wEdpA41k7P2I50s3gaEpOqYQ1oLCDR47uqNpDdJhn73t%2FiFYcSEd4drhzqDJsmW%2B3bCrFoeEhQ%3D%3D",
+                "brand": "Judas Priest",
+                "garment_type": "tops",
+                "sizes": "['S']"
+              }
+            ]
+          },
+          {
+            "outfit_title": "Tartan Youth Vibe",
+            "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//5840674507667932_20250801_230056.jpg?Expires=1926869457&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=I7JPj8egKpRwYbNe3ixXOrNMvesRw2C97m0KnaiEpAXu%2BysW9UGekODIYmwNzbKHpB1%2FEuhz0uids1oW4t7ywVCgkpsQW3AkTmCbe%2F9rlhYFHQ4khwgYTSdK1hNEaUrfMAjl1C%2FyunxRhPDOzb8LenPMe%2B31NBg4iCqaGuamdGtnrJo48U7Bil5lqpXxl2EkQT269%2BzksJKsu%2BqGmLkMiKLFHPvcphpFvgx%2B8LXMNUwHBli%2BCC2WQurlESUuBjOEJvKm0uxsxiguxcAFI0Z4vrDK1pbENV4mOj5oDcl9AkaHKXMPHkCgHDGkrzdWrIeyAj%2B22FYv7yBF5YkNYmvCOw%3D%3D",
+            "outfit_pinterest_url": "https://pinterest.com/pin/5840674507667932",
+            "shopping_results": [
+              {
+                "product_id": "discovery_20250719_0020",
+                "title": "Low Down Blue Crush",
+                "source": "Revice",
+                "price": "$ 68.00",
+                "retailer": "Revice",
+                "link": "https://www.revicedenim.com/products/low-down-blue-crush",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0020_20250801_230102.jpg?Expires=1926869464&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=SqK1TIgI5znfZbhQDh4jXKMBfycYlH9JIdmOteK1lbGQBlR4VOh%2BPaLc0NB95LwU26yQp56NYxRcggZCsaK%2Bqm%2BKRMk1tZNZ8o4UyovTJ3j%2BdCkNhbch1H5Mi%2Fz3e3N%2BRkuTNOZ75xA0vuAINbPXpsiOKQ3BQZO8g%2FDPnwyhCCOiWsQDwdNhs6kTH%2FIw9tWj4Izgvr8GkIvA9tY8vZF%2FpVUDW%2FIOkUCYgQRcZglUefKJo8b7VyNSoK34vTjNyCZmv0MIwhFthLwArNojnCT%2FmWXr8nHpwkvYZdtQH1fogXAhTFZ0fwj1xzqgzZHP1JE1iFJxO8YzERS7IDejGY3SqQ%3D%3D",
+                "brand": "Revice",
+                "garment_type": "bottoms",
+                "sizes": "['24 / 00', '25 / 0', '26/ 2', '27/ 4', '28/ 6', '29/ 8', '30/ 10', '31/ 10-12', '32/ 12-14', '33/ 14-16', '34/ 16-18']"
+              },
+              {
+                "product_id": "discovery_20250719_0021",
+                "title": "Girls Making Waves Sweatshirt",
+                "source": "BoardCo",
+                "price": "$55.95",
+                "retailer": "BoardCo",
+                "link": "https://www.boardco.com/products/billabong-girls-making-waves-sweatshirt-in-peaceful-lilac",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0021_20250801_230119.jpg?Expires=1926869480&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=KAD4Hbxf2agKu%2FW9xDn5I3LRz8MZ%2Fd9zkSbluQPEjGSjy2D02m2BaORYXtaysCVBX7AMjQk%2BuMNCXA7WbeCIWdpI4cNQocw2Z8cwFY1xrOefzAf0OhZZnkehKGFCmOGY3KvtoR3PaimhaSBtLNfIxz3hvUGqmatqFUULJxln2ksZe%2BxP5hd0vx3G9lldxt4iho3vxgcZUamhifO7pUAbrd3w%2Bg1NQfQevGieKbQMlTmnkw7q%2Fo9wrJ5OZr%2BIDMueHuKLFCyX82YE8kgocSCtiqsEw430w6aMB%2BSeYwHMTd0wp8YoS9ppUPvEgJQMklS6NTYMpoYwtpClTZgrAZ98Xg%3D%3D",
+                "brand": "Billabong",
+                "garment_type": "tops",
+                "sizes": "['XX-Small/4', 'X-Small/6', 'Small/8', 'Medium/10', 'Large/12']"
+              },
+              {
+                "product_id": "discovery_20250719_0022",
+                "title": "Striped cropped sweater",
+                "source": "simons.com",
+                "price": "US$39.00",
+                "retailer": "simons.com",
+                "link": "https://m.simons.com/en/women-clothing/sweaters/stripes-patterns/striped-cropped-sweater--1533-24102",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0022.png?Expires=1759253511&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Udrh7e2woh7OXVmi5fQ7j39u9wfce96JBTIajUjYYh89pzmjpyO9NgS50fPt9Ukm7cfwLLhbDf1JqCtSoLvwZVQ%2BCwcjrUNSSIGRPklRT7%2F8GGKUTC%2BqbTUKmT0ncd0Gv2ynPA95SR46rqWUFQ7tvs4g6CLq5rUnMDhM5HGTxP6qTOnKZ4u8U0Pc8fgW9aUgHb%2BA0QqxYUvGlxM5IqEnquSQoy1n3Rh7u499o8OOZtmA%2FgI98nVRr7NE8pa19EAutXR3UuAJjPjKAbrQtfBE%2FCyTdwETl3pHIk6Of%2BHv4hdEw3ExXLVaeD5PAB3p%2B6wouezvEBEItcLLeTWo%2BmbPmQ%3D%3D",
+                "brand": "Twik",
+                "garment_type": "tops",
+                "sizes": "['X-SMALL', 'SMALL', 'MEDIUM', 'LARGE', 'X-LARGE']"
+              },
+              {
+                "product_id": "discovery_20250719_0023",
+                "title": "Comma Skirt",
+                "source": "UNIF",
+                "price": "$62.00 USD",
+                "retailer": "UNIF",
+                "link": "https://www.unifclothing.com/products/comma-skirt-plaid",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0023_20250801_230208.jpg?Expires=1926869530&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=IqQDUtHCtfh4WtbW9310PMgUQPwuxlIMPN5sM8rcbjs%2B2u5Sn0stLHoHwFE7Po%2BjWYDmXFuAAhZTSgvwtEJNW77iOC5izXjmYyNj3nRcPFRso1K7ScW7aVJcRANo2nEd7cnEojGtZ6OdW5Uwyasu9Un6KB569SbgwCja00H%2B7g7uScgUeXAr84eMoDC2hzrQoLSQ9Hdk6qZis%2F9SgA9UlknaW9Ke21AnbSm6hUzONAgBiiRVL6IPTAn1CTVyKPe0aBqMVDHDYcY3OoJaT6g1vu5ijCAWxS0SGVDpGnfhBKwnC%2FUN%2F2Ta1f3pcpZfCKNQOCnSs2aI22%2FTt91oKIZbQA%3D%3D",
+                "brand": "UNIF",
+                "garment_type": "bottoms",
+                "sizes": "['XS', 'S', 'M', 'L', 'XL']"
+              }
+            ]
+          },
+          {
+            "outfit_title": "Bloom and stomp",
+            "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//161848180355258389_20250801_230217.jpg?Expires=1926869538&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=PTjmIKg8Il8uUI4Hv2f89%2B7n9AF7HvLE9tny5CmZpilViGnT5f4sSez9DukFXpuWAbTPAVBsxUy%2F%2FN7UJKxI75tmdZAWqXXq7MefJ5FXOmSiCaEeXJIx4%2FMRqDu8j%2B0ZBz0yD8CWzfLN8ZiRSwYj8y9Mcn2bWcipD3pTWNui1iCJsqIyq0RyqKJxASZjiMjiyvqohCZu4DQCQ7yUBQ2v%2BSxGkYAbPhbqVVjPdy537mhYb%2Fgt%2F3K%2BK5PYYeAzluRsAmDO9YzL%2Bjdze%2FotI8xDdiB3L6J0%2FyMLvlb6z9PKqL%2FKtg%2BNg9bd1quoPQKf4PlWrATNY8v%2BpOo3UE9pr84u0g%3D%3D",
+            "outfit_pinterest_url": "https://pinterest.com/pin/161848180355258389",
+            "shopping_results": [
+              {
+                "product_id": "discovery_20250719_0024",
+                "title": "Smocked Prairie Midi Sundress",
+                "source": "Etsy",
+                "price": "$173.11",
+                "retailer": "Etsy",
+                "link": "https://www.etsy.com/listing/1066631219/1980-s-liberty-london-smocked-prairie",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0024_20250801_230225.jpg?Expires=1926869545&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=CWlrcorKavrxQ3XUAoLEntEZp5HR9Chx%2BH2MVShQURj32unrEPEYdfhbBs%2BjNemhuEDz3%2FdQQnPh0uP6Xt2LvvKxfZ5Em332ypooQiU6TjX5p77UcnO3bs6ZPG9LFVTt0F8s9Z0Pz0EGd%2FpPAVAQ0dhka6zO9j%2FJ3CS%2B%2F1t9W5C6IQlWDIRrmzCYP9%2BmLKkSYnJCLGTtZfdVnj28LnMZTZSeRE5j6QIm5chqNSpAChDCMtC8beYUeM9j7pEOL64NU0kSy9CwUSFhsfsDl2fwMt87qqhCKWaQE24%2FeqhtHDz7nquw%2BVAEzfQJ%2BW%2BD85MnO9Rzu3%2Fp1ko8M2T8itzhbQ%3D%3D",
+                "brand": "Liberty London",
+                "garment_type": "one-pieces",
+                "sizes": "[\"42 FR women's\"]"
+              },
+              {
+                "product_id": "discovery_20250719_0025",
+                "title": "Carmen Harness Short Motorcycle Boots",
+                "source": "Poshmark",
+                "price": "$144",
+                "retailer": "Poshmark",
+                "link": "https://poshmark.com/listing/FRYE-Womens-77372-Carmen-Harness-Short-Motorcycle-Womens-Booties-Boots-Size-7B-65c82a5c963c425db84e6744",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0025_20250801_230243.jpg?Expires=1926869564&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=gWGD7IMvdnmafquB4WshjCRQyNCvHMLQF%2BfqKd0XlvIqdDMvjh5kSpKBoLV02pZODAiPIqmcpVfbktsH9eFT95z4VKYjffSi4%2FESwuC%2FgSGqwFjO2qCSez%2FhrDep51uxT86WzydXUJ1ZADaPYbp24DmqGbtkQdoTX%2F2ltH1QjHbGKtUUbJWMddy8%2FtQnYmbJ8FqZwHKcy2VOsXXCqXcx%2BwrWK0KyyAK2aXluDCGeWtXP28L06ES%2FJZzmcqbQRYb8kOSBJ5m6V3JdFmc3cCOADwNBPnmg4AlJUouN4GKs45IPIBS91D9%2ByKcG%2FdASLTEcaG7bJIiy7r4BF9SSVwoIKA%3D%3D",
+                "brand": "Frye",
+                "garment_type": "footwear",
+                "sizes": "['7B']"
+              }
+            ]
+          },
+          {
+            "outfit_title": "Relaxed Rebel Boots",
+            "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//8303580558360000_20250801_230427.jpg?Expires=1926869669&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=h44HgAPlAMryqcZ8aA2eOV%2BWJC5LPB9pKBIu2cnrtCtw9jrC7R0JwsWjC%2BT18z9VqTg8RpcPhVJBXOr9qrc8uQ%2FGS2Rl9IbpWic6hkPTpLqVR6eMUkrdiMbJufhEQA%2FNe%2FEQeocsmJ1nqH1Trge0oS5mzwFJGPE1pV0fQ56NeVi5y5slLDi8gEHMXirteoEsuuoBX0VejHU9vc1In7Z3wrlYwrjYlK9QjDZ38kGxL%2BQO824gssm%2BNZ302r%2Bn%2B0Shnf6BWzA8sOaV%2Fc9Nwc1GJ4JHF1%2FBV2Of%2FAERDLMyd0gOzYLoDL2R5486fzFONc9ws36RSw3HHB2Q9OFxfh4dlw%3D%3D",
+            "outfit_pinterest_url": "https://pinterest.com/pin/8303580558360000",
+            "shopping_results": [
+              {
+                "product_id": "discovery_20250719_0030",
+                "title": "Black Skull Tote",
+                "source": "Poshmark",
+                "price": "$699",
+                "retailer": "Poshmark",
+                "link": "https://poshmark.com/listing/Alexander-McQueen-Black-Skull-Tote-65f9a78952eee1d606b37b6a",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0030_20250801_230439.jpg?Expires=1926869681&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=EW9aQI8NP%2By7v%2BLR6W6vdXn%2F%2FW8kawlq30bfahHj8UASfalsYnAs5P%2FosOgmR4Oz7Y%2FRYQ8f3pMfJmTaSjE5FYkdpsXgjeJ4Czn%2BBeOsnRYprwkq6U0zV8LOUc9YH2krjq8M0Ml8fcSGp2x5FO5SB5ix7XJm%2FOILlmJBfc8b9%2F60nFDayVaZjyL5TDZ9HhPQ0YUASqBuukwgMVJInqAka07RTqJhBzETwchDobaiVCpv7SGylIRb%2BycmuOcID1mbiSqMZA18d0aRlONzM7GK6CtI8sGNGv0OMb5VNVzKlgdjRBSGBP%2Fw5bOO2RCLOjh6CWLuKxXyB7MFsdfRvkIZ%2Fw%3D%3D",
+                "brand": "Alexander McQueen",
+                "garment_type": "accessories",
+                "sizes": "['OS']"
+              },
+              {
+                "product_id": "discovery_20250719_0031",
+                "title": "Caramel Carson Piping Tall Boots",
+                "source": "The Frye Company",
+                "price": "$274.98",
+                "retailer": "The Frye Company",
+                "link": "https://www.thefryecompany.com/products/carson-piping-tall-caramel",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0031_20250801_230456.jpg?Expires=1926869696&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=TnnkGDTYV4hiW1nHsrOaOGJg%2B5u%2FIpZkP9GLQzVB9k5f1VL3F9QU2cGim09XMvimM3o%2FZBNH5fbC2A2r5WbjlynwN7iTtbxj5NxsyTPbAlXixYWUgeToOxWQ%2BoMB4ajfEtH4UEX7WbSsD7XP14zx7HCtn55Od7WA9f4w6Nsz7kjfUZpaV%2B3nn34Un1WXK0DgrLQqvqR9w%2FkFPbpQa4usekST8RX8Dzl63aWR%2FCFReN07fdCHIsS4RMaqNXOEYFqGRL%2B4n1v71kgx3oGpMYxFSD1bmKxQo7CAgIiXiuDexDlUT%2BZZWufhXsCjOSM7fiw1%2FBN%2FFGJePmufUvrq0q4gIw%3D%3D",
+                "brand": "Frye",
+                "garment_type": "footwear",
+                "sizes": "['5.5', '6', '6.5', '7', '7.5', '8', '8.5', '9', '9.5', '10', '11', '12']"
+              },
+              {
+                "product_id": "discovery_20250719_0032",
+                "title": "Californian Tank Top",
+                "source": "Purple Leopard Boutique",
+                "price": "$39.00",
+                "retailer": "Purple Leopard Boutique",
+                "link": "https://www.purpleleopardboutique.com/z-supply-californian-tank-top-graphite-grey/",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0032_20250801_230512.jpg?Expires=1926869713&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=HPXF%2FV6sFmSQGKtSNd%2BpqHoXS2EqpHKnuDcFPCC%2BrW74OdMuFMMyW%2F04LO7MRoZucqta1t1SseuTK3Sy%2Frczq%2B41pZCB3yBpWMk186hk9yCUdVK4HpZQsLE38ddF0%2F6tqJUr3jITBQQCJmERfarSqR3CnoNoqKL2jEtX8NLI5N%2Bff%2FXVJ0JQ%2B%2B4lK0GvIzfjTAm9CWq%2Bshl8DKls7iomkXX9gw94CQg%2B5XFaGJea%2BtxaIjMiy7nQJLl1YdfGZx1384vNXrnXMRXKHQAH5YXMP59Gdly22BEsvoCe3kObpYq3%2B2ZYWZucP%2FNbYOlaoKsVxLkiK3fOxxyxWKB%2BXl0sRA%3D%3D",
+                "brand": "Z SUPPLY",
+                "garment_type": "tops",
+                "sizes": "['X-Small', 'Small', 'Medium', 'Large']"
+              }
+            ]
+          },
+          {
+            "outfit_title": "Noughties casual chic",
+            "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//349310514870335146_20250801_230535.jpg?Expires=1926869736&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=DiwZL%2BKcJqWJeqrZcCfYu99xaS8BsGu36NMhtxCuPtGfcahaneegnTTLGa%2FEAxZ1ib2i0RSySbnT0aI%2BKYPUfcASCTXwYk9A8M1hIxQYIzg3zsqYB%2BYTtG4%2Bqe2JdzaPipk62aFIeuQ3PTUhjVmgOG6ZEnUJllCO2W2cw6A%2BAtQuP9cu23Pt0UsY83cyJaIMHE3FFMvNQtoHFOa%2BjYxTPI1v31RLqkwwUwi7TO7kJQoXhZxlryhBTErBn%2B55JHvA8GKJ3KgnuTgnyDUBnNnH5JKeItaN4LxaNctQPNOWLmfpH2u%2B18QY0eQozZP7qjoqZlA0QXlZA48nC491q86GcQ%3D%3D",
+            "outfit_pinterest_url": "https://pinterest.com/pin/349310514870335146",
+            "shopping_results": [
+              {
+                "product_id": "discovery_20250719_0034",
+                "title": "Low rise flare corduroy pants",
+                "source": "Depop",
+                "price": "$30.00",
+                "retailer": "Depop",
+                "link": "https://www.depop.com/products/kaseyewright-brandy-melville-low-rise-flare/",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0034_20250801_230541.jpg?Expires=1926869743&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=FlcTpCtZWAxKOb5aMiugZYfc5D5g2xssJpHjj9IOXh4CJVy1TINN4xLVa6YS2TKUyFWm%2BxAbyPREPSjfDkKSavsm4Wyi%2FRrZ3nyDHvzT%2BGtLcIdIJkug65I7%2FN3hS7JmyaMqEl1wvRo6usVOzTt22ECSUajCHLcm37GSzVvFZ7MmTcPZxEUgyyNgvjZKtdWKORpFwuWDY%2FHQwIDyn95XNpHNC1YghoagpENO2n7269g68SU47b32A9K6XGhKmTeMFW2TnDcfYgh9O%2FskN5oNFkH0tBlfh94wJnsPPJcMkzcPDU8lBSA5a%2F20bj%2FncXa3T8Xyq23iy7KMMTf8DkkRJQ%3D%3D",
+                "brand": "Brandy Melville",
+                "garment_type": "bottoms",
+                "sizes": "['XS']"
+              },
+              {
+                "product_id": "discovery_20250719_0035",
+                "title": "Lucien Cropped Cardigan Ditsy Floral",
+                "source": "revolve.com",
+                "price": "$ 135.0",
+                "retailer": "revolve.com",
+                "link": "https://www.revolve.com/mobile/john-jenn-by-line-lucien-cropped-cardigan-in-ditsy-floral/dp/JNAX-WK365/",
+                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0035_20250801_230748.jpg?Expires=1926869869&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Gl0DFtAg8wdInUiXoEh49h1AUsYow6AVw4wk9%2FMnCyHL0h3IbasyCg%2FXlObrJvgE4ZwlUGnw%2BPxbN1jufYJy5TuuX5G3TKnUwhAVeQw4OxMXKFT5c%2BAQ3naiirFTCwaEe9uO15NW6P%2BX9lALWFVp6ZwddFqntM73HIlaEua2JD0%2BzpuWmvStqodvfQsN6LmtN4hkGpCDHQjJybhPzKTJGGfjPQE3TCsdYIy1SLV3lid%2F%2BFzr1adqpp2jhhYAaZZpy1Y7VG%2FL9qvzFXOye2ijI3lsyGh5A%2FwSRP9rFN9GIVqmwy31bvThx7zhHiIuIfPKb1%2FWyQs611EKKy1TxCqPpQ%3D%3D",
+                "brand": "John & Jenn by Line",
+                "garment_type": "tops",
+                "sizes": "['XS', 'S', 'M', 'L']"
+              }
+            ]
+          }
+        ],
+        "num_outfits": 5,
+        "header_metadata": {},
+        "sub_header_metadata": {}
+    },
+    {
         "header": "Sabrina Carpenter Street Style",
         "sub_header": "Celebrity Street Style - Gen Z Fashion Inspiration",
         "outfits": [
@@ -224,204 +645,7 @@
                 "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//8655424281702170_20250728_233418.jpg?Expires=1758909860&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=TzIQwoqzEglktKy%2BHaaYDMXzCB%2Fh4mY2n4ZnhS5g7qzvXHHeibZBV0qoJkUvvFW6QuHifNI%2B%2BYBNirb5QRjyImchS9BEaHrJ83Z5IBvy%2BznhZ7cS%2Fb0vmG%2Bja0C9IZPQZ356xzebLbOPc08A7%2BLhHATcl0AO7MUADDXT%2Fz11hitCzSpjk%2FKzZccs0ptvRGlvrtL3t6T3Qt%2BARGxG6GSV0v2%2F4AXc1HWUbsE1y%2BtpoC2GRQTKucSHu%2FhSelNxB6ntpokIU56PKNkmzctOU3B61smphFMBlvulvZzD8iUbMySq%2FCQYaYJFK9XWgcJu1agka%2BkYk2EC6RlGXcdDO6zjKg%3D%3D"
             }
         ],
-        "num_outfits": 7,
-        "header_metadata": {},
-        "sub_header_metadata": {}
-    },
-    {
-        "header": "Work-From-Anywhere Comfy",
-        "sub_header": "Celebrity Street Style - Gen Z Fashion Inspiration",
-        "outfits": [
-            {
-                "outfit_title": "Cozy Comfort Vibe",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//257197828715544571_20250731_000504.jpg?Expires=1759084506&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=bWL6evXZ7xq%2BUz%2BRJvfemErUJ1TsvclbSenVvt0Fioc05metKmslkFGsmP5zCPKdRbuN5cY9Xih2WdIVAjWReOpJpC1ySg4LaOp8EfYWfjj1YRyZ3hOcHosgnU%2B%2BDCPsR%2BMjTPMjagXfo1tm5CpQTVNGAUUS3GPN8GXMoD%2FOoEfguV4KWdhVsEGmbjTTwRNyQisczBdpR%2BVb%2BSwMdoPUaHpoaX6JRYxEvERvcG8Vqavcj5EhmrCLAoIA%2FgO%2Fb1SQRP2IiIT0QmT8MeAqN3KBz04CcE7Ep7bSu5hse2OPB9oLG8qS3KeJQtodFo8GJE%2FalxfsPVKRV0zPivl0hQpMAQ%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/257197828715544571",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0018",
-                        "title": "Round Neck Dropped Shoulder Sweatshirt",
-                        "source": "The Rusted Nail Boutique",
-                        "price": "$40",
-                        "retailer": "The Rusted Nail Boutique",
-                        "link": "https://therustednailinc.com/products/oversize-round-neck-dropped-shoulder-sweatshirt",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0018_20250731_000516.jpg?Expires=1759084518&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=V%2F%2B6PyE5WFT7qIb0YysYU7BAhlO7ltxnfS0NxxtV9esWdIXzWoBnQrftqd2FVJ7KGRUwxYxQ1SsrIbGTDx6E7kRFNQs%2FrOeES4%2F28b5ZrJoQfBEGkhxY7deNEGKQWowvoloeTvnBvPNGSvQoJWTBFF8CTO0YM0jXWtarbArDzh%2B3qT85bDtJAZaFuD95yG7d4zQGjzu71BPLlXolvBbEodpJzg5cXXax89sEar1RO%2F5REe6Bh7WHfWmuHVAagZWrAxNAWijvN2rrsttvaupqtZzTeQUfop4kGMZNmYbtdDnow10u5OHmDpnrS0MQEn%2BCNt0fkI8IRnhQI%2BGdQ%2FSXRA%3D%3D",
-                        "brand": "The Rusted Nail",
-                        "garment_type": "tops",
-                        "sizes": "['S', 'M', 'L']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0019",
-                        "title": "high waisted leggings",
-                        "source": "ASOS",
-                        "price": "$27",
-                        "retailer": "ASOS",
-                        "link": "https://www.asos.com/us/pieces/pieces-high-waisted-leggings-in-black/prd/205744286",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0019.png?Expires=1759084555&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=YYFzL8KKlWFmq3uvLNETwqw3JnBX8WVNye56PoEL0veT7mGooZWdfiGhdFveP8%2B5rDSnUPPUwredN5utP7ca8XtJUKYtN%2BZpiUvu8D2mA4Q3GYyn%2Bb72tl4HQlEf1MCavgIPU57F7LWSRk5iVAM58dziuC40MiYaM2Mycvu3ZNvC2NFd9HyTMGn%2BPov32qjt86QnF%2B7k13H4tLiAlcSSeCuqKjuVEwqfX4ymuc%2BrlrN86FQYf%2BQLRUCxBp%2BF5xR4ACKC5wNL0iHyxpI6fz2RiKCeHciLtQrVf7nnrjAct65I4utZn8pzqitag5Hs0muhMNWRURZXSRavNhctsABAxA%3D%3D",
-                        "brand": "Pieces",
-                        "garment_type": "bottoms",
-                        "sizes": "['XS - US 2', 'S - US 4', 'M - US 6', 'L - US 8', 'XL - US 10', 'XXL - US 12']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0021",
-                        "title": "High Top Platform",
-                        "source": "Depop",
-                        "price": "$53.20",
-                        "retailer": "Depop",
-                        "link": "https://www.depop.com/products/kjc622-high-top-platform-converse/",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0021_20250731_000636.jpg?Expires=1759084597&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=OGnZpCU8oYvYOiuScVLphXsIqo2EZVv5OVt1BNjmTx9kDqVxRHlZKPfuafJ2Yb2couAlAfxcQM%2BwNwviXBxKLDx0BcoTnJPIS61hvV8SIldm2BuPVaSgmUfU%2FyA425xYgARI2c5598dQI61sOWU9HHqBF2a%2Fp57nMktA52%2F1V6qp2ltQaANZcmy%2F1%2BOS4LIsQ5i4xJ%2F1JhqrfpBdQFtxfW%2B84jADeccLUp0rR%2FLPmgtIAxR5inSyJcxPAWULzQApwVG%2F8y58N8Jw%2FPFx3wW8XkZf9GjY3bfKToLTUmL7eswfWb86E8re55r%2FKQ%2FI%2BboCUDn3%2FhMimLPiTPZ8mHi4%2Fg%3D%3D",
-                        "brand": "Converse",
-                        "garment_type": "footwear",
-                        "sizes": "['US 6.5']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0022",
-                        "title": "Howlite Quartz Fitbit Band",
-                        "source": "Free Spirit Shop",
-                        "price": "$39.95",
-                        "retailer": "Free Spirit Shop",
-                        "link": "https://free-spirit-shop.com/products/howlite-gray-quartz-fitbit-watch-band",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0022_20250731_000725.jpg?Expires=1759084646&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=DKxXFW5aGQAKn4kRABVsM6hPDbL4kSf5l7Ulf8Py63Q5QyBGQOVZCvWX44oLoPw6kRyGfQmBAyHUt%2Ba48DLBXAyU7dKdZK%2BAHHVlK0k03HqA5LUEWqoDZFoZpTyaoRIUoi5kcjql%2BMPLdy9Lp51Jqnu5Ws9nWpoVLWIa30XHA6pR8ue2dE4eoDmjSsisubQtW3baUrZW%2FH0fhs2AeP8HZoCX5%2BWq5T0qe8zJwj1s1pZSZIuxQZNIk9wH9EYGbFM5fJO7QkGeddoIRdCsiqblbB3tAzKpiTyjKAXwfAhFDa2LKIIZdrwDHO30d2e7Dk2Kg9VUpCYwUrUqKS%2FbztaiwA%3D%3D",
-                        "brand": "",
-                        "garment_type": "accessories",
-                        "sizes": "['Small: 5.5-6.3 inch wrist', 'Medium: 6.3-7.2 inch wrist', 'Large: 7.2-8.1 inch wrist']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//257197828715544571_20250731_000504.jpg?Expires=1759084506&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=bWL6evXZ7xq%2BUz%2BRJvfemErUJ1TsvclbSenVvt0Fioc05metKmslkFGsmP5zCPKdRbuN5cY9Xih2WdIVAjWReOpJpC1ySg4LaOp8EfYWfjj1YRyZ3hOcHosgnU%2B%2BDCPsR%2BMjTPMjagXfo1tm5CpQTVNGAUUS3GPN8GXMoD%2FOoEfguV4KWdhVsEGmbjTTwRNyQisczBdpR%2BVb%2BSwMdoPUaHpoaX6JRYxEvERvcG8Vqavcj5EhmrCLAoIA%2FgO%2Fb1SQRP2IiIT0QmT8MeAqN3KBz04CcE7Ep7bSu5hse2OPB9oLG8qS3KeJQtodFo8GJE%2FalxfsPVKRV0zPivl0hQpMAQ%3D%3D"
-            },
-            {
-                "outfit_title": "Cozy Lounge Chic",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//23714335535526698_20250731_000809.jpg?Expires=1759084691&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Mf0IsXPYKcPAo%2F42c01xhHO1D%2BJh8GccysmxFqMoxM7fBvWx7bA5IJOQWbjvrqWzgbUfwSpYmqzjNWHqi3iYtooRMHJuZN9tRN1pny6GCYVWbo0d60L%2BmC8%2B58V2hb%2B9cAPW58EvlmKdKcuj5ZcqAklMOnwq4cYzLE7L%2BpCDW9PnKB6ULT95Y85gtc2RBzu2TZEwKW72o84S3UO4l0RhrJDclJt%2FDqxVNIwJuOgXKXzW%2FQHDG9NZD5Sa6B7AwtcciyWe0fXr02LAqX%2FzTe30omvSysca%2BAPmvTEXTk8lXXjWhmT6jrn%2FPeMwq5Q3HzGyceqKjVvih4W%2F0EQqX9CzWQ%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/23714335535526698",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0023",
-                        "title": "Textured Cotton Blend Long Cardigan",
-                        "source": "Nordstrom Rack",
-                        "price": "$44.97",
-                        "retailer": "Nordstrom Rack",
-                        "link": "https://www.nordstromrack.com/s/textured-cotton-blend-long-cardigan/8331102",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0023_20250731_000818.jpg?Expires=1759084699&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=WOqiUwFJVcMspdTB8eZ3RMjdpE1ilvXKp79LeaSGwqsjfXphuJK5xH88KMwDhhyCP%2Fj%2FqImW%2BKD%2BBRmITAtOdS3rP1yVZNItJWx0xs7rOkQWLpBs9BnWwHowLy%2BNW%2F%2BC%2FmlfGYPkGCkMeNg%2BMxN5%2F9HCP7ystODS%2BSJllj%2BbkYdEFhWol4IrityuO3rdySbSC6ljfCmMBpdh6%2FbCJE1xBbKOyn7GBP9O%2F0omFFk2JAP3o1CvjMXW0gkkQz7gCf%2FsQ8ARwPTRmZiU0EsHgZ9CKmwrIzLco%2Fy%2Fm8kfWE8rUK%2F6wHcje86j%2F5oA9TXOQ8M59ABWd82sH3LCmlY2QgfyFQ%3D%3D",
-                        "brand": "Lucky Brand",
-                        "garment_type": "tops",
-                        "sizes": "['XS', 'S', 'M', 'L', 'XL']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0024",
-                        "title": "Vital Rise Seamless Leggings",
-                        "source": "Curtsy",
-                        "price": "$40",
-                        "retailer": "Curtsy",
-                        "link": "https://curtsyapp.com/item/gymshark-vital-rise-seamless-leggings/WMMchhkmkz",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//discovery_20250719_insert.jpg_20250801_002953.jpg?Expires=1926788393&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=hh4zVubHNVW%2FwXtnEIw9FglhWHkDKrRUpMbBhRJVPEHc%2F5xoHaEXizGIvPl2xVBxgfbQmyXG3EhM9iI%2BYsdKzNwqIQDWdsW%2FnqHACdB1nGYQMjty4cmWOSuSBiy8AALuwW1rbuHQjmJXLHjsaduB6wveVKeApSLAz9TQnew64Yief4CORyOdNe%2BcGRySds4v13hkxhI94AqZOxAs1itBu8O7L0BbnAH76DQYduSKJK3ixLSa%2FrJ6ucL69UkoqGsVt85ImBg8cAxabWuzcq3mbbr5vtYpkL7oC7bZYevIRATX2OwIbYd3QSMr05yjHMxHDsIjdL%2FvoWyUShpvwPCXKQ%3D%3D",
-                        "brand": "Gymshark",
-                        "garment_type": "bottoms",
-                        "sizes": "['Small']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0025",
-                        "title": "Layered Chain Necklace Pack",
-                        "source": "Glassons",
-                        "price": "$14.99",
-                        "retailer": "Glassons",
-                        "link": "https://www.glassons.com/us/p/layered-chain-necklace-pack-je188690n-l-gold",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0025_20250731_000957.jpg?Expires=1759084799&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=bhNCRgqeRBwk0BAN8cSx7LCVPJPakgDi%2FBQA1KYG6Al5fshaj6fVVs%2Fq2nZFX%2FEwZZA9gNyFhgMJCXD8cjuavSGvy5s5v78R8u74J6RaJZhFlhC9uH%2B0FpfTLzSGxM13q412KMD0edoMohFVJZJ2RMT8lqPbZJ9x9KcZKMs403ghT53uBjzDs2AR%2Bzey4E0nDmbx0hZuVxJTlT%2FrFJFZYmL8JsjYLIToVaxfirh5syLTObsMH3e0IinmKcgoI865kNHNIp%2BDjiDxn3aH7F1h0d4zUR0TsdHCZ02nJSr42LJj0W6k8UeVAU8ejCI6EXTRWqZS4afdxsftguzRWV8SXg%3D%3D",
-                        "brand": "Glassons",
-                        "garment_type": "accessories",
-                        "sizes": "['OS']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//23714335535526698_20250731_000809.jpg?Expires=1759084691&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Mf0IsXPYKcPAo%2F42c01xhHO1D%2BJh8GccysmxFqMoxM7fBvWx7bA5IJOQWbjvrqWzgbUfwSpYmqzjNWHqi3iYtooRMHJuZN9tRN1pny6GCYVWbo0d60L%2BmC8%2B58V2hb%2B9cAPW58EvlmKdKcuj5ZcqAklMOnwq4cYzLE7L%2BpCDW9PnKB6ULT95Y85gtc2RBzu2TZEwKW72o84S3UO4l0RhrJDclJt%2FDqxVNIwJuOgXKXzW%2FQHDG9NZD5Sa6B7AwtcciyWe0fXr02LAqX%2FzTe30omvSysca%2BAPmvTEXTk8lXXjWhmT6jrn%2FPeMwq5Q3HzGyceqKjVvih4W%2F0EQqX9CzWQ%3D%3D"
-            },
-            {
-                "outfit_title": "Cozy Campus Chic",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//2111131072788324_20250731_001035.jpg?Expires=1759084838&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=UTdoZAVzMiWrQtFbrOACHjlwddP%2FVw9YSquB7Ilzhr7jEHHIvObPaDl%2Bdr7IMVI3n8TPfmn9M9fz1hptf4AkgYF9Tl%2BS4jMPnMYZvgWPRa3vIqEsgAtMwyPsZwi779ZgUTZ26F5xViyO5jHI4Otni3aI26UqprFwnFquEH9cEkDIvaxS%2BlITP465%2BimXV%2FJC4H8iLAStibAgYTiCc0mApFfWrQspZWpqJ4OTfgRwieG1EaGqC8%2BYq2yVUTsZTCDHexm61HRfqq3yrofUVpXRmG0a%2BfMqhfob%2BXFOhxbsKY5Q2K8HBbDffuFIed0la70bnjJ%2FIx6GcX2AI5NWKUw%2BWQ%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/2111131072788324",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0026",
-                        "title": "Rib Knit Mock Neck Pullover",
-                        "source": "Target",
-                        "price": "$75",
-                        "retailer": "Target",
-                        "link": "https://www.target.com/p/women-s-oversize-rib-knit-mock-neck-pullover-topshop/-/A-1001402029",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0026_20250731_001047.jpg?Expires=1759084848&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=aEzyLpJ%2FdqJwxq6WneZa5pdf6Ukx%2BCZMxVc28uWKw7t1XrV9vcGcKnLHPZVJOnspBBtkjP84%2F0FDEzOuXn2poecepTQnW3rgDY26vMHR6irYG3hmduSYdkkWNBCeSv1gnRCplwHNIz6TYMWRs9RCY61Xmwe%2F%2B09OtDuqF9Vrl6PP4e4gOiTveog4qcQC7ZvuiHvuP7ci8Ji8%2FYyKdtbn6SE%2FqHPW6AlY0pUpPCa3P61xxBJC6Nhf8cyefG10M%2BJV8G7UyvGlV9QyYgb8Q%2FwHh8LVIVlsw5eTm8RbpkIbg7%2F8XHngc7fqSb3VirqJHiCbz%2BwJ8YVMEDA4GhmUcQGGgw%3D%3D",
-                        "brand": "Topshop",
-                        "garment_type": "tops",
-                        "sizes": "['m']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0028",
-                        "title": "Dunk Low SE Free.99 White",
-                        "source": "www.firstclasssneaks.com",
-                        "price": "$150",
-                        "retailer": "www.firstclasssneaks.com",
-                        "link": "https://www.firstclasssneaks.com/products/nike-dunk-low-se-free-99-white",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0028_20250731_001137.jpg?Expires=1759084898&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=X8hpK%2BXmmuGXGBKa3Gk4uBRGT0Y2IphL%2BF06lUBuHV%2FyDmE0LNPh9dmE0jcO6F8uKiYgB%2Bidi%2F%2ByIxm9ceHh2foqPlwYKWxV4R9djLiPy6n%2BHQKvyxFWXTF7gMjxQeUi7PfdOJ5Z24IoYnTWxjNJtNv1JlweTINfPd96mTyoVWaSasRBYEkHSpqRVD3Na3Oc%2B%2B3BWnCYeyqqyjCog1tD41Y1GKPNybFbPA%2FTac5NVKuI14FwgciYTObJ%2BEItDPSaBq3Bs1cxR564yf%2B%2F502%2F2hf%2BUx5qAGin1uyTqYmC%2F5rOewPyM7gD%2BJIaerKYz%2BiXNCFHKjtuC6LeisgmYvZajQ%3D%3D",
-                        "brand": "Nike",
-                        "garment_type": "footwear",
-                        "sizes": "['7Y', '9.5', '10.5', '11']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0029",
-                        "title": "GG0631S Sunglasses",
-                        "source": "Mia Burton",
-                        "price": "$ 185",
-                        "retailer": "Mia Burton",
-                        "link": "https://miaburton.com/en/sunglasses/gucci/gg0631s-001",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0029_20250731_001203.jpg?Expires=1759084924&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=EVpa0sEUerHUPax6uk56hKuwzM0V1mE1xFs9983tUASzIkCKr1Cemjxq6nh6Gl9iYSUwuNwGp2jE6xMNDufs7SBWmmPBrf7If1XRfPH1atAEVyZQ0eJMgyowLwZxKVwGaYSJ53Zfp0iZQ8iGQilCb8M9JNsQ0m5i9NjoNOk3KLL%2Bqqe5ObWrb9pRWWpyAT21jqUCPttbYkyZY5FzdxHYEMqU0KKjoC0sqdYg5Rsx3S4OYsBkzXRqbr58TvwbJKtMTTsouMGy7OLgHkvzYjdRrOtxrBMBsdkG%2BsGTuG9kXNQUOm%2FrCPJOdKY9c5EMzYSPv2LvHgUZhQ2btayWUsjdbA%3D%3D",
-                        "brand": "Gucci",
-                        "garment_type": "accessories",
-                        "sizes": "['56 - 18 - 145']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//2111131072788324_20250731_001035.jpg?Expires=1759084838&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=UTdoZAVzMiWrQtFbrOACHjlwddP%2FVw9YSquB7Ilzhr7jEHHIvObPaDl%2Bdr7IMVI3n8TPfmn9M9fz1hptf4AkgYF9Tl%2BS4jMPnMYZvgWPRa3vIqEsgAtMwyPsZwi779ZgUTZ26F5xViyO5jHI4Otni3aI26UqprFwnFquEH9cEkDIvaxS%2BlITP465%2BimXV%2FJC4H8iLAStibAgYTiCc0mApFfWrQspZWpqJ4OTfgRwieG1EaGqC8%2BYq2yVUTsZTCDHexm61HRfqq3yrofUVpXRmG0a%2BfMqhfob%2BXFOhxbsKY5Q2K8HBbDffuFIed0la70bnjJ%2FIx6GcX2AI5NWKUw%2BWQ%3D%3D"
-            },
-            {
-                "outfit_title": "Sophisticated casual blend",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//21955116929530721_20250731_001850.jpg?Expires=1759085332&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=dnvVxJUunH1WP5WidFYavsoEXRd29R9xNJVpwiBqOcYuxnZL9%2FOJkz7jPDnUIcsXYOQHTmL3QvpI0r%2FrFBqmxJBa1BBsiyloYYYO5zd3KlLEEBwC%2FTB%2FoaVSnwiAFnQwtZnd8fSuCWhcfw7UNkWOQArppZPlatrwgl2xsQ%2FUpscJ%2BLdT67GJHtVFr2oEYOJr20SbPfb1d4AEvlULgv0qAtePam8N5w2eJcPPzhzPFxBubO3WAxZuhiHTLKgZYewa8MZGDe4PjnFcQ%2FvI1MEcOgb3xzNvnlru5fWTR%2FG67ngSM0qOr1Bs8S1gRwHsaNPbG%2BEqzB5dTq8ysLFkKBesbQ%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/21955116929530721",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0042",
-                        "title": "Astra Active Joggers",
-                        "source": "Wild Oak Boutique",
-                        "price": "$38",
-                        "retailer": "Wild Oak Boutique",
-                        "link": "https://www.wildoakboutique.com/products/astra-active-joggers-forest",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0042_20250731_001903.jpg?Expires=1759085344&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=NU5XLzwPSSgEawYUqsu4CFx2%2Fndcvbup8WoYRQRonGrbXiKRPakBcAJLLvE06YkV2usRD19oHEKRUO8JabXjLzpT8L6rI3scnA0unkL4cgFafzh38u9OuIdrkXxLf2oJlfi8GZ1Y8Cxy3GT36BUMxB69LazfKH%2BTvoox%2Fn48IUxh4hvnRw325E1mD0%2Fq0lleYDe5Lp%2FdQ8y6yNLonJeIhp18u8yA%2B%2FxncPgLV1027i%2BbSgZTjFmKTTltcS63Lr81%2BJZH4FWZDVAnC8qYKbHoM4LhgxTDj6834M8wQLPA2j135L9laMZjqNgcJpmtj1PS95pkh0ppgPj5lEzR1Lc%2Fig%3D%3D",
-                        "brand": "Astra",
-                        "garment_type": "bottoms",
-                        "sizes": "['Large', '3XL']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0043",
-                        "title": "Heather Ivory Pointelle Sweater",
-                        "source": "Lulus",
-                        "price": "$49",
-                        "retailer": "Lulus",
-                        "link": "https://www.lulus.com/products/casually-cuddly-heather-ivory-pointelle-pullover-sweater/2005256.html",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0043_20250731_001927.jpg?Expires=1759085368&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=DxWfXa8RV%2B%2Bh%2B8TYeuMxlzgroW0KSeUhHS%2BIlKQCBkTsrWx%2B%2BYw1UOy%2BDtZ5cOySR2nee9BM%2Bq7PNxFvL8%2Bkpk4xFCnAxuOll8RaC09W9XxhifS8C7qK88CJhZ2r6FNzntZaNJOB9fNjZvUHvYEHKXXSmyjjdhESqVrcy1o8zJPnoeVe5JhKyrv6EotZ9Z1MamV9eZBPKxLTs%2Fac5TLzI3bqm7bX7z5RgIQkw2oJR%2BHj%2F3wTvZmwUXOvjZttS%2F4gYQeMtOLBA7lcXPm1%2Ft8nYaEaQ3FBIY0p6afxqbBg7Zf5lMEd2Hbx%2BMixV8wIUmOcrd5aw7FSwo0bZdWoqtJvow%3D%3D",
-                        "brand": "",
-                        "garment_type": "tops",
-                        "sizes": "['XS', 'S', 'M', 'L', 'XL']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0044",
-                        "title": "Nude TNT Heels",
-                        "source": "Poshmark",
-                        "price": "$15",
-                        "retailer": "Poshmark",
-                        "link": "https://poshmark.com/listing/Nude-TNT-heels-6655e615d90d211d7536d9a0",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250731/pin_images//discovery_20250719_0044_20250731_001949.jpg?Expires=1759085389&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Vr8699SaHRBydcnIojnKh7qqphpruIUXSNVIqbaNOjqpJ%2FOTXvWC5bNj1rn01FD%2BIscNHBIWFEOxh7Xol%2ByycgplsXrUkXLSf5LZRpTp9zx7vZpkQOr%2F7xR6Gqmf6KOBI6QsW3TFlVBdXTji2SPTu1%2Fw7xPDlAI9c1RBRi9hw4wEKfQGIVQ4UvMix3TTCobT%2FiBhWNjCALeXZktNyEFDPr7PBoMs2bWT0im9MulHnLpAPpw8NcgcyzencAHm0HMwhCIbe%2Bh9k9u0JWLD%2F%2BC82aerhgnGu%2Fb4BPa1sSv5kbj0A2wR1n6mj3k4N6AuaMROW28t9lwby6PzURNzV6TwIA%3D%3D",
-                        "brand": "TNT",
-                        "garment_type": "footwear",
-                        "sizes": "['7.5']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//21955116929530721_20250731_001850.jpg?Expires=1759085332&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=dnvVxJUunH1WP5WidFYavsoEXRd29R9xNJVpwiBqOcYuxnZL9%2FOJkz7jPDnUIcsXYOQHTmL3QvpI0r%2FrFBqmxJBa1BBsiyloYYYO5zd3KlLEEBwC%2FTB%2FoaVSnwiAFnQwtZnd8fSuCWhcfw7UNkWOQArppZPlatrwgl2xsQ%2FUpscJ%2BLdT67GJHtVFr2oEYOJr20SbPfb1d4AEvlULgv0qAtePam8N5w2eJcPPzhzPFxBubO3WAxZuhiHTLKgZYewa8MZGDe4PjnFcQ%2FvI1MEcOgb3xzNvnlru5fWTR%2FG67ngSM0qOr1Bs8S1gRwHsaNPbG%2BEqzB5dTq8ysLFkKBesbQ%3D%3D"
-            }
-        ],
-        "num_outfits": 6,
+        "num_outfits": 5,
         "header_metadata": {},
         "sub_header_metadata": {}
     },
@@ -570,12 +794,12 @@
                 "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//300896818876365076_20250729_000552.jpg?Expires=1758911754&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ZPQhGURIYaCiEDLrRxHBozZS62Li2%2BgZQu9gBJcWkx51pyCR3tBzPZanC6RVBSs0uBhP7BkKe76xGuGW6BquQdUt9qGoCHOAKToyumxG5Oj6XWn8povQi9EMVnZvep%2Byukcr6vkiWBbTONKEdCcfqVfjDr2MCq4CQo6u5AzXMtSmISZo3pK0DmTLhSkZyQ17D4SowD5uXYv8I3B4chJ0OnU8YA4E8tV74J2LkaTXAbHkDL%2FpVmD8oJkeVyCRC99nbG9zUQHO6b2HjXZrZGt%2F5%2FdB5X50j8LVkT4O2ZopQHjFMUkVZZMuuWc%2FPUY4C5BcftlhDQNGVWzhqqN19gw%2Bkg%3D%3D"
             }
         ],
-        "num_outfits": 7,
+        "num_outfits": 4,
         "header_metadata": {},
         "sub_header_metadata": {}
     },
     {
-        "header": "Jenna Ortega street style outfits",
+        "header": "Jenna Ortega Street Style Outfits",
         "sub_header": "Celebrity Street Style - Gen Z Fashion Inspiration",
         "outfits": [
             {
@@ -729,153 +953,9 @@
                     }
                 ],
                 "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//577445983510588605_20250730_082358.jpg?Expires=1759028039&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ef26tocdW%2Bvca5J8amT5jDlejym5W1m9SvSBAuKIBLk57sMgtfUqEdKXo9BS0hntcZqPip16%2FXGUtU2TwM8tioKALe9%2FVF%2FWJIfz1cRei2T544zd%2BKiGRy80WbuFfy%2B8RJ1AQJvyVSJ7a6gwBncJHFsoXcMyELnKXeZtNd0xrCoX6ORpzdORh4X3GW7UBjCEzrKj2UFQI27aTPKnryYEDzy3t%2FAA%2F%2B%2FRPbmW7XX46J9g31nkjPnAFgyYOYWpgJlV0dYO4x8K7l3%2BqxGPUgLHqD1uY1M%2F1J%2B18WWffQiPfEcuEj2cvzWzpA7GyicWi263LtcQ%2FmDlJHqTm%2FurqjA%2BWg%3D%3D"
-            },
-            {
-                "outfit_title": "Plaid Power Pairing",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//227783693648276506_20250730_082523.jpg?Expires=1759028124&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=QAhsXtD89LiVsNwUODovZMeIxIdyTWfNLPQ8YwGM65AflNo6aiB4%2FpP7upsD7Ow%2F1SRkcZfWl8yVyXI1bJRmEiMeTi1f%2BzNkfAtWdGjF%2BxGIINXfsxgUQpvp8yhRMUYy5%2FRAJHK35nZJ%2BjsI4bvh3wcAuui%2FiKjPDu%2FUWhukE3lVaqBEJqzAOPeTlmH3e%2F9fcFCahlT4D2FVvpGPU6MeZP6sx5vfrcc2NsYF%2FM68l2DutnauRzXFs%2B8NijoG2luJYuGBMr7MGJ07BVDWsRopKgTEAm%2Fvd3qIUyApqUFkwxJoSclXZWSY1dLSsGTNvSiP5XBe9EbAEpddHVCqDPG1Ww%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/227783693648276506",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0029",
-                        "title": "Business Tweed Blazer",
-                        "source": "Fashion Nova",
-                        "price": "$49.99",
-                        "retailer": "Fashion Nova",
-                        "link": "https://www.fashionnova.com/products/about-her-business-tweed-blazer-navy-combo",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0029_20250730_082530.jpg?Expires=1759028131&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Qx2AMohiJS7dGjj8TuQnO6YRZ6XYujwsPR81JMMOWXTvGZYCA5sTfDCo6CMDHelZ3i3jxnoxAR5s6lh3sURUD6mIzWuxuoEfNxa3tEF%2FMkIDg3rGPiTlQkR55HdQlk8%2F3uR964gdlaePa%2BihX1fX%2FPm71LmhJWkxqNnQ5OfdVlIrFt9Z%2BcmPFeQsRwSdI0MgFEYMihe2vknhnBosblbJ%2FfnD2SBVUKMXyZxIhk%2FA6vbEcaGNag8Km5ZNLw1fY1YBEFXHDYufCEgl6pw9q9qHEPeOIDH1hmuLFRh%2BdpDjTe2%2F4EU475aoYpvlRMfigV7dH2rP5PVMa8W9dQIgW8jLyw%3D%3D",
-                        "brand": "Fashion Nova",
-                        "garment_type": "tops",
-                        "sizes": "['XS', 'S', 'M', 'L', 'XL', '1X', '2X', '3X']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0030",
-                        "title": "Suede Matte Banded Tights",
-                        "source": "MeMoi",
-                        "price": "$12",
-                        "retailer": "MeMoi",
-                        "link": "https://memoi.com/products/suede-matte-70-banded-tights",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0030_20250730_082548.jpg?Expires=1759028148&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=POKhxmKzM3n8HFdN7W9i7%2FVF89tYDjRCvJxHRsohQPN6H5U7MDo%2FwNHS7vhsVRttJeqf6ALJMuqwgss1GhvfuZmOig8fAf9TWHwgK2kL2A0m4bDytvPWKyJOqIRDUYVaqHBKjAs1TC7DZQmP2JlXqsC4HA1Sq%2FMDLiRE9Z5k6bTdDuasYZXrzdSxamPS2CnGZoASWzRPZyGN1Ga%2FFB9dZkVz5%2BZCyMpe8J%2BXMQDVEJ34JlFcZFyL9wC5F6opjCNAqdL2NiUA%2F2tlWgrQzu%2BG%2Fs861fhPvGAEz2kbzXWoLIz6UCkmXF%2F%2F7444DyLvAXoynI4Top97K8tt5aUI99F9Uw%3D%3D",
-                        "brand": "Memoi",
-                        "garment_type": "bottoms",
-                        "sizes": "['4-XL']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0031",
-                        "title": "Plaid Knit Mini Skirt",
-                        "source": "Saks OFF 5TH",
-                        "price": "$118.99",
-                        "retailer": "Saks OFF 5TH",
-                        "link": "https://www.saksoff5th.com/product/veronica-beard-plaid-knit-mini-skirt-0400019293153.html",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0031_20250730_082607.jpg?Expires=1759028168&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=U7YuqRqgWS6i2Mhxkff%2BGuzLwYefl3x4KfekxpvaQfTJH4j3tCGUwtMU1m7o42dhPfjkPsZSh5QRBWBcaKSuFhue4mSE3LDJmJBrjzuIIzAr10ygyMdeKph1iOukIazYwX9mlgyoFyJCt3Hblg6mLhdxqie8eS%2FJeWvmSDJp6vARhvsssylU34oYsM1XkpYclYHBcjOmDOfthRT8bk2x%2FFYp6ecif6CjgAERTEhvJQvcSHM4YxD8usiJbrKhCRfDJj0YLtnPqpmEllSTa8OAnJ78eQ8xIYWABTfQajMAUWmQWLNWUdTO1mFksSubJRcBGK6ohX8zlFwj04XRrGhpPg%3D%3D",
-                        "brand": "Veronica Beard",
-                        "garment_type": "bottoms",
-                        "sizes": "['0', '2', '4', '6', '8', '10', '12', '14', '16']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0032",
-                        "title": "Chunky Heeled Mary Jane Shoes",
-                        "source": "Cider",
-                        "price": "$59.90",
-                        "retailer": "Cider",
-                        "link": "https://m.shopcider.com/goods/chunky-heeled-double-strap-mary-jane-shoes-105635572",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0032_20250730_082628.jpg?Expires=1759028191&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Sh%2F2zCoHJiiOmMeDcHvBFvu906tpQypbMOEX5zDKC8RWl91snqs566NR9WC9lV%2B%2FqIeocUZGBshTP4Vpc%2Bs0jI6XQGKzPjswANQOs231SCQEfj1E%2BLh2iD4URpg8jV4jaWHmVs7hOh1eVraTlqw2pTC%2FkLrOj9P8wcITuYlnygrPPbWaMdF64i0uKYBK4d%2F2taluIkyxSAWDKF5Y7prEGq56mt%2BBLeHLEoTbeAJKD37MzrFvDYKuKsDm7Ku4B7rjugEoUg6t%2BDOxcBnw%2BRZVqFpDjcJ4zqCZ2hsyz4AcFuOy%2Bgxb2QoWbWeSpeB%2FTLQqd29sd6qVoJ0o%2FefDspQJDw%3D%3D",
-                        "brand": "Cider",
-                        "garment_type": "footwear",
-                        "sizes": "['6', '7', '8', '9', '10', '11']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//227783693648276506_20250730_082523.jpg?Expires=1759028124&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=QAhsXtD89LiVsNwUODovZMeIxIdyTWfNLPQ8YwGM65AflNo6aiB4%2FpP7upsD7Ow%2F1SRkcZfWl8yVyXI1bJRmEiMeTi1f%2BzNkfAtWdGjF%2BxGIINXfsxgUQpvp8yhRMUYy5%2FRAJHK35nZJ%2BjsI4bvh3wcAuui%2FiKjPDu%2FUWhukE3lVaqBEJqzAOPeTlmH3e%2F9fcFCahlT4D2FVvpGPU6MeZP6sx5vfrcc2NsYF%2FM68l2DutnauRzXFs%2B8NijoG2luJYuGBMr7MGJ07BVDWsRopKgTEAm%2Fvd3qIUyApqUFkwxJoSclXZWSY1dLSsGTNvSiP5XBe9EbAEpddHVCqDPG1Ww%3D%3D"
-            },
-            {
-                "outfit_title": "Striped Casual Cool",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//704461566750518337_20250730_082655.jpg?Expires=1759028217&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=M6HRVO%2Byju4jj7F1if1uBN5z8jJILz0vgpc4D7jHyORgEf7LY8986laoyBxPv3cnQFsg5WKvz6pXKL5Hmz%2BjIflB2CqjQkFSGD27YIQRTE6vHFKFY4cyUPydnDzbK7H4z2D4ZVS2AvqFj%2F%2FgidDo3A00QVrdOqlL8pi5o82iSh8T4S81ZYpRFDiS4mBgSDP%2FVRo9s2HxgPT%2FAV4ukKjKRhs%2F5lT5bDkNNury%2BvWDkxSsd5ErEkWPGG1ubw0mTx6WxcxGeJbWUpFC0GlXZhIVUZxHGAa4%2FhEkNn2M5eBXeBsV02A7y%2FHm0%2BfTwcfhg2%2FwgAlsRXsS1gTiGmfKZdmreA%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/704461566750518337",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0034",
-                        "title": "Vintage Classic Blue Jeans",
-                        "source": "Etsy",
-                        "price": "$165",
-                        "retailer": "Etsy",
-                        "link": "https://www.etsy.com/listing/1471360039/vintage-80s-levis-501xx-red-tab-button",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0034_20250730_082702.jpg?Expires=1759028222&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=iY82wa8BXJmz9T7BaLJi9heDJs2OrCHgclO26C19%2Fu36xCz%2FGq6l1uej3q9H7J0x%2BLExr5VAB%2FhLqIFqW0qnkUz%2FXubD1N8wZhLNOHZ0ZG5SvYlE1SH7bMBd8L2GqB7mW6RzFkDyYnYQs%2BLEbl507cUcgneM63QzfsXcZVmQ5USG49sainwV0UFBtmpENPFQ2U9YDIgwPBnBcjZNZaJqSdGggFOxV8vq3bR21bFZZLIv7A35Sjp44QEBi3svf7mz4h4x5YjGDDn6P4qJ9KyvSOBRxKJcuhD5vKRUnAymKDD5N2DyqxbWzhQHgQLVuq4s%2F1fKVHaRTKyFsKxEvlMP8w%3D%3D",
-                        "brand": "Levi's",
-                        "garment_type": "bottoms",
-                        "sizes": "['30']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0035",
-                        "title": "Pink Red Striped Shirt",
-                        "source": "Poshmark",
-                        "price": "$65",
-                        "retailer": "Poshmark",
-                        "link": "https://poshmark.com/listing/EUC-L-Pomander-Place-pink-red-striped-shirt-womans-top-661f4dd4b9db3a2e232e4d40",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0035_20250730_082721.jpg?Expires=1759028242&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=iXWn0Lxm%2BMyrZh1%2B97stWB9amvFLI1VE%2FQZ2zyRdxwpNyg3ZskJvh4gceet6%2FRMMBNYRNcCDffkb2VHGyDaSjkE%2FpH8%2BjE1Z%2Bgejieq9vMBkXXGCA82KGq9iPZiha4yInkXCzLIhZGTaC6jSVHIKDucopm4zEc0fNEeYbETKj%2FGYdOUDawxqujLyqzPPMRAsvtneyUvjSnTyWkyRD8xAP%2Fglcevkw0B1TrcL4D2iLM1e5mCbsz5sDrdsHSvUA3B7%2F2cYGBlyJKjKFP9dhWcelS2cF6RxgEfdq5UoGVy7Dfo4TDNP%2FW4cBdWlvJEzx1YKgAm8Y3FIPOcZseCAuq1ilg%3D%3D",
-                        "brand": "Pomander Place",
-                        "garment_type": "tops",
-                        "sizes": "['L']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0036",
-                        "title": "Converse All Star Hi-Top Sneakers",
-                        "source": "Mercari",
-                        "price": "$90",
-                        "retailer": "Mercari",
-                        "link": "https://www.mercari.com/us/item/m38385196369/",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0036_20250730_082740.jpg?Expires=1759028262&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=RTvTwq%2BL8fjmNXP4%2F00oMzqFnk5jtpzrEyi7297WAZfl2dCZvh10p3vaJPuCasiYrcrQ1BF6I0%2Bq6j1BAaXAPI7GUWWBKDm2b5CaAJgr8cFHufAgoW1%2BiqUiSqaG0wGiv%2BWctVYzzajXYUveXTM92NgWswuLC6QBWGB16hR%2F5MP4HBJtlGwYTREtl%2BTITFJIjyrFI99AZbi%2BrNGW2J583e97TQw0fjblin7HbaBr5c9uWVGJT0cdSY3XCyKPl0enpYkByzNiUgQzqk5Qi%2FgBmAiaegD5tVZP72HI9TX1dsT3VfUKrl9hqdRlH31lOGDQY5jlCTbak6nwXhhfjh7dXw%3D%3D",
-                        "brand": "Converse",
-                        "garment_type": "footwear",
-                        "sizes": "['9.5']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0038",
-                        "title": "Shiny Black Round Sunglasses",
-                        "source": "GlassesUSA.com",
-                        "price": "$76.30",
-                        "retailer": "GlassesUSA.com",
-                        "link": "https://www.glassesusa.com/shiny-black-small/muse-m-round-shiny-black/32-002230.html",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0038_20250730_082813.jpg?Expires=1759028294&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=QYPZ3kVhIOpBZ%2F5zlvDKYLR2qNe%2FnPGhAfmusandPozNDZM%2FEJeZ2%2FnD66o70%2B3yMNJFgfLqPArtppoqQx37RFy8woYZs47NTYxJl9WMscitUrpckBZNWyutdsti9u4SdPFRLSCfe%2BQ7Z%2B4ALm9GY9CAlhbzqgmUAmkEdbcEEbxQ8XkiQgP752G7nuSZeNs5DfnNSgh%2FyrmYkAD6upEIL6nXpxUUC52m1qfb00jxpwtIlBxT7DDlOAqoFtogjgGSIJuAPrXVW9yXMTm1U5Whp3B3a%2FRWJe9BYj6ejUQkqJYLqbzRCGsEc020a7pLpDAqmkSitVUQxzeU29ipB%2Bh%2Bpw%3D%3D",
-                        "brand": "Muse M",
-                        "garment_type": "accessories",
-                        "sizes": "['Narrow']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//704461566750518337_20250730_082655.jpg?Expires=1759028217&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=M6HRVO%2Byju4jj7F1if1uBN5z8jJILz0vgpc4D7jHyORgEf7LY8986laoyBxPv3cnQFsg5WKvz6pXKL5Hmz%2BjIflB2CqjQkFSGD27YIQRTE6vHFKFY4cyUPydnDzbK7H4z2D4ZVS2AvqFj%2F%2FgidDo3A00QVrdOqlL8pi5o82iSh8T4S81ZYpRFDiS4mBgSDP%2FVRo9s2HxgPT%2FAV4ukKjKRhs%2F5lT5bDkNNury%2BvWDkxSsd5ErEkWPGG1ubw0mTx6WxcxGeJbWUpFC0GlXZhIVUZxHGAa4%2FhEkNn2M5eBXeBsV02A7y%2FHm0%2BfTwcfhg2%2FwgAlsRXsS1gTiGmfKZdmreA%3D%3D"
-            },
-            {
-                "outfit_title": "Vibrant Mini Statement",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//248964685646685048_20250730_082947.jpg?Expires=1759028388&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=U8eXQVOhwnvL4JN%2BzXFYxaH8v1zfTb0xuPBTQ%2BJb4TYj38XSnJryN72SLZFUncud9EKXrGamZZp%2FMrBJZUeChisVerzk1Ctxb40KDZB9bE6dzIVuQDgGUKyMv519qvBVBX3M3gBTXYCFI9T823rUtfMwP850r5hlSQjWowVMVF7N4zqePwmNvMcpvVpM5fesJX0M%2FjbtVc%2FuNtNMHQENepONoKqUbHc8%2BXc4U0SaBZR6I8NLXCWii5%2BVhEg0GcyiWJvu2%2Bvr0SdQRsy6wgNedCob99DDBwJt%2BlRSfVat%2FwZoOnF0H%2Bn1mFD6p%2BTLkshfKuFxqRhDZM7934phB0RMaA%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/248964685646685048",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0040",
-                        "title": "V Logo Leather Shoulder Bag",
-                        "source": "Saks OFF 5TH",
-                        "price": "$1,999.99",
-                        "retailer": "Saks OFF 5TH",
-                        "link": "https://www.saksoff5th.com/product/valentino-garavani-v-logo-leather-shoulder-bag-0400017799589.html",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0040_20250730_082955.jpg?Expires=1759028395&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ByutB0Pxe4xfrVVuOdJIg%2BqDYy6tr2x5t7gwyHrdIFR5cRyJmqq2Q7I6kvSn0lS3zrYNBdG%2FCl4Vz%2BDwVWZ1vq%2Fk8MgwRLMrPWBnEcJEXwBA8k0xb2sHOtBDY9X8Cy0pISh2ryUa3FCanuAC1ivqkPb8KgrESi%2BUJZZtDDdMTJ5HXPbfhnVVwI8DBSLgP%2BNMrH6cP8Gv32gdhBIJaTWzIrG24fW0Qv3KIyYIOYpJ6HKvbQngQbBl6YwIHp61S%2Fogw1omy6HAZdmzTWsS98Gtuu0jKS4Yl7drv0GuZwGGNix1xqw8Xi24E5pg2SkcYbU8eoky3Rf9aUh5ypKHNe2qZA%3D%3D",
-                        "brand": "Valentino Garavani",
-                        "garment_type": "accessories",
-                        "sizes": "['One Size']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0042",
-                        "title": "Patent Leather Ankle Strap Pumps",
-                        "source": "FSJ Shoes",
-                        "price": "$90",
-                        "retailer": "FSJ Shoes",
-                        "link": "https://www.fsjshoes.com/products/womens-patent-leather-ankle-strap-heels-pointed-toe-black-pumps",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0042_20250730_083049.jpg?Expires=1759028450&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=fgd7VG%2F73%2BgjykWW0A590WLQj8ChpOQerC0MIdgSkEeNSByJYWT%2BskURkNJQPN24nuXV64PdMQv24tGPpMl9wSSxwUB%2FABo4n0E8NOshpNZ9wI7Vo5Y%2Fs8ethaNZIgzOraZCvZzCdHlPWFkWbIf94I5zEKHbuP8QATrs16F3H%2FtEjTVQ9hfqAurdRAk%2FvSdlLMJDVOusbWBXZtrlqs3I6YHuNrRYL6JmhnVvY4MnJP1TRddC0ev7qc7yECAUAc%2FZljs13gIeE7OyGxEN3ccWrH84z95PVAIIuc14T5N%2FUy9QjeRXIvOI4%2F9BXiuAxmoO9JGU50hCeLcp3oy909Cowg%3D%3D",
-                        "brand": "FSJ",
-                        "garment_type": "footwear",
-                        "sizes": "['US 3 / EU 33', 'US 4 / EU 34', 'US 4.5 / EU 34.5', 'US 5 / EU 35', 'US 5.5 / EU 35.5', 'US 6 / EU 36', 'US 6.5 / EU 36.5', 'US 7 / EU 37', 'US 7.5 / EU 37.5', 'US 8 / EU 38', 'US 8.5 / EU 38.5', 'US 9 / EU 39', 'US 9.5 / EU 39.5', 'US 10 / EU 40', 'US 10.5 / EU 40.5', 'US 11 / EU 41', 'US 11.5 / EU 41.5', 'US 12 / EU 42', 'US 12.5 / EU 42.5', 'US 13 / EU 43', 'US 13.5 / EU 43.5', 'US 14 / EU 44', 'US 14.5 / EU 44.5', 'US 15 / EU 45']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//248964685646685048_20250730_082947.jpg?Expires=1759028388&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=U8eXQVOhwnvL4JN%2BzXFYxaH8v1zfTb0xuPBTQ%2BJb4TYj38XSnJryN72SLZFUncud9EKXrGamZZp%2FMrBJZUeChisVerzk1Ctxb40KDZB9bE6dzIVuQDgGUKyMv519qvBVBX3M3gBTXYCFI9T823rUtfMwP850r5hlSQjWowVMVF7N4zqePwmNvMcpvVpM5fesJX0M%2FjbtVc%2FuNtNMHQENepONoKqUbHc8%2BXc4U0SaBZR6I8NLXCWii5%2BVhEg0GcyiWJvu2%2Bvr0SdQRsy6wgNedCob99DDBwJt%2BlRSfVat%2FwZoOnF0H%2Bn1mFD6p%2BTLkshfKuFxqRhDZM7934phB0RMaA%3D%3D"
             }
         ],
-        "num_outfits": 8,
+        "num_outfits": 4,
         "header_metadata": {},
         "sub_header_metadata": {}
     },
@@ -883,218 +963,6 @@
         "header": "Millie Bobby Brown Street Style",
         "sub_header": "Celebrity Street Style - Gen Z Fashion Inspiration",
         "outfits": [
-            {
-                "outfit_title": "Pristine white ensemble",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//7599893115878434_20250728_234149.jpg?Expires=1758910310&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ITpnXi2v78Zeo61ubvjIIjEQdFib57ANvTTnztapN5HdnHnYN6%2FOemuX%2BoGuZ0a8mDDXsqaCQjwJKAgJBlCajKxB7goOY%2BkfnKQCG0PI4UAVCzQduRzePemYMlNY5%2BsxVRUi0lMkfV6ED1xYRL%2BGpruVQmQ5ExVUm%2FAM3rk8q%2FAQucqptvmbdNruPG4Yv8wsLOmxgo1qlafoQ80QGFCk2PYk9bKDPV4X3i9G%2FjL8APQKxNhnCZCCd8aql8U9PvDCdA58D4ic3920JJnnPs1cToPAtwSH%2F6kxpZViQiqw0Jxp%2FJkKtPZhdlzUJyjV3XCvZWiHtTGO%2Fco7X8tEyRguOw%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/7599893115878434",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0046",
-                        "title": "Monogram Canvas Camera Box",
-                        "source": "Louis Vuitton",
-                        "price": "$3,700",
-                        "retailer": "Louis Vuitton",
-                        "link": "https://us.louisvuitton.com/eng-us/products/camera-box-autres-toiles-monogram-nvprod4450116v/M82465",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0046.png?Expires=1758910337&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=dL3eCUBhRtSib%2BBbw28evnhyWGu6y9VTbjnimPnKr%2FlA%2FHFIEbkMg%2B%2FW0o2iT7uHX0%2BxdXcdBC2x0STcwYSBCmuqbe4B9YKso3wkNzbSjq9MooFtDgRnJFrFUeSnpG6gWv4dUrN1F9eQ4%2Fm9ccUFEjuU3N5CnoOeiQ6oAdMlMxy1gbDAwQZgKCzqR4FqzBa4MHIyEFbeOaaYIJsXWuJ0qkBc36E3YBze0ar0PtkkY2THlG8wWa1yr4hu%2FErxdq0PmOJWcfVEJYSi8J9ydSb71BICRt41jo4AerPShl6GVw4IoXp2Hc5MyA%2B5SdeUAdKryzZ9U02tQ180Gj853osLOA%3D%3D",
-                        "brand": "LOUIS VUITTON",
-                        "garment_type": "accessories",
-                        "sizes": "[]"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0047",
-                        "title": "Paisley White Final Sale",
-                        "source": "ALDO",
-                        "price": "$34.97",
-                        "retailer": "ALDO",
-                        "link": "https://www.aldoshoes.com/us/en_US/paisley-white/p/13568605",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0047_20250728_234237.jpg?Expires=1758910357&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Ze5sFifxqAuo1rh5QbsMPSyDuQ62oZvb3VYxW1%2F7HPJ6tpUz2sCoXcfKVfzlwc3KHLSvZ4Z8gV2x2kGdvKbXFAnBAbT6rnb%2Fi6ZauQiCS8LJAdDu8YLb4tnt4GiM5Y2RcInEtWp0bTDe9Fdygy%2BEJEoJG7CBHpSxSh3rU0oJJdEkuR54JKNOvQsSQX8ymyCSkonC0Afl99rmY%2BuDKIicoojnKrXf%2BPLojr0hp0k8emnNUVv6snMlQJoW%2B8ZboJhOg69KSvPaJVegEJxjmAFrOeSSFo0U0X8a6COKDp2HsCbvlPVYJrMcaDruKyyghc27ddUDUg%2FtshyMmdUJwcNqDg%3D%3D",
-                        "brand": "ALDO",
-                        "garment_type": "footwear",
-                        "sizes": "['5', '6', '6.5', '7', '7.5', '8', '8.5', '9', '10', '11']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//7599893115878434_20250728_234149.jpg?Expires=1758910310&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ITpnXi2v78Zeo61ubvjIIjEQdFib57ANvTTnztapN5HdnHnYN6%2FOemuX%2BoGuZ0a8mDDXsqaCQjwJKAgJBlCajKxB7goOY%2BkfnKQCG0PI4UAVCzQduRzePemYMlNY5%2BsxVRUi0lMkfV6ED1xYRL%2BGpruVQmQ5ExVUm%2FAM3rk8q%2FAQucqptvmbdNruPG4Yv8wsLOmxgo1qlafoQ80QGFCk2PYk9bKDPV4X3i9G%2FjL8APQKxNhnCZCCd8aql8U9PvDCdA58D4ic3920JJnnPs1cToPAtwSH%2F6kxpZViQiqw0Jxp%2FJkKtPZhdlzUJyjV3XCvZWiHtTGO%2Fco7X8tEyRguOw%3D%3D"
-            },
-            {
-                "outfit_title": "Effortless quilted casual",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//19773685858498409_20250728_234316.jpg?Expires=1758910398&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=O60H%2Fbx4SGj2y8VEQELNX0xr0IcGbgzd3cbLrEKD2VPAmKDvvPvXRmTxS2gU5wG%2BYXeyLr%2FGMn8I8ZLZ4CXdhf2F8ofzy8CCrV2FTqocEk3dZ31Joa5jnex9cBpxviwvJUx6pOGhD%2B%2FFtcQoDpzELMKLHQWdjPq%2BULmRjmCOAyJZJQ7SAel004mhOBW7adRQVFC3OrNEivP%2B9dWiSkvhqt59k3wVNp2BawMLTyd%2FlZ%2FZSSxQjKFZraTbW00OJLmgxLr82lzu1AKw6mQhJiQ9m1yXOxsHHMI7%2BBYd03faMUWV%2BflM8fdTcPcN6pgimv8utlNO2LRuW8290Kaox8H01w%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/19773685858498409",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0048",
-                        "title": "Airpuff Shirt Jacket Coffee",
-                        "source": "Poshmark",
-                        "price": "$100",
-                        "retailer": "Poshmark",
-                        "link": "https://poshmark.com/listing/madewell-airpuff-shirt-jacket-in-warm-coffee-colorprimaloftsize-xs-6441fbcb1741be18c02c204c",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0048_20250728_234325.jpg?Expires=1758910406&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Cobfzdv8uOSpUqG5nObFJLxdxt5GzReaRH2vgce9RoTskyFH8CpwrViJ5v2LfZ93SmKxIBC4CPG%2BzgbDQ7%2FjF%2F%2F2N1nqKlLm%2FSXwwQpFn9wtLcFV6hd0juVYRPzPbfn3ZWIeMBuaReiiw%2Fk1cZXWB9TyT3CFsAiPz6bPN%2BjgPFcUo13sdRNRqqGYCKrinq54v9WEL0VwLMmiPhhxcCwdwNPBYzxGI%2Fx%2BuvKOQRyEFM0ie%2FyKC38dBZkGUvxmU0Nf8LrgilkPvm2xBYsZgN5FMd8M3jgLLtdSwsC2HUw7SrZqAwFCKOWEZuimXsr3EPyyx9nVbZkgP5xBw8yj7GhoVg%3D%3D",
-                        "brand": "Madewell",
-                        "garment_type": "tops",
-                        "sizes": "['XS']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0049",
-                        "title": "Solid Diamond Corduroy Padded Pants",
-                        "source": "Etsy",
-                        "price": "$61.95",
-                        "retailer": "Etsy",
-                        "link": "https://www.etsy.com/listing/1820833645/solid-color-diamond-splicing-corduroy",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0049_20250728_234347.jpg?Expires=1758910428&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Wq0TbDO%2Ft2a4ZT0wluooYVYKHlEhH2Ava0yr2wN%2F4sEkePz9y783Bn4At7%2BXCscb9Dnb0a9DUjZlNpKzSqhD%2FT08hv1IeNncChePFAA2JUjkkY%2Bs5zGvvdFGb%2BXtuyBYPW3guZyQyInwjLJUE5TDUgwuRmWrOMHWRAzvBPgxwCQwh1y8yCbugkdK2Ifk7AwUcztT69SJB9d%2BGJUPC2VB3baPN%2BNXxmf6vl19rZEhGFeunnSRNrIfAf8sLoSwXUbJnC%2F2s6H9pUzA19pJT88AuDqqnTXGZ1Rhd5vB8Zz18OdAu7csCtyc%2BXXc%2BO%2FFgHN9dWsJwo6isJpjmUn%2BW9SHIA%3D%3D",
-                        "brand": "",
-                        "garment_type": "bottoms",
-                        "sizes": "['M (104lb- 126lb)', 'L (126lb- 143lb)', 'XL (143lb- 165lb)', '2XL (165lb- 187lb)']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//19773685858498409_20250728_234316.jpg?Expires=1758910398&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=O60H%2Fbx4SGj2y8VEQELNX0xr0IcGbgzd3cbLrEKD2VPAmKDvvPvXRmTxS2gU5wG%2BYXeyLr%2FGMn8I8ZLZ4CXdhf2F8ofzy8CCrV2FTqocEk3dZ31Joa5jnex9cBpxviwvJUx6pOGhD%2B%2FFtcQoDpzELMKLHQWdjPq%2BULmRjmCOAyJZJQ7SAel004mhOBW7adRQVFC3OrNEivP%2B9dWiSkvhqt59k3wVNp2BawMLTyd%2FlZ%2FZSSxQjKFZraTbW00OJLmgxLr82lzu1AKw6mQhJiQ9m1yXOxsHHMI7%2BBYd03faMUWV%2BflM8fdTcPcN6pgimv8utlNO2LRuW8290Kaox8H01w%3D%3D"
-            },
-            {
-                "outfit_title": "Denim cargo, red pop",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//7599893115878436_20250728_234407.jpg?Expires=1758910449&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ZHAhCXOq2sByM%2BCB%2FgdsYXwfxK%2BDB8UEhk6Bohk24E5c4odfL9FuMkmHO%2FMqqOIQx61BBz2BEJcXBX3mdmRZTiCRa9HSdNOqHzo%2FK2SlVf2ZFoemjNq1vXZJPEhp7ZlhoXBEgAHlRFKc8DLmuQdVHIeriGNXbXrBVQMRq%2FIzTPQ8WsmVKzeZ56Tn%2FTBIsycPHfXckxZYWhFTiT3waErBl4mizgQd%2Bb9aw2vyspQPLiSLMHjxxXrEYHSe8zVkErcbSfbAvSExJOTa6I6VhYcNACTMAX6gGQSTd16KWWLapnDdX3EhrW5vQ186c8YQuAAGo2wdXlE65iyGmdm1ckZpVg%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/7599893115878436",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0050",
-                        "title": "Thea Balloon Jacket",
-                        "source": "Free People",
-                        "price": "$295",
-                        "retailer": "Free People",
-                        "link": "https://www.freepeople.com/shop/apparis-thea-balloon-jacket/",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0050_20250728_234419.jpg?Expires=1758910459&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=G06gsWqil0pcMzcydITCsqPjJpnGy3rILwqTomPpDah8i8C8gAMpes%2ByE%2BZ6x%2B35oRQSa5xjaZKbuFFl305sKpmwh6l9QAEprbZcFFDpULITpkgIKDG2sU%2BAkKfHxv407D3qmg4BEr933DfVNGsBNtkjRE1V8qhdWvbyWep9uNXoT%2BI3XNLWi%2FKg6CoWfVjHk7tHt3usYkiVB66eEtjhf0vMcfkPSbAklLnL7zl8PDJlw3Ec0xaNEkQfGoG87pNA0LoYj3SIjUqS855B7vWDFJPEg2tuRcGqqk3S%2Frr9cTxBlAvPuD0BaDeXE1hA5MNq93ckSv8DDWrwT9JmbykGNA%3D%3D",
-                        "brand": "APPARIS",
-                        "garment_type": "tops",
-                        "sizes": "['XS', 'S', 'M', 'L', 'XL']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0051",
-                        "title": "Denim Cargo Parachute Jeans",
-                        "source": "Boohoo",
-                        "price": "$18",
-                        "retailer": "Boohoo",
-                        "link": "https://us.boohoo.com/product/boohooman-tall-denim-cargo-parachute-jeans-with-pleat-waist-detail_cmm00818",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0051_20250728_234449.jpg?Expires=1758910491&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=DBMegl97jZDJbj3sVdJN8VBaocn4fgyfIdoDbqDcv%2BS%2B%2FlU8y5%2F0NnVAZBXutM46I5ff15FrfLMweKgxyiUlAKOuqPxetqPBW3JLLp3UNcUAboCxv8lIjun%2Bnc9jtokT8pPu3hy9mf19MS3qYicIKrP8tNwHKQc3G9v9lssTegZH%2FHJKBFPmq4dxS8DTZPagaFqD2MkM6MBNKvm8HOazGzUxsxCgLdVtgO2RGbB5f1Mn7U8Bed80fVmarFp3hyf05pCZnY9LHgveecp24K3IgrC7UzmQAJHv0jhZ4iZQJglvbvk7HOVa0nG3E0qLwwHPm%2ByTBRa5j6KlXTbyjYpvjw%3D%3D",
-                        "brand": "boohooMAN",
-                        "garment_type": "bottoms",
-                        "sizes": "['30', '32', '34', '36', '38', '40']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0052",
-                        "title": "The Micro Bucket Bag",
-                        "source": "Klarna",
-                        "price": "$238",
-                        "retailer": "Klarna",
-                        "link": "https://www.klarna.com/us/shopping/pl/cl1196/3205989427/Bags/Marc-Jacobs-The-Micro-Bucket-Bag-True-Red/",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0052_20250728_234514.jpg?Expires=1758910515&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=SjUx%2FBSY7Nm1RwXP76g%2FVx%2Fr713JyiFm6W4oY8Y%2BjpYMiPZOdFZlaHVirO6HJ61%2F1nPSmH4z8qNHkIKIMwA1UvMErBM4MG8c0kSFbGp87EFLfKrtTyWmTZhYo8cKaTWncGb%2BGyeCgPGg%2FEfTy%2FpTE2C5ZziOa1Cr%2Fvk%2BfVXdwLwWU22gxZ2%2BnzSH5WuHtc2EGZGQn9VI1ia4yvImt3zpVgpQK0fQVszEtB1tRA415nK0bEXjOxicobi5NEd%2F9VQ6jRCBWLgktV6OqydY6huluYD5NGgfQ07BINxQuUf80aoV9EIcecyMVnLzte3QAxgVMhyKxq1l3qFKL1IttNax7w%3D%3D",
-                        "brand": "Marc Jacobs",
-                        "garment_type": "accessories",
-                        "sizes": "[]"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0053",
-                        "title": "Silver Paperclip Chain Necklace",
-                        "source": "Etsy",
-                        "price": "$64.80+",
-                        "retailer": "Etsy",
-                        "link": "https://www.etsy.com/listing/1178752718/silver-paperclip-chain-necklace-sterling",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0053_20250728_234542.jpg?Expires=1758910543&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=eoCICBnznyYPvS9yNMz8MvywH5icYWSybLmJmgiFn%2B4fbArzKipgjDUvpi%2BmPAzuS5guYcJNqdb1%2BDLwRXJXVpUDmRXK8z8ZGcdiYk7h9%2FIJkloagqpb53DMqd%2B5RPsDmigcHKU57vdAQ5lrACZNJFEmlrqh0Spkn89ppSU3n8HUq%2BgeGMhXuy9A5yvleNDxeveBzTdeHUvWQxHgo7gtj8KD7of%2FGuQZbXdyYf2PH6TLaYrUDs%2FcX6uSQxTd6Yj2Vfi%2FMwn%2B1I2tDmF1qxcFFOnl%2FBD6vZutuxnagIieW%2FUr%2BC1mHPhlYWPQtdSWXWeMPlzJHPi7ZUxDQuVkc1DYOg%3D%3D",
-                        "brand": "",
-                        "garment_type": "tops",
-                        "sizes": "['15 Inches', '16 Inches', '18 Inches', '20 Inches', '22 Inches', '24 Inches', '26 Inches', '28 Inches']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0054",
-                        "title": "Grand Court Sneakers",
-                        "source": "adidas US",
-                        "price": "$49",
-                        "retailer": "adidas US",
-                        "link": "https://www.adidas.com/us/grand-court-shoes/GW9196.html",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0054_20250728_234605.jpg?Expires=1758910566&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=FORLB2JXYrG63%2Bt3fAhM4T1vpl3iVqpplD9pJ43tNrvVwk5urNoKloc7ER%2B6eE3aZYkfNtxiB1OaYuenuvkvAE%2FM9wP3dRxV6M0V44WbEaRYg0OoXBAQT8VvH8IQchtmLi4JqAB14xv9Jg8qc3G2ffDJVArat7M1SQVbs3rSVSU78Vx%2FcYXpLZkrh4ybO1aoNsPKCB2RrCmQc8jq3PEfvRv5hTTtplAFCmc73sBERnid8MD0GfZjQc5%2F7FnH8JwKr0a%2BHZUv%2FJbM4sQzAXnIZdh7YBPsakiSSyMomdSGt1BmzZcwuGBF6O3YEhE89Vq9hqNd88ZHkeHmCnDuNT3ogA%3D%3D",
-                        "brand": "adidas",
-                        "garment_type": "footwear",
-                        "sizes": "['3.5', '4', '4.5', '5', '5.5', '6', '6.5', '7', '7.5', '8', '8.5', '9', '9.5', '10', '10.5', '11', '11.5', '12', '12.5', '13', '14']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0055",
-                        "title": "DiorSolar S1U Oversized Sunglasses",
-                        "source": "Grailed",
-                        "price": "$299",
-                        "retailer": "Grailed",
-                        "link": "https://www.grailed.com/listings/65705856-dior-sale-new-dior-diorsolar-s1u-oversized-sunglasses-in-black",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0055_20250728_234625.jpg?Expires=1758910586&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=SJa5euDsCpa102W5ys1Z2dCUyDNL0RYKeNKn3adFP%2BoKzArvrGfHqJC7cuRzz60vvo6Yl1B%2FwjCjvydQj3%2FtKHIR6LxWkWudUBN8nJju8LSTIMW88t1PCMzwoeuN2edrjLroZJ44yLUr6EQVcv06C0ggOdJAUe9n06eah5Q5Y%2BPcAQPGp1pBlbvC9stqrgNbtn8BDdOIoSF4lAl9Fq6mraFu8F93Tcx3h7jo9XGAhUb6m1dU%2Fkj5sU5CHludGWj2SdfVYdUrSGmVnXjwDMyYn4TIvaT1pXAackq7TeYV0uKNIJr0nBAeGKsSHPML4tfvcrCQfMjOQGVetzAXH9GYTQ%3D%3D",
-                        "brand": "Dior",
-                        "garment_type": "accessories",
-                        "sizes": "['ONE SIZE']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//7599893115878436_20250728_234407.jpg?Expires=1758910449&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ZHAhCXOq2sByM%2BCB%2FgdsYXwfxK%2BDB8UEhk6Bohk24E5c4odfL9FuMkmHO%2FMqqOIQx61BBz2BEJcXBX3mdmRZTiCRa9HSdNOqHzo%2FK2SlVf2ZFoemjNq1vXZJPEhp7ZlhoXBEgAHlRFKc8DLmuQdVHIeriGNXbXrBVQMRq%2FIzTPQ8WsmVKzeZ56Tn%2FTBIsycPHfXckxZYWhFTiT3waErBl4mizgQd%2Bb9aw2vyspQPLiSLMHjxxXrEYHSe8zVkErcbSfbAvSExJOTa6I6VhYcNACTMAX6gGQSTd16KWWLapnDdX3EhrW5vQ186c8YQuAAGo2wdXlE65iyGmdm1ckZpVg%3D%3D"
-            },
-            {
-                "outfit_title": "Refined Rebellious Plaid",
-                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//844493672872953_20250728_234641.jpg?Expires=1758910603&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=gV7%2B5JMN3Sfcvd42vgFDB6Z4iluwWi2%2BklpxyA%2BNDiqEeDXbgfjXm28MMAo1D9rU9K%2Fr4TrSXKmA5JWWVZEEY0ikMx8LcFCv4T1bEPln606jNpKHvMDHkzs3vC89FEYTI55w1dBm6OtZsWlCjFXyPcZMYCDsxhaetnaNua7KYHUZWAageooPeQWlc2KgSjZ914FkOEc5%2BiK7dvHVvPJWWEGOnAsrQUeyb5Jxsi2bzqOjdECFJBK9neBK%2BJLYxLNXRAhCZdDZSKwKjADI3POyoJmM645m8a1vBWsV1A9gQlrNLMYIf7id3EvQwiSDIex%2FoFMtxkSp3rvR%2Ff3MN5T5UA%3D%3D",
-                "outfit_pinterest_url": "https://pinterest.com/pin/844493672872953",
-                "shopping_results": [
-                    {
-                        "product_id": "discovery_20250719_0056",
-                        "title": "Bi-Stretch Shaped Blazer",
-                        "source": "Target",
-                        "price": "$132.99",
-                        "retailer": "Target",
-                        "link": "https://www.target.com/p/jessica-london-women-s-plus-size-bi-stretch-shaped-blazer-24-w-clove-mini-houndstooth/-/A-1003945902?TCID=OGS&AFID=google&CPNG=Women+-+Target+Plus&adgroup=305-1",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0056_20250728_234651.jpg?Expires=1758910612&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=cwQjl1BFAq1a8%2B4oJSfYQ49nZC7x0hMAaMyJ%2BiDeoyaGbnLLFdq45%2FtzDwOqZdLNCJYx3H6f7CspQzF6J7DO6DpGCSjnMhHtZYXXq1JQU%2BtwqWGUIP%2Bh3CJ3zOQ%2BSSzyAdqAdp%2Bn3Z1Pgc%2F540U0ICcj0%2BlTye6%2FulJ4F%2FskanPweIQPmrNSJ0md0MwbBlfUxCAzqvKfPaxFBMvQdkXxAwyQplCLbkGpSHJJrGAlLefifxyTCGJ5CK3qfDjZ5vSbW3MI5PZ%2FhNSWcJC9g06rcfMQvyrXgNShNHQIqzD2eZAlH485rYWI%2F61pcG1ZPZ5MN0gnNWLVK0fSMghgIdFNCA%3D%3D",
-                        "brand": "Jessica London",
-                        "garment_type": "tops",
-                        "sizes": "['12 w', '14 w', '16 w', '18 w', '20 w', '22 w', '24 w', '26 w', '28 w']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0057",
-                        "title": "Cora Plaid Buckle Miniskirt",
-                        "source": "Saks OFF 5TH",
-                        "price": "$74.97",
-                        "retailer": "Saks OFF 5TH",
-                        "link": "https://www.saksoff5th.com/product/rag-bone-cora-plaid-buckle-miniskirt-0400021206438.html",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0057_20250728_234710.jpg?Expires=1758910630&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=EeIU3KZfDOj%2BMfdNpQc5K0kdbx3mFeXzl71CHNTO6pf2pGTkXynod7DeGuDdFo5YCHw%2FQ8YLX8tc1dibfKDwifMrkIBn4RuLc9JXCkCtdJ1%2BiD93KwiOcmBL3IsQZ%2FB1J9BIkbIyVRZeHPGv%2BWo1LIOot02qwGHH3lNAsAGaS8I74Roc%2BgSgs0omZHqaR4hLq4s2xM2ExTwqXHBxLWy3AtU6RddNWFvo7JjIyRDFtly4QVoFHnuymdtmiTvE53i6UaNOz3OA81R5jaBZCinJlZS5jTBQ8gLMVoIEfyPk7fxFaiKTXW42aGVjvbzyCc%2BvI01DD9G%2FYkPeI5TfNVGSkg%3D%3D",
-                        "brand": "rag & bone",
-                        "garment_type": "bottoms",
-                        "sizes": "['10']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0059",
-                        "title": "Brown Chunky Cord Blazer",
-                        "source": "ME+EM",
-                        "price": "$297.50",
-                        "retailer": "ME+EM",
-                        "link": "https://www.meandem.com/us/chunky-cord-blazer-conker",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0059_20250728_234749.jpg?Expires=1758910670&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=YvFZiXfojfjV0krx%2FrTrv2CYCFu5MXBbmAtMGGPAZ7VkgETkylf3WxwSc9xAoFjnIalLEcM2hNN2eQ90UsyQtIbpnl6L9cwPZftBbFqroSD4Xe%2FSI0aU3JMibeU9h1RIJIcNGAtlIx9mAOyYilPAd%2FuzNNqWqxJXB8XfJh6FIMQn6iBYoqF05LSCCrWQa7N3kdSVkOuJQ4PotKZNoPMfAwIUtsQkN1wLCLrveLzRkUwqvbR%2FlgUCeVM64BJeu0fplDEi8g3Jjk9p9G1oEWpgQTcUd84in6H9gsImurUl2wYUv%2BlIoz%2Bxed4gmV8EO6TRoHxMJIdgVCyPCkbAi%2BQdFw%3D%3D",
-                        "brand": "ME+EM",
-                        "garment_type": "tops",
-                        "sizes": "['2', '4', '6', '8', '10', '12', '14']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0060",
-                        "title": "Black Women's Baker Boy Cap",
-                        "source": "Etsy",
-                        "price": "$21.37",
-                        "retailer": "Etsy",
-                        "link": "https://www.etsy.com/listing/4297197680/black-womens-baker-boy-cap-newsboy",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0060_20250728_234807.jpg?Expires=1758910688&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ON%2B8AES2DdXVZlP5YzRlRTEZnnFBCa%2Fj9trUCMbIqTvP0IZ5Ne6n1%2BrgXga7VW%2BXxQmbkBYIjt4SvS84H0d8uzP9HvIuZp57aA73c%2BXDx2aWF77DaSUaAqrF5UOFe2BZyHX78yI3HrVrl7IR%2FeAHLs5hiwES47y0uhk2HiB3Vg%2BC7W2sLKdvwn4pJbTFq9%2BuO5f89676PIXqybkmuEST8Rx1naa5UK0Hta59uOcxsXvPdOkYs%2BrarDzmdqSlHaT2nWVS2nRck1VMPvaOHr5Xr8JXQRP%2B3eqaOhi%2Bt6s6sT33jyyIKH5zZ8%2FEOjesZ5c0Qeg49Ke8qapuA49CKTL1sQ%3D%3D",
-                        "brand": "",
-                        "garment_type": "accessories",
-                        "sizes": "['Gray', 'Caramel', 'Biege', 'Burdundy', 'Black']"
-                    },
-                    {
-                        "product_id": "discovery_20250719_0061",
-                        "title": "Cherry Red Leather Boots",
-                        "source": "Poshmark",
-                        "price": "$60",
-                        "retailer": "Poshmark",
-                        "link": "https://poshmark.com/listing/Dr-Martens-1460-Cherry-Red-Smooth-Leather-Lace-Up-Boots-629b9a8ac3c2d077e4eaf68e",
-                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250728/pin_images//discovery_20250719_0061_20250728_234830.jpg?Expires=1758910710&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Zs0%2FfzjYmnSt06CbS2YPJf6jocxoo8D15Qhmnuh39OTUH0WDaJGCDr0QQ39E2nPyC5oaroALf0f%2B3a3QKCjIYq4PGrAVv6eT0FVu7jMclz5oMV9FlebFj9VDGYwKmVW0mf3SUcAQKcnywYtk2TI6duuEGAO1xJM52tcDbgUs47HxUHXs1DFOP9yHLv2escUpbmUR0MAOnS8oTikRG68LOYckh5ml%2B2LafRe5hxEM2eVKve9TzKJNj4ucpv4cv8V9W9sWd6V8UFIlnHqftagDPK8xfEFvfm%2BthkzbUak44B5OEw95%2BKheTPBLu4GarkdZJQOqGUDG6eAF8g2k29Swkg%3D%3D",
-                        "brand": "Dr. Martens",
-                        "garment_type": "footwear",
-                        "sizes": "['EU 39', 'US 8']"
-                    }
-                ],
-                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//844493672872953_20250728_234641.jpg?Expires=1758910603&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=gV7%2B5JMN3Sfcvd42vgFDB6Z4iluwWi2%2BklpxyA%2BNDiqEeDXbgfjXm28MMAo1D9rU9K%2Fr4TrSXKmA5JWWVZEEY0ikMx8LcFCv4T1bEPln606jNpKHvMDHkzs3vC89FEYTI55w1dBm6OtZsWlCjFXyPcZMYCDsxhaetnaNua7KYHUZWAageooPeQWlc2KgSjZ914FkOEc5%2BiK7dvHVvPJWWEGOnAsrQUeyb5Jxsi2bzqOjdECFJBK9neBK%2BJLYxLNXRAhCZdDZSKwKjADI3POyoJmM645m8a1vBWsV1A9gQlrNLMYIf7id3EvQwiSDIex%2FoFMtxkSp3rvR%2Ff3MN5T5UA%3D%3D"
-            },
             {
                 "outfit_title": "Laidback Leather Look",
                 "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//162762974029534818_20250728_234842.jpg?Expires=1758910724&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=VXjaoXBYwerCsOmKJ4lZx%2F4Oa2EQsc%2B1Gp%2F%2B4XaEcTJ2bvM84r76qnxv32YFLAOQAEG4st35xej2mQvLZ6fKWiPaeuN3dU31%2B%2FTrj3GbLlUdY9h2YjNdY8dfBMkvFdTNl%2BGXuYcgS7lLXgkOPpQZXmCVB%2FY43X8PFJkD0YbLy7Nlq%2FvHKnx1SObiWqPWaUTLhaww6cMrrX%2F4Ph76bmxkeLAdKAKl0IY1Lz5jJilihLH63ic47r55Kr0j2JpkJ6oH0d93sRgq0WDYknR1lbUNPpwLM8Q2HeDXrVJ0SdMm%2BQcNm9bpkgZGpNnH%2FucSXv1qF9P3G9glP1oSWoKy2fUgBA%3D%3D",
@@ -1276,205 +1144,14 @@
                 "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//130534089198528523_20250728_235710.jpg?Expires=1758911233&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=KM8gK1Y%2F5%2BhTVTUn2zMTHB0hWVKulEfbW29bG4hdjInMn%2F5k3tWNVNbqzcAVL%2BoiFLhWdyBRM11F%2FtD1VuhDh7VXy9PR0EC%2BgxyLX6g3kYdj7EJ2EdwY5i9YzMrLp4kBI9B%2Fjm32ExHHS%2B3XdoG7oUdGqEjlz8KcCO8ELH4Qf43XefPdY%2BkchLpTVtEWi%2FsAM2%2BoH%2BQdamtxG0Uoq%2FIo7mgcXwgXPaHp%2BZm7RFiCq6kHG0NQ5cpDcSawDCOzlY8NlyzgaX3kf%2BGs9mMlr1ytdPmuoG3SGpGBILBMCZoDrW05g%2FckbT2ioaZEXCepFVBYQm8hDXCxzEH2Ot7HFh%2Bpzw%3D%3D"
             }
         ],
-        "num_outfits": 8,
+        "num_outfits": 3,
         "header_metadata": {},
         "sub_header_metadata": {}
     },
     {
         "header": "Hannah Montana street style outfits",
-        "sub_header": "Hannah Montana street style outfits",
+        "sub_header": "Celebrity Street Style - Gen Z Fashion Inspiration",
         "outfits": [
-          {
-            "outfit_title": "Denim Rocker Vibe",
-            "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//243405554856214271_20250801_230004.jpg?Expires=1926869405&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=SZEJLui0JWYHihMR2ycRDdNOeX4T6qK%2B1yuEjnHgXFqtAQ11266XuqsuPn4TLcHfy2YXcw44hAOB%2FqhgH91GudgU5LZaTpQWFcn1KBO2Ch18EdI1JSwNsWsZpyQboHwg7t0LL5Y6PTHecAAUTVvBxxD3YlSG7NHgvURlErTiypyeYZKP%2FOMscS1VTUTBOWITEC2FMCRaFpddfT0%2BNIlhvidS3CFDIGhYINz34HRzuoHT7610XJsn%2Fg5kc4l16Io5itRuzPuXWlWnzZ%2FqUmuyL984n64sLzNvYnhuZ1PgooSA1ozGRW%2B6%2FZaXEWegxh3FSEgxbdAbzWlr%2Fk3Z3hGRBA%3D%3D",
-            "outfit_pinterest_url": "https://pinterest.com/pin/243405554856214271",
-            "shopping_results": [
-              {
-                "product_id": "discovery_20250719_0018",
-                "title": "Indigo Ripped Loose Jeans",
-                "source": "Pacsun",
-                "price": "$71.55",
-                "retailer": "Pacsun",
-                "link": "https://www.pacsun.com/levis/medium-indigo-ripped-superlow-loose-jeans-0860115090080.html",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0018_20250801_230012.jpg?Expires=1926869413&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=HVxaQh4ZBQc2B%2Bw69kg8NZ3xneCFa%2Fs49PIG%2FDEyXvBFOIPJZDabqC0nZjYS2daAcJ0i5RXij3fP%2F5VSkQ6Wu3mUbFYcspRbSgkAGroHHRPLNYMHoddGMZrs7AuvIWjCgpu3ZnB6OCUGA5Pa54t%2F1l5LxAccDd4XErFkCkd0pc7wihz63QOLMx%2FieXhhQKxDDqdCBygvc%2Fv%2B66s%2Bs%2B2OrX6%2FtFRHvRAiKLpRzSo0l3cN1lO7Gb3vwvF1iJ%2BWFL4IPy2Jd3%2Ftvs%2BrI%2FBIs9RUocstOqclfOz50JQVck5f8WFIB%2BEmTn3z%2BVor6gfXvIcC1pvjrL%2BRBmI1AZF4pL%2BpMA%3D%3D",
-                "brand": "Levi's",
-                "garment_type": "bottoms",
-                "sizes": "['24W X 32L', '25W X 32L', '26W X 32L', '27W X 32L', '28W X 32L', '29W X 32L', '30W X 32L']"
-              },
-              {
-                "product_id": "discovery_20250719_0019",
-                "title": "Vintage Judas Priest T-shirt",
-                "source": "Etsy",
-                "price": "$200.00",
-                "retailer": "Etsy",
-                "link": "https://www.etsy.com/listing/1317747898/vintage-judas-priest-defenders-of-the",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0019_20250801_230030.jpg?Expires=1926869430&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=GOGHeRf0KnaOn0ne4cfkXfbFWSrzSaanqEN%2FaEs18Fdy%2BN%2B9a6JiHpXA0C9PYTg1pySmVxtF%2BQYgoJ94Up3eaOgpxzJy1OGjNEntl7C9nLegIMk8NKSt6hvrUZbBBweo8xoz2%2BA2VnB%2BxNVotKAmoz9c%2B0VWSVeWeJb8kHQfdprXmCPddghQ3O%2BllAx0bhGIrVkKBF7GCiqFROrrzsXEPRc0isJugSATYWaYLZ5l9f5AoW4lB%2F1YjfrVwmeeKPrmYJ9mM%2BEbR0m7wEdpA41k7P2I50s3gaEpOqYQ1oLCDR47uqNpDdJhn73t%2FiFYcSEd4drhzqDJsmW%2B3bCrFoeEhQ%3D%3D",
-                "brand": "Judas Priest",
-                "garment_type": "tops",
-                "sizes": "['S']"
-              }
-            ]
-          },
-          {
-            "outfit_title": "Tartan Youth Vibe",
-            "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//5840674507667932_20250801_230056.jpg?Expires=1926869457&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=I7JPj8egKpRwYbNe3ixXOrNMvesRw2C97m0KnaiEpAXu%2BysW9UGekODIYmwNzbKHpB1%2FEuhz0uids1oW4t7ywVCgkpsQW3AkTmCbe%2F9rlhYFHQ4khwgYTSdK1hNEaUrfMAjl1C%2FyunxRhPDOzb8LenPMe%2B31NBg4iCqaGuamdGtnrJo48U7Bil5lqpXxl2EkQT269%2BzksJKsu%2BqGmLkMiKLFHPvcphpFvgx%2B8LXMNUwHBli%2BCC2WQurlESUuBjOEJvKm0uxsxiguxcAFI0Z4vrDK1pbENV4mOj5oDcl9AkaHKXMPHkCgHDGkrzdWrIeyAj%2B22FYv7yBF5YkNYmvCOw%3D%3D",
-            "outfit_pinterest_url": "https://pinterest.com/pin/5840674507667932",
-            "shopping_results": [
-              {
-                "product_id": "discovery_20250719_0020",
-                "title": "Low Down Blue Crush",
-                "source": "Revice",
-                "price": "$ 68.00",
-                "retailer": "Revice",
-                "link": "https://www.revicedenim.com/products/low-down-blue-crush",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0020_20250801_230102.jpg?Expires=1926869464&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=SqK1TIgI5znfZbhQDh4jXKMBfycYlH9JIdmOteK1lbGQBlR4VOh%2BPaLc0NB95LwU26yQp56NYxRcggZCsaK%2Bqm%2BKRMk1tZNZ8o4UyovTJ3j%2BdCkNhbch1H5Mi%2Fz3e3N%2BRkuTNOZ75xA0vuAINbPXpsiOKQ3BQZO8g%2FDPnwyhCCOiWsQDwdNhs6kTH%2FIw9tWj4Izgvr8GkIvA9tY8vZF%2FpVUDW%2FIOkUCYgQRcZglUefKJo8b7VyNSoK34vTjNyCZmv0MIwhFthLwArNojnCT%2FmWXr8nHpwkvYZdtQH1fogXAhTFZ0fwj1xzqgzZHP1JE1iFJxO8YzERS7IDejGY3SqQ%3D%3D",
-                "brand": "Revice",
-                "garment_type": "bottoms",
-                "sizes": "['24 / 00', '25 / 0', '26/ 2', '27/ 4', '28/ 6', '29/ 8', '30/ 10', '31/ 10-12', '32/ 12-14', '33/ 14-16', '34/ 16-18']"
-              },
-              {
-                "product_id": "discovery_20250719_0021",
-                "title": "Girls Making Waves Sweatshirt",
-                "source": "BoardCo",
-                "price": "$55.95",
-                "retailer": "BoardCo",
-                "link": "https://www.boardco.com/products/billabong-girls-making-waves-sweatshirt-in-peaceful-lilac",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0021_20250801_230119.jpg?Expires=1926869480&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=KAD4Hbxf2agKu%2FW9xDn5I3LRz8MZ%2Fd9zkSbluQPEjGSjy2D02m2BaORYXtaysCVBX7AMjQk%2BuMNCXA7WbeCIWdpI4cNQocw2Z8cwFY1xrOefzAf0OhZZnkehKGFCmOGY3KvtoR3PaimhaSBtLNfIxz3hvUGqmatqFUULJxln2ksZe%2BxP5hd0vx3G9lldxt4iho3vxgcZUamhifO7pUAbrd3w%2Bg1NQfQevGieKbQMlTmnkw7q%2Fo9wrJ5OZr%2BIDMueHuKLFCyX82YE8kgocSCtiqsEw430w6aMB%2BSeYwHMTd0wp8YoS9ppUPvEgJQMklS6NTYMpoYwtpClTZgrAZ98Xg%3D%3D",
-                "brand": "Billabong",
-                "garment_type": "tops",
-                "sizes": "['XX-Small/4', 'X-Small/6', 'Small/8', 'Medium/10', 'Large/12']"
-              },
-              {
-                "product_id": "discovery_20250719_0022",
-                "title": "Striped cropped sweater",
-                "source": "simons.com",
-                "price": "US$39.00",
-                "retailer": "simons.com",
-                "link": "https://m.simons.com/en/women-clothing/sweaters/stripes-patterns/striped-cropped-sweater--1533-24102",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0022.png?Expires=1759253511&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Udrh7e2woh7OXVmi5fQ7j39u9wfce96JBTIajUjYYh89pzmjpyO9NgS50fPt9Ukm7cfwLLhbDf1JqCtSoLvwZVQ%2BCwcjrUNSSIGRPklRT7%2F8GGKUTC%2BqbTUKmT0ncd0Gv2ynPA95SR46rqWUFQ7tvs4g6CLq5rUnMDhM5HGTxP6qTOnKZ4u8U0Pc8fgW9aUgHb%2BA0QqxYUvGlxM5IqEnquSQoy1n3Rh7u499o8OOZtmA%2FgI98nVRr7NE8pa19EAutXR3UuAJjPjKAbrQtfBE%2FCyTdwETl3pHIk6Of%2BHv4hdEw3ExXLVaeD5PAB3p%2B6wouezvEBEItcLLeTWo%2BmbPmQ%3D%3D",
-                "brand": "Twik",
-                "garment_type": "tops",
-                "sizes": "['X-SMALL', 'SMALL', 'MEDIUM', 'LARGE', 'X-LARGE']"
-              },
-              {
-                "product_id": "discovery_20250719_0023",
-                "title": "Comma Skirt",
-                "source": "UNIF",
-                "price": "$62.00 USD",
-                "retailer": "UNIF",
-                "link": "https://www.unifclothing.com/products/comma-skirt-plaid",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0023_20250801_230208.jpg?Expires=1926869530&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=IqQDUtHCtfh4WtbW9310PMgUQPwuxlIMPN5sM8rcbjs%2B2u5Sn0stLHoHwFE7Po%2BjWYDmXFuAAhZTSgvwtEJNW77iOC5izXjmYyNj3nRcPFRso1K7ScW7aVJcRANo2nEd7cnEojGtZ6OdW5Uwyasu9Un6KB569SbgwCja00H%2B7g7uScgUeXAr84eMoDC2hzrQoLSQ9Hdk6qZis%2F9SgA9UlknaW9Ke21AnbSm6hUzONAgBiiRVL6IPTAn1CTVyKPe0aBqMVDHDYcY3OoJaT6g1vu5ijCAWxS0SGVDpGnfhBKwnC%2FUN%2F2Ta1f3pcpZfCKNQOCnSs2aI22%2FTt91oKIZbQA%3D%3D",
-                "brand": "UNIF",
-                "garment_type": "bottoms",
-                "sizes": "['XS', 'S', 'M', 'L', 'XL']"
-              }
-            ]
-          },
-          {
-            "outfit_title": "Bloom and stomp",
-            "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//161848180355258389_20250801_230217.jpg?Expires=1926869538&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=PTjmIKg8Il8uUI4Hv2f89%2B7n9AF7HvLE9tny5CmZpilViGnT5f4sSez9DukFXpuWAbTPAVBsxUy%2F%2FN7UJKxI75tmdZAWqXXq7MefJ5FXOmSiCaEeXJIx4%2FMRqDu8j%2B0ZBz0yD8CWzfLN8ZiRSwYj8y9Mcn2bWcipD3pTWNui1iCJsqIyq0RyqKJxASZjiMjiyvqohCZu4DQCQ7yUBQ2v%2BSxGkYAbPhbqVVjPdy537mhYb%2Fgt%2F3K%2BK5PYYeAzluRsAmDO9YzL%2Bjdze%2FotI8xDdiB3L6J0%2FyMLvlb6z9PKqL%2FKtg%2BNg9bd1quoPQKf4PlWrATNY8v%2BpOo3UE9pr84u0g%3D%3D",
-            "outfit_pinterest_url": "https://pinterest.com/pin/161848180355258389",
-            "shopping_results": [
-              {
-                "product_id": "discovery_20250719_0024",
-                "title": "Smocked Prairie Midi Sundress",
-                "source": "Etsy",
-                "price": "$173.11",
-                "retailer": "Etsy",
-                "link": "https://www.etsy.com/listing/1066631219/1980-s-liberty-london-smocked-prairie",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0024_20250801_230225.jpg?Expires=1926869545&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=CWlrcorKavrxQ3XUAoLEntEZp5HR9Chx%2BH2MVShQURj32unrEPEYdfhbBs%2BjNemhuEDz3%2FdQQnPh0uP6Xt2LvvKxfZ5Em332ypooQiU6TjX5p77UcnO3bs6ZPG9LFVTt0F8s9Z0Pz0EGd%2FpPAVAQ0dhka6zO9j%2FJ3CS%2B%2F1t9W5C6IQlWDIRrmzCYP9%2BmLKkSYnJCLGTtZfdVnj28LnMZTZSeRE5j6QIm5chqNSpAChDCMtC8beYUeM9j7pEOL64NU0kSy9CwUSFhsfsDl2fwMt87qqhCKWaQE24%2FeqhtHDz7nquw%2BVAEzfQJ%2BW%2BD85MnO9Rzu3%2Fp1ko8M2T8itzhbQ%3D%3D",
-                "brand": "Liberty London",
-                "garment_type": "one-pieces",
-                "sizes": "[\"42 FR women's\"]"
-              },
-              {
-                "product_id": "discovery_20250719_0025",
-                "title": "Carmen Harness Short Motorcycle Boots",
-                "source": "Poshmark",
-                "price": "$144",
-                "retailer": "Poshmark",
-                "link": "https://poshmark.com/listing/FRYE-Womens-77372-Carmen-Harness-Short-Motorcycle-Womens-Booties-Boots-Size-7B-65c82a5c963c425db84e6744",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0025_20250801_230243.jpg?Expires=1926869564&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=gWGD7IMvdnmafquB4WshjCRQyNCvHMLQF%2BfqKd0XlvIqdDMvjh5kSpKBoLV02pZODAiPIqmcpVfbktsH9eFT95z4VKYjffSi4%2FESwuC%2FgSGqwFjO2qCSez%2FhrDep51uxT86WzydXUJ1ZADaPYbp24DmqGbtkQdoTX%2F2ltH1QjHbGKtUUbJWMddy8%2FtQnYmbJ8FqZwHKcy2VOsXXCqXcx%2BwrWK0KyyAK2aXluDCGeWtXP28L06ES%2FJZzmcqbQRYb8kOSBJ5m6V3JdFmc3cCOADwNBPnmg4AlJUouN4GKs45IPIBS91D9%2ByKcG%2FdASLTEcaG7bJIiy7r4BF9SSVwoIKA%3D%3D",
-                "brand": "Frye",
-                "garment_type": "footwear",
-                "sizes": "['7B']"
-              }
-            ]
-          },
-          {
-            "outfit_title": "Relaxed Rebel Boots",
-            "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//8303580558360000_20250801_230427.jpg?Expires=1926869669&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=h44HgAPlAMryqcZ8aA2eOV%2BWJC5LPB9pKBIu2cnrtCtw9jrC7R0JwsWjC%2BT18z9VqTg8RpcPhVJBXOr9qrc8uQ%2FGS2Rl9IbpWic6hkPTpLqVR6eMUkrdiMbJufhEQA%2FNe%2FEQeocsmJ1nqH1Trge0oS5mzwFJGPE1pV0fQ56NeVi5y5slLDi8gEHMXirteoEsuuoBX0VejHU9vc1In7Z3wrlYwrjYlK9QjDZ38kGxL%2BQO824gssm%2BNZ302r%2Bn%2B0Shnf6BWzA8sOaV%2Fc9Nwc1GJ4JHF1%2FBV2Of%2FAERDLMyd0gOzYLoDL2R5486fzFONc9ws36RSw3HHB2Q9OFxfh4dlw%3D%3D",
-            "outfit_pinterest_url": "https://pinterest.com/pin/8303580558360000",
-            "shopping_results": [
-              {
-                "product_id": "discovery_20250719_0030",
-                "title": "Black Skull Tote",
-                "source": "Poshmark",
-                "price": "$699",
-                "retailer": "Poshmark",
-                "link": "https://poshmark.com/listing/Alexander-McQueen-Black-Skull-Tote-65f9a78952eee1d606b37b6a",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0030_20250801_230439.jpg?Expires=1926869681&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=EW9aQI8NP%2By7v%2BLR6W6vdXn%2F%2FW8kawlq30bfahHj8UASfalsYnAs5P%2FosOgmR4Oz7Y%2FRYQ8f3pMfJmTaSjE5FYkdpsXgjeJ4Czn%2BBeOsnRYprwkq6U0zV8LOUc9YH2krjq8M0Ml8fcSGp2x5FO5SB5ix7XJm%2FOILlmJBfc8b9%2F60nFDayVaZjyL5TDZ9HhPQ0YUASqBuukwgMVJInqAka07RTqJhBzETwchDobaiVCpv7SGylIRb%2BycmuOcID1mbiSqMZA18d0aRlONzM7GK6CtI8sGNGv0OMb5VNVzKlgdjRBSGBP%2Fw5bOO2RCLOjh6CWLuKxXyB7MFsdfRvkIZ%2Fw%3D%3D",
-                "brand": "Alexander McQueen",
-                "garment_type": "accessories",
-                "sizes": "['OS']"
-              },
-              {
-                "product_id": "discovery_20250719_0031",
-                "title": "Caramel Carson Piping Tall Boots",
-                "source": "The Frye Company",
-                "price": "$274.98",
-                "retailer": "The Frye Company",
-                "link": "https://www.thefryecompany.com/products/carson-piping-tall-caramel",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0031_20250801_230456.jpg?Expires=1926869696&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=TnnkGDTYV4hiW1nHsrOaOGJg%2B5u%2FIpZkP9GLQzVB9k5f1VL3F9QU2cGim09XMvimM3o%2FZBNH5fbC2A2r5WbjlynwN7iTtbxj5NxsyTPbAlXixYWUgeToOxWQ%2BoMB4ajfEtH4UEX7WbSsD7XP14zx7HCtn55Od7WA9f4w6Nsz7kjfUZpaV%2B3nn34Un1WXK0DgrLQqvqR9w%2FkFPbpQa4usekST8RX8Dzl63aWR%2FCFReN07fdCHIsS4RMaqNXOEYFqGRL%2B4n1v71kgx3oGpMYxFSD1bmKxQo7CAgIiXiuDexDlUT%2BZZWufhXsCjOSM7fiw1%2FBN%2FFGJePmufUvrq0q4gIw%3D%3D",
-                "brand": "Frye",
-                "garment_type": "footwear",
-                "sizes": "['5.5', '6', '6.5', '7', '7.5', '8', '8.5', '9', '9.5', '10', '11', '12']"
-              },
-              {
-                "product_id": "discovery_20250719_0032",
-                "title": "Californian Tank Top",
-                "source": "Purple Leopard Boutique",
-                "price": "$39.00",
-                "retailer": "Purple Leopard Boutique",
-                "link": "https://www.purpleleopardboutique.com/z-supply-californian-tank-top-graphite-grey/",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0032_20250801_230512.jpg?Expires=1926869713&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=HPXF%2FV6sFmSQGKtSNd%2BpqHoXS2EqpHKnuDcFPCC%2BrW74OdMuFMMyW%2F04LO7MRoZucqta1t1SseuTK3Sy%2Frczq%2B41pZCB3yBpWMk186hk9yCUdVK4HpZQsLE38ddF0%2F6tqJUr3jITBQQCJmERfarSqR3CnoNoqKL2jEtX8NLI5N%2Bff%2FXVJ0JQ%2B%2B4lK0GvIzfjTAm9CWq%2Bshl8DKls7iomkXX9gw94CQg%2B5XFaGJea%2BtxaIjMiy7nQJLl1YdfGZx1384vNXrnXMRXKHQAH5YXMP59Gdly22BEsvoCe3kObpYq3%2B2ZYWZucP%2FNbYOlaoKsVxLkiK3fOxxyxWKB%2BXl0sRA%3D%3D",
-                "brand": "Z SUPPLY",
-                "garment_type": "tops",
-                "sizes": "['X-Small', 'Small', 'Medium', 'Large']"
-              }
-            ]
-          },
-          {
-            "outfit_title": "Noughties casual chic",
-            "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//349310514870335146_20250801_230535.jpg?Expires=1926869736&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=DiwZL%2BKcJqWJeqrZcCfYu99xaS8BsGu36NMhtxCuPtGfcahaneegnTTLGa%2FEAxZ1ib2i0RSySbnT0aI%2BKYPUfcASCTXwYk9A8M1hIxQYIzg3zsqYB%2BYTtG4%2Bqe2JdzaPipk62aFIeuQ3PTUhjVmgOG6ZEnUJllCO2W2cw6A%2BAtQuP9cu23Pt0UsY83cyJaIMHE3FFMvNQtoHFOa%2BjYxTPI1v31RLqkwwUwi7TO7kJQoXhZxlryhBTErBn%2B55JHvA8GKJ3KgnuTgnyDUBnNnH5JKeItaN4LxaNctQPNOWLmfpH2u%2B18QY0eQozZP7qjoqZlA0QXlZA48nC491q86GcQ%3D%3D",
-            "outfit_pinterest_url": "https://pinterest.com/pin/349310514870335146",
-            "shopping_results": [
-              {
-                "product_id": "discovery_20250719_0034",
-                "title": "Low rise flare corduroy pants",
-                "source": "Depop",
-                "price": "$30.00",
-                "retailer": "Depop",
-                "link": "https://www.depop.com/products/kaseyewright-brandy-melville-low-rise-flare/",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0034_20250801_230541.jpg?Expires=1926869743&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=FlcTpCtZWAxKOb5aMiugZYfc5D5g2xssJpHjj9IOXh4CJVy1TINN4xLVa6YS2TKUyFWm%2BxAbyPREPSjfDkKSavsm4Wyi%2FRrZ3nyDHvzT%2BGtLcIdIJkug65I7%2FN3hS7JmyaMqEl1wvRo6usVOzTt22ECSUajCHLcm37GSzVvFZ7MmTcPZxEUgyyNgvjZKtdWKORpFwuWDY%2FHQwIDyn95XNpHNC1YghoagpENO2n7269g68SU47b32A9K6XGhKmTeMFW2TnDcfYgh9O%2FskN5oNFkH0tBlfh94wJnsPPJcMkzcPDU8lBSA5a%2F20bj%2FncXa3T8Xyq23iy7KMMTf8DkkRJQ%3D%3D",
-                "brand": "Brandy Melville",
-                "garment_type": "bottoms",
-                "sizes": "['XS']"
-              },
-              {
-                "product_id": "discovery_20250719_0035",
-                "title": "Lucien Cropped Cardigan Ditsy Floral",
-                "source": "revolve.com",
-                "price": "$ 135.0",
-                "retailer": "revolve.com",
-                "link": "https://www.revolve.com/mobile/john-jenn-by-line-lucien-cropped-cardigan-in-ditsy-floral/dp/JNAX-WK365/",
-                "img_url": "https://storage.googleapis.com/discovery_feed_data/20250801/pin_images//discovery_20250719_0035_20250801_230748.jpg?Expires=1926869869&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Gl0DFtAg8wdInUiXoEh49h1AUsYow6AVw4wk9%2FMnCyHL0h3IbasyCg%2FXlObrJvgE4ZwlUGnw%2BPxbN1jufYJy5TuuX5G3TKnUwhAVeQw4OxMXKFT5c%2BAQ3naiirFTCwaEe9uO15NW6P%2BX9lALWFVp6ZwddFqntM73HIlaEua2JD0%2BzpuWmvStqodvfQsN6LmtN4hkGpCDHQjJybhPzKTJGGfjPQE3TCsdYIy1SLV3lid%2F%2BFzr1adqpp2jhhYAaZZpy1Y7VG%2FL9qvzFXOye2ijI3lsyGh5A%2FwSRP9rFN9GIVqmwy31bvThx7zhHiIuIfPKb1%2FWyQs611EKKy1TxCqPpQ%3D%3D",
-                "brand": "John & Jenn by Line",
-                "garment_type": "tops",
-                "sizes": "['XS', 'S', 'M', 'L']"
-              }
-            ]
-          },
           {
             "outfit_title": "Effortless denim vibe",
             "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//81346337013755062_20250801_231005.jpg?Expires=1926870006&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=V0RcNcVmJ0%2B3WAC9am7z%2BeO4pgicEQ2sVosjc6LXZNrXNAiJse8lUFd8LuySYflJThW8b5dWZP%2Fs4lcmys%2B8KILAJF3Nw09dxRzmkJDiD7GyHj4uM%2BE49veHN4QVmv0oM37kJCQ2iPK6ZTxIXFJSK8P7kLEPt1gR6JDIXb3PY79DrJAm7WkLfw15GWEROcdNT%2Fba9Y%2FZnaCCoAJmeMnLla2GFTmwLtRnS2yjcCF5WqbRrlCZXrsSrJ3gwwQHmBetUmV8WNsCroKbzyzwEAJh%2B0eax2VL%2BNKu%2B79zNz1zxRqaHMHG%2B6D2jXolLF%2FXR3yD0vWh0KZTpNpEzyum%2FwqlRw%3D%3D",
@@ -1695,6 +1372,138 @@
               }
             ]
           }
-        ]
-      }      
+        ],
+        "num_outfits": 4,
+        "header_metadata": {},
+        "sub_header_metadata": {}
+    },
+    {
+        "header": "Jenna Ortega street style outfits",
+        "sub_header": "Celebrity Street Style - Gen Z Fashion Inspiration",
+        "outfits": [
+            {
+                "outfit_title": "Bold Checkerboard Set",
+                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//248964685645105758_20250730_082056.jpg?Expires=1759027858&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Eu%2B0XomxFUC%2FN7iFXwnEG7KclxJfmu32ijRlu3BQ%2BsRaxy%2FMUzQ2dPwXZl9ov6YVsJVLS7oOnIDqZn55ORKPlrsOHsm2dGrRdNTomg66aZt0FvA5rCn3nr%2FZTuXPiIUfy4khY6Gkz%2BsUM0p25IZA2uLYiaayvHn24l228hV032EzYFz9383cUbaNgCtj%2FNafALiFmgAj28UXn66%2FSmwR9EyFMZvLJhMN8wLxq4EIEVnfSMjmoVJiYQa6srT%2BWckscugrYjV2yaftbcAbWB3heQPOiIt%2FH8SLHZ8649JHzHFuPOSQEeqfO%2FUjL0r1RgeVhXvmClbF4DYm%2BdnFUCvpQA%3D%3D",
+                "outfit_pinterest_url": "https://pinterest.com/pin/248964685645105758",
+                "shopping_results": [
+                    {
+                        "product_id": "discovery_20250719_0018",
+                        "title": "Checkered Crew Neck Bra",
+                        "source": "Shop Brittany Allen",
+                        "price": "$92",
+                        "retailer": "Shop Brittany Allen",
+                        "link": "https://shopbrittanyallen.com/products/checkered-crew-neck-bra",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0018_20250730_082107.jpg?Expires=1759027869&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Zk51PbmHmv2ioSDQ8y01am5CXb4miO6xFuN9X1sFpZUdZGHbzH6AA5YDpTx8JtRr3A%2BL7dX3kbTvutXukep%2F2NwLTJOKY67QQZ7ChwtPSmpnIqG%2BUWz%2BiiHb7SxbFzY4bZvSbMdN1%2FvRZToAHIr4yhlnrbqFC0wFuMUev86C0GwNdJe5nABk4eVOzfsRafasW9ZtdYIAM%2BNyYjeIUFmA3p%2Bek3vAnbddAz6HyjQF9yEJtG4MzJrV1zGAl0%2FCTs%2Flt6uad2WoNFKrS2VIcGY8JJJKxkLYuSbmLHcWABlmK7ZnvWGWbkEAJj2Fkcj7MxCSrhmJCssYlMl1wqKmRYK41w%3D%3D",
+                        "brand": "Brittany Allen",
+                        "garment_type": "tops",
+                        "sizes": "['XXS', 'XS', 'S', 'M', 'L', 'XL', '2X', '3X', '4X']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0019",
+                        "title": "Black Leather Ankle Boots",
+                        "source": "Vestiaire Collective",
+                        "price": "$77",
+                        "retailer": "Vestiaire Collective",
+                        "link": "https://us.vestiairecollective.com/women-shoes/ankle-boots/lanvin/black-leather-lanvin-ankle-boots-33591536.shtml",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0019.png?Expires=1759027904&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=ZKRoGHx%2BCV3x%2F6t2Bab8W3lIMq8N9TRdBAeWx8U8nYegeR1Yet2ZGlQfd467NZqhfmQu%2F3uZzYZM5QIcUGrnkV97RfdnzJWfEZHXNkJo%2F9ft0BITreSxrMSWfAWhbyzB3ImCzSq%2BIOW5uQeJ8SPSuCPvbHh7zvWN2qHpX3CAORjd%2Bncxvc5o2dhWBa3IJ5q7ylwcnV6G3qY4VYQNXWpFmi8hWFjDHh%2B3bsEpTYyHr%2Bk4Z5yL%2FkJnSeEq%2B28pqL8aHswjEN6oAwOL%2FnnFo3ZmO%2Fdyzleq4o%2FgUZKZ6JCUH9FDDBMK76PIKGcf42nEkQISPIBnGEWSFpMapdQM%2Bho9jQ%3D%3D",
+                        "brand": "Lanvin",
+                        "garment_type": "footwear",
+                        "sizes": "['41 EU']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0020",
+                        "title": "Hammered Silver Cuff",
+                        "source": "Dandelion Jewelry",
+                        "price": "$115",
+                        "retailer": "Dandelion Jewelry",
+                        "link": "https://dandelionjewelry.com/products/17-b-ham-s",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0020_20250730_082202.jpg?Expires=1759027923&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=HxauNrBh5xlnXZIRto1LM990tvf1D3%2BeubJPFs5AZ8q%2Ft8acBfrJlnTKrzl5hLuuDrWa55ltk7RSHgW4z04idZAvwYwgH3xncraoTZqou9P3tasnxhem7sUwgnRERp0tQ7rm7h5t3vfx5mOuoQFHHnmUpr2fEJkpOxXOkaDQFvkZJJJxLbv3DVK9%2FjH05qUF8VB8i6QBl0yWXp0jmk1i7xLbsQOiSpUrs6NebGM%2BsTYyFZBtfK4icgn9kapf%2FkrX8Pj%2BJNBjV0wfovAaoHwahbeZs%2FXGDVWmVmDjnyKSGRRNrgVjTlVbahcZ95e%2Bu4kqj0%2Bdf1BCxZQHyMopIR4YVg%3D%3D",
+                        "brand": "Dandelion Jewelry",
+                        "garment_type": "accessories",
+                        "sizes": "['6.5\" around']"
+                    }
+                ],
+                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//248964685645105758_20250730_082056.jpg?Expires=1759027858&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Eu%2B0XomxFUC%2FN7iFXwnEG7KclxJfmu32ijRlu3BQ%2BsRaxy%2FMUzQ2dPwXZl9ov6YVsJVLS7oOnIDqZn55ORKPlrsOHsm2dGrRdNTomg66aZt0FvA5rCn3nr%2FZTuXPiIUfy4khY6Gkz%2BsUM0p25IZA2uLYiaayvHn24l228hV032EzYFz9383cUbaNgCtj%2FNafALiFmgAj28UXn66%2FSmwR9EyFMZvLJhMN8wLxq4EIEVnfSMjmoVJiYQa6srT%2BWckscugrYjV2yaftbcAbWB3heQPOiIt%2FH8SLHZ8649JHzHFuPOSQEeqfO%2FUjL0r1RgeVhXvmClbF4DYm%2BdnFUCvpQA%3D%3D"
+            },
+            {
+                "outfit_title": "Blazer, Tee, Denim Chic",
+                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//81346337013568429_20250730_082220.jpg?Expires=1759027941&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=HGu98%2BgB4O1sLyKOdEmhcywbVujH74I3HQcnfdCPuJxytoKrrz42CGoQ%2BcOpEugznfxGCU%2FXKRz3HF8EmvZ3P5X7zc78C0arZ4AkYytbPohC6oj8vzQ%2B6i7a%2FqScsdsGrE%2BsVfWo0s7hnoLFccrWi0KnPrl2AenyMx%2BgN2JaM0pAXp3HqLmqGqXCVE09wLYuNYv0oEiJHs4zarWNZlkawRqEFGMCUv3sd7BfWWgO%2B36xkgcuSDrhbZinU9UZWkRslwbU91bI9q1Ivh66Zc1gQ%2BH5QE7xQkFlor%2Boe9011CFgY9yrG%2B7uhs0wWadLD04zoCX0Fdgy%2Ffxkc7HhBl%2BI3w%3D%3D",
+                "outfit_pinterest_url": "https://pinterest.com/pin/81346337013568429",
+                "shopping_results": [
+                    {
+                        "product_id": "discovery_20250719_0021",
+                        "title": "Salvator Blue",
+                        "source": "gabriel shoes",
+                        "price": "$459",
+                        "retailer": "gabriel shoes",
+                        "link": "https://gabrielcollezione.com/products/salvator-blue",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0021_20250730_082230.jpg?Expires=1759027952&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Zk4kcwbLm9YlLXCf0zluFdjfA%2FuwDQmuN%2Bwy2AhyouIlQHkuZvgyBpDQ871GFCA0bfZKRcKMZUrPusEUiIGkLioXAUCQ42Qx9f4HyobmZuwKhjnNB%2BOGr%2BfeMoi03wb%2FhJ6z1bQE1rlLL3Mi%2FEUs8fUrgQEaeiuwQz77Z2Y7YGCj0E9iN7WNrapS%2FY%2BT9kACdpkbZ1wEMyRhj0jFaC0lpsgyy0yWQwUb4UZN%2F4lktret3daLIMspVWP4IafEq7Tr0JcTlM2Xvfv7UPRVfNGlNyJJvRnwizUSFVMAPPBg7k%2Ba7LXlYj3BemnTcenJf6voehb8c%2FdlUGvlO0%2BHrTKoVQ%3D%3D",
+                        "brand": "Gabriel Collezionne",
+                        "garment_type": "footwear",
+                        "sizes": "['39', '40', '41', '41.5', '42', '42.5', '43', '44', '45']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0022",
+                        "title": "Black Solid Grey Polarized Sunglasses",
+                        "source": "Dime Optics",
+                        "price": "$60",
+                        "retailer": "Dime Optics",
+                        "link": "https://www.dimeoptics.com/products/last-call-black-solid-grey-polarized-sunglasses",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0022_20250730_082248.jpg?Expires=1759027969&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=EzUvK2jNpx%2BrM2jJRcVXu%2Fop%2Fr9KoM65XBNd6qS8Dj%2FeZmhW2EGCMw%2FscIoWKdsfn6eeigpbp77X5qr7XVLeZ5pF5GSHIYXN0DwGXwenHOsto1vDunF5V5zk2pAu14tUpAoxt3QT08udTv69tYKayTMDxWwc18oJWVswT02HFENL4j73meB3RopuzDSyYX%2Fg%2B%2BmI47hhkPKayqz2RkBzb9cy3g8TZp8%2BTjlZVHB5EZPp07dnRN8R9wvVw%2F6LR5gn%2BLed4TT8jRqg%2F5OzDErQBN%2B4PlajwKM62fertjh61ijHnGOrLymmCN%2FHDwqxiVOcsbAaZQw942LRokXfG3P0vQ%3D%3D",
+                        "brand": "Dime Optics",
+                        "garment_type": "accessories",
+                        "sizes": "['56mm-17mm-145mm']"
+                    }
+                ],
+                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//81346337013568429_20250730_082220.jpg?Expires=1759027941&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=HGu98%2BgB4O1sLyKOdEmhcywbVujH74I3HQcnfdCPuJxytoKrrz42CGoQ%2BcOpEugznfxGCU%2FXKRz3HF8EmvZ3P5X7zc78C0arZ4AkYytbPohC6oj8vzQ%2B6i7a%2FqScsdsGrE%2BsVfWo0s7hnoLFccrWi0KnPrl2AenyMx%2BgN2JaM0pAXp3HqLmqGqXCVE09wLYuNYv0oEiJHs4zarWNZlkawRqEFGMCUv3sd7BfWWgO%2B36xkgcuSDrhbZinU9UZWkRslwbU91bI9q1Ivh66Zc1gQ%2BH5QE7xQkFlor%2Boe9011CFgY9yrG%2B7uhs0wWadLD04zoCX0Fdgy%2Ffxkc7HhBl%2BI3w%3D%3D"
+            },
+            {
+                "outfit_title": "Chic Stripe Denim",
+                "outfit_pinterest_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//51439620738855273_20250730_082257.jpg?Expires=1759027979&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=JyggcN59kVySVu953CMifTbPGzgGPcPSVc%2F94MlOwa88xCC43e7BMg0Vo2B8tDAxh1YWpSq47Z2wz%2B%2B74nSi61bXFlZgUsNjoVtLkGpg1pCmtY1TxM26G0w989BIhlrqkzv0rQwNBBSYhOXH0NxD0YyF5Lah8m5cj9TdSJ3RdAi74ueOjXdv2j4o81YsmTCOcp2309e0qD70G8VRbmJfIXEBqRcGoulKwTH3GuEOpdz%2FysIp1U3XuXIN3SUBqxp7UuoZLLZwBRbLMrcRjHXnGHTVce3mdWMPSLwq6rs8tPI9q1zhiDSS4quqIkdbQZrehybrU2bJWOQCKMBAdA2Pqg%3D%3D",
+                "outfit_pinterest_url": "https://pinterest.com/pin/51439620738855273",
+                "shopping_results": [
+                    {
+                        "product_id": "discovery_20250719_0023",
+                        "title": "Knee Cutting Wide Denim Pants",
+                        "source": "60%\uff08\u30b7\u30c3\u30af\u30b9\u30c6\u30a3\u30fc\u30d1\u30fc\u30bb\u30f3\u30c8\uff09",
+                        "price": "$65",
+                        "retailer": "60%\uff08\u30b7\u30c3\u30af\u30b9\u30c6\u30a3\u30fc\u30d1\u30fc\u30bb\u30f3\u30c8\uff09",
+                        "link": "https://global.sixty-percent.com/products/asclo-knee-cutting-wide-denim-pants-732",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0023_20250730_082305.jpg?Expires=1759027987&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=OmmFciPjJlxFDli2vdBf92%2Bv0zhLNYzCYzWYIPG8cMFi%2BCvZLxebYYPSQhRd3UdH480bJdzWq8z5KN0X0LAiBqrN4KxAKJ1KF6oI83Dr2hTEjNe%2Bi29byTheAAvzuxQsqgi7MVAnV3Id5%2FzZcj3Ri%2Bz%2BHvWITJI3Owga%2BmKCTnTFAC2CP2BPdROxHx4dAIyRt76s7QIeKoHsgzDFpO1Rs5gFJ9%2Fn51hzcUP%2FfGC9nP4IvGvgdysSggDm2y3MP74hLRwvlDQZTklxMKBSbDHJGCjKm6jbj7D0e00%2BXvcwbK5tua7HHPFGqhvo%2BtCravAxkmKRob3h%2BaLfqh6SrW7ZRQ%3D%3D",
+                        "brand": "ASCLO",
+                        "garment_type": "bottoms",
+                        "sizes": "[]"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0024",
+                        "title": "Black White Stripe Jacket",
+                        "source": "Poshmark",
+                        "price": "$50",
+                        "retailer": "Poshmark",
+                        "link": "https://poshmark.com/listing/AZI-jeans-jacket-black-and-white-stripe-5f74cfe847e0e4b6d40de8ba",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0024_20250730_082326.jpg?Expires=1759028007&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=IPwpAQBx1FkdCIYXlRGLjeEU%2FYyH50D6%2BaPysrFUn%2BFMfuTzuYRr6LoagxbUHo7%2BBlIzTVfszTXDFRIzM7zdFpGuXgLNrHBECOhh5jHJ9uM%2FQOOoXSpczhEDtolSg3HXcvnb%2FSSRX7SydUUTkxxJOIHrdIgQzi1belg0RBPx7TxhgZBE7MJTTG0%2Bs5oXIVwJYNm9brpqecSAD54ZPJtz1pz4vKL9E2uluvY9ikkw7A5Q0fzbdmcBuKoxfAPMY4hSC2Lq2bKhwPE%2BejLbolqpwrl51KTJt7vkaO4dSs%2BgWPJ1HCDIlP%2F7fBq0jwVwb1mkHieZhARzgUGQRmG2jptQrA%3D%3D",
+                        "brand": "AZI jeans",
+                        "garment_type": "tops",
+                        "sizes": "['L']"
+                    },
+                    {
+                        "product_id": "discovery_20250719_0025",
+                        "title": "Fancy Black Wool Trim Sweater",
+                        "source": "Etsy",
+                        "price": "$52",
+                        "retailer": "Etsy",
+                        "link": "https://www.etsy.com/listing/1210325773/fancy-acappella-sweater-womens-size-8",
+                        "img_url": "https://storage.googleapis.com/discovery_feed_data/20250730/pin_images//discovery_20250719_0025_20250730_082343.jpg?Expires=1759028024&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=Bo2%2BKWVQQmS1shCInVgSpfXFzEYp%2BN37YLK1KnucPiAvFOdshAntonI6fOsDEEJ4D1uT2xC3i48Bs8A4IlQ9CeRqjmWuL%2FoEeRtrPvF5f97ExoTYkqhji7kfa47ZOv0kWS2eQCa7gzIkV39hLQxWx%2BEAYbO9zQVb36kmkt%2BYJBT%2BWittVhYhuufufL%2BHWEZDHb3DYsjLbghGT0V8Mj%2BUXhVWJQb7Ip7uPXXq32fmplICTkFwAxSo8hlmlgSsQa%2FosmRmHhH46ZZMDGzE%2BIhoTHWT2qTxg0CZoBJ4GekZCQOFLmFLca6zVo%2FKMjc2qSZjyo5oH3Yul0a8koQfwGqCUQ%3D%3D",
+                        "brand": "Acappella",
+                        "garment_type": "tops",
+                        "sizes": "['8']"
+                    }
+                ],
+                "outfit_img_url": "https://storage.googleapis.com/discovery_feed_data/20250719/pin_images//51439620738855273_20250730_082257.jpg?Expires=1759027979&GoogleAccessId=backend-app-vertex-ai%40lookai-project0.iam.gserviceaccount.com&Signature=JyggcN59kVySVu953CMifTbPGzgGPcPSVc%2F94MlOwa88xCC43e7BMg0Vo2B8tDAxh1YWpSq47Z2wz%2B%2B74nSi61bXFlZgUsNjoVtLkGpg1pCmtY1TxM26G0w989BIhlrqkzv0rQwNBBSYhOXH0NxD0YyF5Lah8m5cj9TdSJ3RdAi74ueOjXdv2j4o81YsmTCOcp2309e0qD70G8VRbmJfIXEBqRcGoulKwTH3GuEOpdz%2FysIp1U3XuXIN3SUBqxp7UuoZLLZwBRbLMrcRjHXnGHTVce3mdWMPSLwq6rs8tPI9q1zhiDSS4quqIkdbQZrehybrU2bJWOQCKMBAdA2Pqg%3D%3D"
+            }
+        ],
+        "num_outfits": 3,
+        "header_metadata": {},
+        "sub_header_metadata": {}
+    }        
 ]
